@@ -125,6 +125,7 @@
       "container-fluid",
       "content",
       "content-browser",
+      "copy",
       "current",
       "current-theme",
       "d-block",
@@ -408,7 +409,6 @@
     "ids": [
       "1st-job-junior-intern",
       "2nd-job-chief-intern",
-      "3rd-job-gerente-general",
       "about",
       "about-me",
       "adding-the-theme",
@@ -437,7 +437,6 @@
       "experience",
       "experience-list-shortcode",
       "experience-single",
-      "experiencia-lista",
       "expérience-liste",
       "extra-home-content",
       "footer-color-selector",

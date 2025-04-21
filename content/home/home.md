@@ -15,10 +15,10 @@ draft = false
  >}}
 
 {{< platform-links >}}
-    {{< link icon="linkedin" url="https://www.linkedin.com/in/adrianmoreno/" >}}
-    {{< link icon="square-github" url="https://github.com/zetxek" >}}
+    {{< link icon="linkedin" url="https://www.linkedin.com/in/lisa-siegrist-503236122/" >}}
+    {{< link icon="square-github" url="https://github.com/siegristlk" >}}
     {{< link icon="youtube" url="#" >}}
-    {{< link icon="instagram" url="https://www.instagram.com/zetxek/" >}}
+    {{< link icon="instagram" url="https://www.instagram.com/" >}}
 
 {{< /platform-links >}}
 

@@ -1,8 +1,9 @@
-baseURL = "https://adritian-demo.vercel.app/"
-title = "Adritian Demo"
+baseURL = "https://siegristlk.github.io/meine-website/"
+title = "Lisas Website"
 languageCode = "en"
 
- 
+publishDir = "docs"
+
 [markup.goldmark.renderer]
 unsafe = true
 
@@ -67,7 +68,7 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = 'Adritian - a high performance hugo theme by Adrián Moreno'
+title = 'Lisa - eine ganz tolle Website'
 description = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
 images = ['/img/og-img.png']
 sections = [

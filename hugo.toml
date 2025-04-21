@@ -67,7 +67,7 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = 'Adritian - a high performance hugo theme by Adrián Moreno'
+title = 'Lisa - meine neue Website'
 description = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
 images = ['/img/og-img.png']
 sections = [
@@ -347,3 +347,9 @@ featured_sort_by_date = false
 
 [params.experience]
 showJobCard = true # Set to false to hide the job card
+
+publishDir = "docs"
+
+
+
+

@@ -2,144 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fr/</loc>
+    <loc>https://adritian-demo.vercel.app/fr/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://adritian-demo.vercel.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="https://adritian-demo.vercel.app/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://adritian-demo.vercel.app/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/experience/</loc>
+    <loc>https://adritian-demo.vercel.app/fr/experience/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/experience/"
+                href="https://adritian-demo.vercel.app/es/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/experience/"
+                href="https://adritian-demo.vercel.app/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/experience/"
+                href="https://adritian-demo.vercel.app/fr/experience/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/experience/job-3/</loc>
+    <loc>https://adritian-demo.vercel.app/fr/experience/job-3/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/experience/job-3/"
+                href="https://adritian-demo.vercel.app/es/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/experience/job-3/"
+                href="https://adritian-demo.vercel.app/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/experience/job-3/"
+                href="https://adritian-demo.vercel.app/fr/experience/job-3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/experience/job-2/</loc>
+    <loc>https://adritian-demo.vercel.app/fr/experience/job-2/</loc>
     <lastmod>2023-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/experience/job-2/"
+                href="https://adritian-demo.vercel.app/experience/job-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/experience/job-2/"
+                href="https://adritian-demo.vercel.app/es/experience/job-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/experience/job-2/"
+                href="https://adritian-demo.vercel.app/fr/experience/job-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/home/home/</loc>
+    <loc>https://adritian-demo.vercel.app/fr/home/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/home/home/"
+                href="https://adritian-demo.vercel.app/home/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/home/home/"
+                href="https://adritian-demo.vercel.app/es/home/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/home/home/"
+                href="https://adritian-demo.vercel.app/fr/home/home/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/categories/</loc>
+    <loc>https://adritian-demo.vercel.app/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://adritian-demo.vercel.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/"
+                href="https://adritian-demo.vercel.app/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://adritian-demo.vercel.app/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/home/</loc>
+    <loc>https://adritian-demo.vercel.app/fr/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/home/"
+                href="https://adritian-demo.vercel.app/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/home/"
+                href="https://adritian-demo.vercel.app/es/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/home/"
+                href="https://adritian-demo.vercel.app/fr/home/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/</loc>
+    <loc>https://adritian-demo.vercel.app/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://adritian-demo.vercel.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/"
+                href="https://adritian-demo.vercel.app/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://adritian-demo.vercel.app/fr/tags/"
                 />
   </url>
 </urlset>

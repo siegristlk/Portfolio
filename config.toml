@@ -3,6 +3,9 @@
 extended = true
 [[module.mounts]]
 
+theme = "adritian-free-hugo-theme"
+
+
 # Workaround for https://github.com/gohugoio/hugo/issues/6945
 # source = "assets/scss/bootstrap/_vendor"
 # target = "assets/scss/bootstrap/vendor"

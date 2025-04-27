@@ -1,0 +1,8 @@
+baseURL = "https://siegristlk.github.io/Portfolio/"
+languageCode = "en-us"
+title = "Mein Portfolio"
+theme = "adritian-free-hugo-theme"
+publishDir = "docs"   # Hier wichtig für GitHub Pages!
+
+[params]
+  # Deine Einstellungen fürs Theme

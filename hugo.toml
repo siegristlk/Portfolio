@@ -1,6 +1,9 @@
-baseURL = "https://github.com/siegristlk/Portfolio.git/"
+baseURL = "hhttps://siegristlk.github.io/Portfolio/"
 title = "Lisas Portfolio"
 languageCode = "en"
+theme = "adritian-free-hugo-theme"
+publishDir = "docs"   # Hier wichtig für GitHub Pages!
+
 
  
 [markup.goldmark.renderer]

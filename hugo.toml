@@ -138,48 +138,26 @@ weight = 0
 name = "Home"
 URL = "/"
 weight = 1
+
 [[languages.en.menus.header]]
 name = 'About'
 URL = '#about'
 weight = 2
-[[languages.en.menus.header]]
-name = 'Portfolio'
-URL = '#portfolio'
-weight = 3
-#  [[languages.en.menus.header]]
-#  name = "Experience"
-#  URL = "#experience"
-#  weight = 4
 
 [[languages.en.menus.header]]
-name = "How to"
+name = "Experience"
+URL = "#experience"
+weight = 3
+
+[[languages.en.menus.header]]
+name = "Blog"
 URL = "/blog"
-weight = 5
+weight = 4
 
 [[languages.en.menus.header]]
 name = "Contact"
 URL = "#contact"
 weight = 6
-
-[[languages.en.menus.footer]]
-name = "Home"
-URL = "/"
-weight = 1
-
-[[languages.en.menus.footer]]
-name = "About"
-URL = "#about"
-weight = 2
-
-[[languages.en.menus.header]]
-name = "Blog"
-URL = "/blog"
-weight = 3
-
-[[languages.en.menus.footer]]
-name = "Contact"
-URL = "#contact"
-weight = 4
 
 
 [languages.es]

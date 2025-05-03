@@ -171,9 +171,9 @@ name = "About"
 URL = "#about"
 weight = 2
 
-[[languages.en.menus.footer]]
-name = "Portfolio"
-URL = "#portfolio"
+[[languages.en.menus.header]]
+name = "Blog"
+URL = "/blog"
 weight = 3
 
 [[languages.en.menus.footer]]

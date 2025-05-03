@@ -17,7 +17,7 @@ draft = false
  >}}
 
     {{< platform-links >}}
-        {{< link icon="linkedin" url="https://www.linkedin.com/in/lisa-siegrist-503236122/" >}}
+        {{< link icon="linkedin" url="https://www.linkedin.com/in/lisa-siegrist/" >}}
         {{< link icon="square-github" url="https://github.com/siegristlk" >}}
         {{< link icon="instagram" url="https://www.instagram.com/lisasiegrist" >}}
 
@@ -28,8 +28,8 @@ draft = false
 {{< about-section
     title="Who am I?"
     content="As a learning designer with a curious mind and a feel for the bigger picture, I combine pedagogical insight with a passion for digital design. My Bachelor's degree in Social and Organisational Education gave me a deep understanding of how people learn – not just as individuals, but within social and organisational contexts. During my Master’s in Educational Technology, I expanded on this foundation, exploring digital tools and user-centred research to design learning that is both effective and meaningful.<br/>I enjoy working at the intersection of learners, educators and technology. Using methods like interviews and storyboards, I dive deep into understanding needs – and turn insights into concrete, practical solutions. What shapes my approach to digital learning is not only my academic background, but also my sense for when structure supports learning and when freedom enables it. I think in systems, design with empathy, and develop learning experiences that not only function – but feel purposeful, engaging, and right for those involved."
-    imgSrc="images/about/IMG_0925.JPG"
-    imgScale="0.25"
+    imgSrc="images/about/FotoLisa.png"
+    imgScale="0.5"
  >}}
 
 {{< education-list
@@ -37,9 +37,9 @@ draft = false
 
 {{< experience-section
     title="Experience"
-    intro_title=""
+    intro_title=" "
     intro_description="With a strong foundation in education, digital design, and user-centred research, I’ve contributed to projects ranging from interactive learning environments to AI-supported feedback systems. Whether in small creative teams or larger organisations, I focus on turning complex educational challenges into clear, thoughtful solutions that make learning more accessible, engaging, and meaningful." 
-    button1_url="https://www.linkedin.com/in/lisa-siegrist-503236122/"
+    button1_url="https://www.linkedin.com/in/lisa-siegrist/"
     button1_text="See in LinkedIn"
     button1_icon="icon-linkedin"
     button2_url="/files/CV_LisaSiegrist_eng.pdf"

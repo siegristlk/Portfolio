@@ -42,10 +42,8 @@ draft = false
     button1_url="https://www.linkedin.com/in/lisa-siegrist/"
     button1_text="See in LinkedIn"
     button1_icon="icon-linkedin"
-    button2_url="/files/CV_LisaSiegrist_de.pdf"
+    button2_url="static/files/CV_LisaSiegrist_de.pdf"
     button2_text="Download résumé"
-    button3_text="All experience"
-    button3_url="/experience"
 >}}
 
 

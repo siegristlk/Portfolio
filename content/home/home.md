@@ -11,7 +11,7 @@ draft = false
     buttonText="Contact me" 
     button_icon="icon-email"
     description="Based in Basel 🇨🇭, I currently work at the Experio School Lab of F. Hoffmann-La Roche, where I design and run practical STEM workshops, develop new educational programmes and work at the interface between raising interest and didactically conveying learning content. I am driven by the idea of making learning tangible, relevant and sustainable.<br/>My background combines Social and Organisational Pedagogy with a Masters in Educational Technology - a combination that allows me to think about educational spaces holistically: from the perspective of the learner, the instructor and the organisation. Whether digital museums, interactive learning units or research into the role of AI in the classroom, my projects operate at the intersection of technology, pedagogy, didactics and practice.<br/>With a flair for people, an eye for detail and a love of research, I bring interdisciplinary thinking to every project.<br/>What always comes first: <strong>Education should empower, connect and create opportunities</strong>."
-    imgSrc="images/showcase/Bewerbungsfoto04_2025.jpg"
+    imgSrc="images/showcase/Bewerbungsfoto.png"
     imgScale="0.25"
  >}}
 

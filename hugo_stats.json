@@ -126,7 +126,6 @@
       "container-fluid",
       "content",
       "content-browser",
-      "copy",
       "current",
       "current-theme",
       "d-block",
@@ -319,7 +318,6 @@
       "page-job-1",
       "page-job-2",
       "page-job-3",
-      "page-job-3.es",
       "page-other-installation-methods",
       "page-radity-finance-uikit",
       "page-robo-advisor",
@@ -411,14 +409,9 @@
       "wordcount"
     ],
     "ids": [
-      "1st-job-junior-intern",
-      "1st-job-working-student",
-      "2nd-job-chief-intern",
-      "3rd-job-cio",
       "about",
       "about-me",
       "adding-the-theme",
-      "arreglando-el-mundo-un-byte-a-la-vez",
       "basic-syntax",
       "bd-theme-footer",
       "bd-theme-header",
@@ -494,8 +487,7 @@
       "title",
       "traditional-installation-as-git-submodule",
       "unordered",
-      "wordcount",
-      "working-student-in-production-and-assembly"
+      "wordcount"
     ]
   }
 }

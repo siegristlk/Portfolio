@@ -40,7 +40,7 @@ draft = false
 {{< experience-section
     title="My job experience (title)"
     intro_title="Intro (intro_title)"
-    intro_description="Description (intro_description).<br>You can use HTML,with <strong>strong</strong> formatting, or lists <ul><li>one</li><li>two</li></ul>" 
+    intro_description="Ich weiss noch nicht was ich hier schreiben soll, aber das ist ein Test. Description (intro_description).<br>You can use HTML,with <strong>strong</strong> formatting, or lists <ul><li>one</li><li>two</li></ul>" 
     button1_url="https://example.com"
     button1_text="Visit Example"
     button1_icon="icon-globe"

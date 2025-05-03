@@ -6,6 +6,7 @@ jobTitle: "Research Assistant"
 company: "Saarland University, Technology-Enhanced Learning"
 location: "Saarbrücken, Germany"
 duration: "2024"
+companyLogo: "images/experience/Logo_UDS.png"
 
 ---
 ### Exploring learner needs - deepening educational research experience

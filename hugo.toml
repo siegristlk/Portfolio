@@ -72,9 +72,8 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = 'Lisa Siegrist'
-description = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
-images = ['/img/og-img.png']
+title = 'Lisa Siegrist | Digital Learning Developer & Instructional Designer'
+description = 'Personal Site for Lisa Siegrist'
 sections = [
   "showcase",
   "about",
@@ -104,7 +103,7 @@ vercelAnalytics = false
 # and add the tracking code (UA-something for analytics, GTM-something for tag manager)
 [params.analytics.googleAnalytics]
 code = "UA-XXXXX-Y"
-enabled = false
+enabled = true
 [params.analytics.googleTagManager]
 code = "GTM-XXXXX"
 enabled = false

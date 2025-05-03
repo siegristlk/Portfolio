@@ -1,10 +1,10 @@
 ---
 date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defaults to "today"
-title: 'High School Marienschule'
+title: 'Saarland University'
 draft: false # set to "true" if you want to hide the content 
 
-university: "High School Marienschule Saarbrücken"
-year: "2008-2016"
-degree: "university Entrance Qualification"
+university: "Saarland University"
+year: "2022-2025"
+degree: "Master of Science (M.Sc.), Educational Technology"
 
 ---

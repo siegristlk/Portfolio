@@ -16,6 +16,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.147.0'  # Deine Hugo-Version, falls anders anpassen!
+          extended: true
 
       - name: Build site
         run: hugo --minify

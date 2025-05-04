@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Demo Blog on</title><link>http://localhost:1313/meine-website/blog/</link><description>Recent content in Demo Blog on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 27 Aug 2023 14:38:33 +0200</lastBuildDate><atom:link href="http://localhost:1313/meine-website/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>From Crisi to Confidence: An Intro intro Replication Crisis and Open Science</title><link>http://localhost:1313/meine-website/blog/replicationcrisis/</link><pubDate>Sun, 27 Aug 2023 14:38:33 +0200</pubDate><guid>http://localhost:1313/meine-website/blog/replicationcrisis/</guid><description>&lt;h3 id="interactive-learning-session-on-the-replication-crisis">Interactive Learning Session on the Replication Crisis&lt;/h3>
-&lt;p>&lt;img src="http://localhost:1313/meine-website/img/blog/feature-sample-3.png" alt="Example image">&lt;/p>
-&lt;p>Developed in a group project for the Instructional Design II course in the Master&amp;rsquo;s program Educational Technology, this learning unit introduces learners to the replication crisis in empirical research using &lt;em>Articulate Storyline 360&lt;/em>. The unit explores why the replicability of scientific findings is crucial for the relevance and generalizability of results (Open Science Collaboration, 2015), and emphasizes how research decisions impact outcome quality (Diener &amp;amp; Biswas-Diener, 2023).&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo Blog on </title>
+    <link>http://localhost:1313/meine-website/blog/</link>
+    <description>Recent content in Demo Blog on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Aug 2023 14:38:33 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/meine-website/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Crisi to Confidence: An Intro intro Replication Crisis and Open Science</title>
+      <link>http://localhost:1313/meine-website/blog/replicationcrisis/</link>
+      <pubDate>Sun, 27 Aug 2023 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/meine-website/blog/replicationcrisis/</guid>
+      <description>&lt;h3 id=&#34;interactive-learning-session-on-the-replication-crisis&#34;&gt;Interactive Learning Session on the Replication Crisis&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/meine-website/img/blog/feature-sample-3.png&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Developed in a group project for the Instructional Design II course in the Master&amp;rsquo;s program Educational Technology, this learning unit introduces learners to the replication crisis in empirical research using &lt;em&gt;Articulate Storyline 360&lt;/em&gt;. The unit explores why the replicability of scientific findings is crucial for the relevance and generalizability of results (Open Science Collaboration, 2015), and emphasizes how research decisions impact outcome quality (Diener &amp;amp; Biswas-Diener, 2023).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

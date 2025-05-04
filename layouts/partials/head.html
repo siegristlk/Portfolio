@@ -71,7 +71,6 @@
   </noscript>
 {{- end }}
 {{- range .Site.Params.plugins.scss }}
-  {{/* no external scss processing - as they need to be processed by the theme */}}
   {{- $style := resources.Get .URL | resources.ToCSS }}
   {{- if hugo.IsProduction }}
     {{- $style = $style | resources.Minify | resources.Fingerprint }}
@@ -82,6 +81,7 @@
     {{ if hugo.IsProduction }}
       integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous"
     {{ end }} />
+{{- end }}
 
 
 <!-- printed only it not disabled -->

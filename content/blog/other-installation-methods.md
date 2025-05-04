@@ -17,7 +17,7 @@ If you prefer to manually set your site, you need to replace the contents of you
 <summary>hugo.toml configuration</summary>
 
 ```
-baseURL = "<your website url>"
+baseURL = "https://siegristlk.github.io/meine-website/"
 languageCode = "en"
 
 [module]

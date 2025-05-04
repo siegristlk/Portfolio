@@ -58,7 +58,7 @@ Once you have a site created, you can add the theme to your site by following th
 <summary>hugo.toml configuration</summary>
 
 ```
-baseURL = "<your website url>"
+baseURL = "https://siegristlk.github.io/meine-website/"
 languageCode = "en"
 
 [module]

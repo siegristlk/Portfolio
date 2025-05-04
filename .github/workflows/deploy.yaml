@@ -32,15 +32,12 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }} # GitHub Token zur Authentifizierung
           
 
-      - name: Deploy to docs directory
-        run: |
-          rm -rf docs/*
-          cp -r public/* docs/
-          touch docs/.nojekyll
-
-      - name: Commit and push changes
+      - name: Build with Hugo
+        run: hugo -d docs
+  
+      - name: Commit changes to docs
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add docs/
+          git add docs
           git diff --cached --quiet || (git commit -m "Automated deployment to docs directory" && git push)

@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fr/</loc>
+    <loc>//localhost:1313/fr/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="//localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/"
+                href="//localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="//localhost:1313/fr/"
                 />
   </url><url>
-    <loc>/fr/experience/</loc>
+    <loc>//localhost:1313/fr/experience/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/experience/"
+                href="//localhost:1313/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/experience/"
+                href="//localhost:1313/fr/experience/"
                 />
   </url><url>
-    <loc>/fr/experience/job-3/</loc>
+    <loc>//localhost:1313/fr/experience/job-3/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/experience/job-3/"
+                href="//localhost:1313/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/experience/job-3/"
+                href="//localhost:1313/fr/experience/job-3/"
                 />
   </url><url>
-    <loc>/fr/experience/job-2/</loc>
+    <loc>//localhost:1313/fr/experience/job-2/</loc>
     <lastmod>2023-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/experience/job-2/"
+                href="//localhost:1313/experience/job-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/experience/job-2/"
+                href="//localhost:1313/fr/experience/job-2/"
                 />
   </url><url>
-    <loc>/fr/home/home/</loc>
+    <loc>//localhost:1313/fr/home/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/home/home/"
+                href="//localhost:1313/home/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/home/home/"
+                href="//localhost:1313/fr/home/home/"
                 />
   </url><url>
-    <loc>/fr/categories/</loc>
+    <loc>//localhost:1313/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="//localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="//localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="//localhost:1313/fr/categories/"
                 />
   </url><url>
-    <loc>/fr/home/</loc>
+    <loc>//localhost:1313/fr/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/home/"
+                href="//localhost:1313/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/home/"
+                href="//localhost:1313/fr/home/"
                 />
   </url><url>
-    <loc>/fr/tags/</loc>
+    <loc>//localhost:1313/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="//localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="//localhost:1313/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="//localhost:1313/fr/tags/"
                 />
   </url>
 </urlset>

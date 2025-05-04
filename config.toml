@@ -10,10 +10,6 @@ extended = true
 source = "assets"
 target = "assets"
 
-[params.plugins]
-  [[params.plugins.css]]
-    Sass = "scss/books.scss"
-
 
 ## Commented as per https://github.com/zetxek/adritian-free-hugo-theme/discussions/158#discussioncomment-11916561
 # [[module.imports]]
@@ -321,6 +317,8 @@ URL = "css/adritian-icons.css"
 ## Print css
 [[params.plugins.css]]
 URL = "css/bootstrap-print.css"
+[[params.plugins.css]]
+    Sass = "scss/books.scss"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -335,6 +333,8 @@ URL = "js/library/fontfaceobserver.js"
 URL = "scss/adritian.scss"
 [[params.plugins.scss]]
 URL = "scss/books.scss"
+
+  
 
 # theme/color style 
 [params.colorTheme]

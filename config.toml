@@ -11,7 +11,9 @@ source = "assets"
 target = "assets"
 
 [params]
-  scss = "assets/scss/books.scss"
+    plugins = [
+    {scss = "assets/scss/books.scss"}
+  ]
 
 ## Commented as per https://github.com/zetxek/adritian-free-hugo-theme/discussions/158#discussioncomment-11916561
 # [[module.imports]]

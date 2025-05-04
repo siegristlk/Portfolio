@@ -75,7 +75,7 @@
   {{- $scss := resources.Get .URL }}
   {{- $style := false }}
   {{- if $scss }}
-    {{- $style = $scss | css.Sass }}
+    {{- $style = $scss | resources.Sass }}
   {{- else }}
     {{- warnf "SCSS file not found: %s" .URL }}
   {{- end }}

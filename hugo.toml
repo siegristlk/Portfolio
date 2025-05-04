@@ -11,21 +11,12 @@ publishDir = "docs"
 [markup.goldmark.renderer]
 unsafe = true
 
-# Exclude footer section from generating list pages (index.html and index.xml)
-[outputs]
-  page = ["HTML"]
-  home = ["HTML", "RSS", "JSON"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  term = ["HTML", "RSS"]
-  footer = []
+_merge = "deep"
 
-# Explicitly prevent the footer section from generating any output
-[outputFormats.footerSection]
-  # Empty configuration to prevent any output
-
-# Specifically disable generation of these kinds for the footer content
-disableKinds = ["footerSection", "RSS"]
+[module]
+[module.hugoVersion]
+# We use hugo.Deps to list dependencies, which was added in Hugo 0.92.0
+min = "0.92.0"
 
 [module]
 [[module.imports]]
@@ -74,16 +65,7 @@ target = "assets/css/bootstrap-print.css"
 [params]
 title = 'Lisa Siegrist | Digital Learning Developer & Instructional Designer'
 description = 'Personal Site for Lisa Siegrist'
-sections = [
-  "showcase",
-  "about",
-  "education",
-  "experience",
-  "client-and-work",
-  "testimonial",
-  "contact",
-  "newsletter",
-]
+
 # If you want to display an image logo in the header, you can add it here
 # logo = '/img/hugo.svg'
 
@@ -327,7 +309,8 @@ URL = "js/library/fontfaceobserver.js"
 # SCSS Plugins
 [[params.plugins.scss]]
 URL = "scss/adritian.scss"
-
+[[params.plugins.scss]]
+URL = "scss/books.scss"
 
 # theme/color style 
 [params.colorTheme]

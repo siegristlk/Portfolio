@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://siegristlk.github.io/meine-website/fr/</loc>
+    <loc>/fr/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/"
+                href="/fr/"
                 />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/fr/experience/</loc>
+    <loc>/fr/experience/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/experience/"
+                href="/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/experience/"
+                href="/fr/experience/"
                 />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/fr/experience/job-3/</loc>
+    <loc>/fr/experience/job-3/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/experience/job-3/"
+                href="/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/experience/job-3/"
+                href="/fr/experience/job-3/"
                 />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/fr/experience/job-2/</loc>
+    <loc>/fr/experience/job-2/</loc>
     <lastmod>2023-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/experience/job-2/"
+                href="/experience/job-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/experience/job-2/"
+                href="/fr/experience/job-2/"
                 />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/fr/home/home/</loc>
+    <loc>/fr/home/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/home/home/"
+                href="/home/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/home/home/"
+                href="/fr/home/home/"
                 />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/fr/categories/</loc>
+    <loc>/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/categories/"
+                href="/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/categories/"
+                href="/fr/categories/"
                 />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/fr/home/</loc>
+    <loc>/fr/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/home/"
+                href="/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/home/"
+                href="/fr/home/"
                 />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/fr/tags/</loc>
+    <loc>/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/tags/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/tags/"
+                href="/fr/tags/"
                 />
   </url>
 </urlset>

@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://siegristlk.github.io/meine-website/de/</loc>
+    <loc>/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/"
+                href="/de/"
                 />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/de/categories/</loc>
+    <loc>/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/categories/"
+                href="/de/categories/"
                 />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/de/tags/</loc>
+    <loc>/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/tags/"
+                href="/de/tags/"
                 />
   </url>
 </urlset>

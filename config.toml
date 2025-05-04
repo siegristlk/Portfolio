@@ -10,10 +10,10 @@ extended = true
 source = "assets"
 target = "assets"
 
-[params]
-    plugins = [
-    {scss = "assets/scss/books.scss"}
-  ]
+[params.plugins]
+  [[params.plugins.css]]
+    Sass = "scss/books.scss"
+
 
 ## Commented as per https://github.com/zetxek/adritian-free-hugo-theme/discussions/158#discussioncomment-11916561
 # [[module.imports]]

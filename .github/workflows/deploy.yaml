@@ -43,5 +43,4 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add docs/
-          git commit -m "Automated deployment to docs directory"
-          git push
+          git diff --cached --quiet || (git commit -m "Automated deployment to docs directory" && git push)

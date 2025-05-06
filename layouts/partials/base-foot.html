@@ -10,21 +10,11 @@
       console.error(e);
     }
   });
+</script>
 <script defer src='{{ "js/rad-animations.js" | absURL }}'></script>
 <script defer src='{{ "js/library/smooth-scroll.polyfills.min.js" | absURL }}'></script>
-{{ $sticky := .Site.Resources.Match "js/sticky-header.js" | first | resources.Minify }}
-<script defer src="{{ $sticky.Permalink }}"></script>
-<script defer src='{{ $sticky.Permalink }}'></script>
+<script defer src='{{ "js/sticky-header.js" | absURL }}'></script>
 <script defer src='{{ "js/smooth-scroll-init.js" | absURL }}'></script>
-
-// temporary
-{{ $sticky := .Site.Resources.Match "js/sticky-header.js" }}
-{{ if $sticky }}
-  <script>console.log("Sticky script found");</script>
-{{ else }}
-  <script>console.warn("Sticky script NOT found!");</script>
-{{ end }}
-
 
 {{- $bootstrapJs := resources.Get "js/vendor/bootstrap.bundle.min.js" | fingerprint | resources.Copy "/assets/js/vendor/bootstrap.bundle.min.js" }}
 <script defer src="{{ $bootstrapJs.RelPermalink }}"></script>

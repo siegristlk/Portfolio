@@ -2,19 +2,19 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://siegristik.github.io:1313/meine-website/en/sitemap.xml</loc>
+    <loc>/en/sitemap.xml</loc>
     
       <lastmod>2025-02-28T08:05:05+01:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://siegristik.github.io:1313/meine-website/de/sitemap.xml</loc>
+    <loc>/de/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://siegristik.github.io:1313/meine-website/fr/sitemap.xml</loc>
+    <loc>/fr/sitemap.xml</loc>
     
       <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     

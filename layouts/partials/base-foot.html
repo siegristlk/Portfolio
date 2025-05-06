@@ -10,11 +10,12 @@
       console.error(e);
     }
   });
-</script>
 <script defer src='{{ "js/rad-animations.js" | absURL }}'></script>
 <script defer src='{{ "js/library/smooth-scroll.polyfills.min.js" | absURL }}'></script>
-<script defer src='{{ "js/sticky-header.js" | absURL }}'></script>
+{{ $sticky := resources.Match "js/sticky-header.js" | first | resources.Minify }}
+<script defer src='{{ $sticky.Permalink }}'></script>
 <script defer src='{{ "js/smooth-scroll-init.js" | absURL }}'></script>
+
 
 {{- $bootstrapJs := resources.Get "js/vendor/bootstrap.bundle.min.js" | fingerprint | resources.Copy "/assets/js/vendor/bootstrap.bundle.min.js" }}
 <script defer src="{{ $bootstrapJs.RelPermalink }}"></script>

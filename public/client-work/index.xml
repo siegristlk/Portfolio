@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Client-Works on </title>
-    <link>https://siegristik.github.io:1313/meine-website/client-work/</link>
+    <link>/client-work/</link>
     <description>Recent content in Client-Works on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Aug 2024 10:23:39 +0200</lastBuildDate>
-    <atom:link href="https://siegristik.github.io:1313/meine-website/client-work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/client-work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ztos</title>
-      <link>https://siegristik.github.io:1313/meine-website/client-work/ztos/</link>
+      <link>/client-work/ztos/</link>
       <pubDate>Sun, 25 Aug 2024 10:23:39 +0200</pubDate>
-      <guid>https://siegristik.github.io:1313/meine-website/client-work/ztos/</guid>
+      <guid>/client-work/ztos/</guid>
       <description></description>
     </item>
     <item>
       <title>Zoo</title>
-      <link>https://siegristik.github.io:1313/meine-website/client-work/zoo/</link>
+      <link>/client-work/zoo/</link>
       <pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate>
-      <guid>https://siegristik.github.io:1313/meine-website/client-work/zoo/</guid>
+      <guid>/client-work/zoo/</guid>
       <description></description>
     </item>
     <item>
       <title>Kanba</title>
-      <link>https://siegristik.github.io:1313/meine-website/client-work/kanba/</link>
+      <link>/client-work/kanba/</link>
       <pubDate>Sun, 25 Aug 2024 10:22:34 +0200</pubDate>
-      <guid>https://siegristik.github.io:1313/meine-website/client-work/kanba/</guid>
+      <guid>/client-work/kanba/</guid>
       <description></description>
     </item>
     <item>
       <title>Goldline</title>
-      <link>https://siegristik.github.io:1313/meine-website/client-work/goldline/</link>
+      <link>/client-work/goldline/</link>
       <pubDate>Sun, 25 Aug 2024 10:21:48 +0200</pubDate>
-      <guid>https://siegristik.github.io:1313/meine-website/client-work/goldline/</guid>
+      <guid>/client-work/goldline/</guid>
       <description></description>
     </item>
     <item>
       <title>Earth 2.0</title>
-      <link>https://siegristik.github.io:1313/meine-website/client-work/earth2.0/</link>
+      <link>/client-work/earth2.0/</link>
       <pubDate>Sun, 25 Aug 2024 10:17:12 +0200</pubDate>
-      <guid>https://siegristik.github.io:1313/meine-website/client-work/earth2.0/</guid>
+      <guid>/client-work/earth2.0/</guid>
       <description></description>
     </item>
     <item>
       <title>Asgardia</title>
-      <link>https://siegristik.github.io:1313/meine-website/client-work/asgardia/</link>
+      <link>/client-work/asgardia/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://siegristik.github.io:1313/meine-website/client-work/asgardia/</guid>
+      <guid>/client-work/asgardia/</guid>
       <description></description>
     </item>
   </channel>

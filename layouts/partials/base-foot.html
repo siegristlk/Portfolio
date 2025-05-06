@@ -13,7 +13,10 @@
 </script>
 <script defer src='{{ "js/rad-animations.js" | absURL }}'></script>
 <script defer src='{{ "js/library/smooth-scroll.polyfills.min.js" | absURL }}'></script>
-<script defer src='{{ "js/sticky-header.js" | absURL }}'></script>
+{{ $sticky := resources.Get "js/sticky-header.js" | resources.ExecuteAsTemplate "sticky-header.js" . | resources.Minify }}
+<script defer src="{{ $sticky.Permalink }}"></script>
+<script defer src='{{ "js/library/smooth-scroll.polyfills.min.js" | absURL }}'></script>
+
 <script defer src='{{ "js/smooth-scroll-init.js" | absURL }}'></script>
 
 {{- $bootstrapJs := resources.Get "js/vendor/bootstrap.bundle.min.js" | fingerprint | resources.Copy "/assets/js/vendor/bootstrap.bundle.min.js" }}

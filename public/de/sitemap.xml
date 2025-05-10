@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://siegristlk.github.io/meine-website/de/</loc>
+    <loc>http://localhost:1313/meine-website/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/"
+                href="http://localhost:1313/meine-website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/"
+                href="http://localhost:1313/meine-website/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/"
+                href="http://localhost:1313/meine-website/de/"
                 />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/de/categories/</loc>
+    <loc>http://localhost:1313/meine-website/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/categories/"
+                href="http://localhost:1313/meine-website/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/categories/"
+                href="http://localhost:1313/meine-website/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/categories/"
+                href="http://localhost:1313/meine-website/de/categories/"
                 />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/de/tags/</loc>
+    <loc>http://localhost:1313/meine-website/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://siegristlk.github.io/meine-website/tags/"
+                href="http://localhost:1313/meine-website/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://siegristlk.github.io/meine-website/fr/tags/"
+                href="http://localhost:1313/meine-website/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/tags/"
+                href="http://localhost:1313/meine-website/de/tags/"
                 />
   </url>
 </urlset>

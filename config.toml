@@ -1,3 +1,8 @@
+baseURL = "https://siegristlk.github.io/meine-website/"
+title = "Lisa Siegrist"
+languageCode = "en"
+
+
 [module]
 [module.hugoVersion]
 extended = true
@@ -16,9 +21,6 @@ extended = true
 # [[module.imports]]
 # path = "github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2"
 
-baseURL = "https://siegristlk.github.io/"
-title = "Lisa Siegrist"
-languageCode = "en"
 
 publishDir = "docs"
 

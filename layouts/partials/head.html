@@ -6,6 +6,7 @@
 {{- if .Site.Params.analytics.googleTagManager.enabled }}
   <link rel="preconnect" href="https://www.googletagmanager.com" />
 {{- end }}
+
 {{- if .Site.Params.analytics.googleAnalytics.enabled }}
   {{- if .Site.Params.analytics.googleAnalytics.code }}
     <!-- Google tag (gtag.js) -->
@@ -16,7 +17,7 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', '{{ .Site.Params.analytics.googleAnalytics.code}}');
+      gtag('config', '{{ .Site.Params.analytics.googleAnalytics.code }}');
     </script>
   {{- end }}
 {{- end }}
@@ -44,8 +45,6 @@
   {{- else }}
     {{- with resources.Get .URL }}
       {{- $cssResources = $cssResources | append . }}
-    {{- else }}
-      {{ warnf "CSS resource not found: %s" .URL }}
     {{- end }}
   {{- end }}
 {{- end }}
@@ -58,7 +57,7 @@
   {{- end }}
   <link
     rel="preload"
-    href="{{ $css.RelPermalink | absURL }}"
+    href="{{ $css.RelPermalink }}"
     as="style"
     onload="this.onload=null;this.rel='stylesheet'"
     {{ if hugo.IsProduction }}
@@ -67,7 +66,7 @@
   <noscript>
     <link
       rel="stylesheet"
-      href="{{ $css.RelPermalink | absURL }}"
+      href="{{ $css.RelPermalink }}"
       {{ if hugo.IsProduction }}
         integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous"
       {{ end }} />
@@ -79,16 +78,18 @@
   {{- $style := false }}
   {{- if $scss }}
     {{- $style = $scss | css.Sass }}
-    {{- if hugo.IsProduction }}
-      {{- $style = $style | resources.Minify | resources.Fingerprint }}
-    {{- end }}
-    <link
-      rel="stylesheet"
-      href="{{ $style.Permalink }}"
-      integrity="{{ $style.Data.Integrity }}"
-      crossorigin="anonymous" />
   {{- else }}
     {{- warnf "SCSS file not found: %s" .URL }}
+  {{- end }}
+  {{- if hugo.IsProduction }}
+    {{- $style = $scss | css.Sass | resources.Minify | resources.Fingerprint }}
+  {{- end }}
+  {{- if $style }}
+    <link
+      rel="stylesheet"
+      href="{{ $style.RelPermalink }}"
+      integrity="{{ $style.Data.Integrity }}"
+      crossorigin="anonymous" />
   {{- end }}
 {{- end }}
 
@@ -97,18 +98,22 @@
   {{- if hugo.IsProduction }}
     {{- $colorModesScript = $colorModesScript | resources.Minify | resources.Fingerprint }}
   {{- end }}
-  <script defer src="{{ $colorModesScript.Permalink }}"></script>
+  <script defer src="{{ $colorModesScript.RelPermalink }}"></script>
+{{- else }}
+  <!-- disabled color theme selector -->
 {{- end }}
 
 {{- if .Site.Params.analytics.google_tag_manager.enabled }}
+  <!-- Google tag (gtag.js), google analytics -->
   <script
     defer
     src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.analytics.google_tag_manager.code }}"></script>
   {{- $analytics := resources.Get "js/gtag.js" | resources.Minify }}
-  <script defer src="{{ $analytics.Permalink }}"></script>
+  <script defer src="{{ $analytics.RelPermalink }}"></script>
+{{- else }}
+  <!-- no google tag displayed -->
 {{- end }}
 
-<!-- Wichtig: relURL oder absURL für statische Skripte -->
-<script src="{{ "js/library/lozad.min.js" | absURL }}"></script>
+<script src="{{ "js/library/lozad.min.js" | relURL }}"></script>
 
 {{ template "_internal/opengraph.html" . }}

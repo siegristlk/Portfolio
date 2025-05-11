@@ -39,6 +39,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://siegristlk.github.io/meine-website/fr/experience/"
                 />

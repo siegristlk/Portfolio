@@ -39,6 +39,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://siegristlk.github.io/meine-website/experience/"
                 />
@@ -146,8 +151,8 @@
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://siegristlk.github.io/meine-website/es/blog/"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"

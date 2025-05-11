@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://siegristlk.github.io/meine-website/de/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,6 +23,19 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://siegristlk.github.io/meine-website/de/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/blog/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/blog/"
                 />
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/categories/</loc>
@@ -44,6 +58,28 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://siegristlk.github.io/meine-website/de/categories/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/experience/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://siegristlk.github.io/meine-website/es/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://siegristlk.github.io/meine-website/fr/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/experience/"
                 />
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/tags/</loc>

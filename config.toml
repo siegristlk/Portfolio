@@ -215,7 +215,7 @@ weight = 3
 
 [[languages.de.menus.header]]
 name = "Erfahrungen"
-URL = "/de/#experience"
+URL = "/de/experience"
 weight = 4
 
 [[languages.de.menus.header]]

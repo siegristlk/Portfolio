@@ -157,7 +157,7 @@ URL = "#contact"
 weight = 5
 
 [languages.fr]
-disabled = false
+disabled = true
 languageCode = 'fr'
 languageDirection = 'ltr'
 languageName = 'Français'

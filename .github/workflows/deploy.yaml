@@ -27,7 +27,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_branch: gh-pages  # Der Branch, auf dem deine Seite gehostet wird
+          publish_branch: gh-pages  # Der Branch, auf dem deine Seite gehostet wird
           publish_dir: ./public # Das Verzeichnis, das Hugo nach dem Build verwendet
           github_token: ${{ secrets.GITHUB_TOKEN }} # GitHub Token zur Authentifizierung
           

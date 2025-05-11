@@ -3,10 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://siegristlk.github.io/meine-website/en/</loc>
+    <lastmod>2024-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/"
+                href="https://siegristlk.github.io/meine-website/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -19,11 +20,141 @@
                 href="https://siegristlk.github.io/meine-website/en/"
                 />
   </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/experience/</loc>
+    <lastmod>2024-12-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/experience/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/experience/job-3/</loc>
+    <lastmod>2024-12-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/experience/job-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/experience/job-3/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/education/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/education/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/education/high-school/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/education/high-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/education/high-school/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/education/university-ma/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/education/university-ma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/education/university-ma/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/education/university-ba/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/education/university-ba/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/education/university-ba/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/education/university-ma-agder/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/education/university-ma-agder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/education/university-ma-agder/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/experience/job-2/</loc>
+    <lastmod>2023-12-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/experience/job-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/experience/job-2/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/blog/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/blog/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/experience/job-1/</loc>
+    <lastmod>2022-12-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/experience/job-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/experience/job-1/"
+                />
+  </url><url>
     <loc>https://siegristlk.github.io/meine-website/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/categories/"
+                href="https://siegristlk.github.io/meine-website/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,11 +167,35 @@
                 href="https://siegristlk.github.io/meine-website/en/categories/"
                 />
   </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/home/home/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/home/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/home/home/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/en/home/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/home/"
+                />
+  </url><url>
     <loc>https://siegristlk.github.io/meine-website/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/tags/"
+                href="https://siegristlk.github.io/meine-website/tags/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -1,0 +1,61 @@
+## Meta tags
+- id: "meta_title"
+  translation: "Adritian – ein leistungsstarkes Hugo-Theme von Adrián Moreno"
+- id: "meta_description"
+  translation: "Dieses Hugo-Theme (Adritian) basiert auf Bootstrap und eignet sich hervorragend für persönliche Webseiten, Portfolios oder andere Arten von One-Page-Anwendungen."
+- id: "meta_keywords"
+  translation: "hugo, theme, bootstrap, adritian, lisa siegrist, persönliche webseite, portfolio, one-page-anwendung"
+- id: "meta_author"
+  translation: "Lisa Siegrist"
+- id: "meta_image"
+  translation: "/img/general/og-image.jpg"
+
+## Header
+- id: "logo_alt"
+  translation: "Adritian Logo"
+- id: "logo_text1"
+  translation: "Lisa"
+- id: "logo_text2"
+  translation: "Siegrist"
+
+## General
+- id: "skipToMainContent"
+  translation: "Zum Hauptinhalt springen"
+- id: "toggle_navigation"
+  translation: "Navigation ein-/ausblenden"
+
+## Footer
+- id: "footer_notice"
+  translation: "© Adritian. Kostenloses Hugo-Theme von Adrián Moreno Peña."
+- id: "language"
+  translation: "Sprache"
+- id: "toggle_theme"
+  translation: "Farbschema wählen"
+- id: "theme_light"
+  translation: "☀️ Hell"
+- id: "theme_dark"
+  translation: "🌑 Dunkel"
+- id: "theme_auto"
+  translation: "✨ Automatisch"
+
+## Homepage head title
+- id: "head_title"
+  translation: "Adritian Demo-Seite – ein leistungsstarkes Hugo-Theme von Adrián Moreno"
+- id: "head_description"
+  translation: "Dieses Hugo-Theme (Adritian) basiert auf Bootstrap und eignet sich hervorragend für persönliche Webseiten, Portfolios oder andere Arten von One-Page-Anwendungen."
+
+## Blog
+- id: "read_more"
+  translation: "Mehr lesen"
+- id: "published_on"
+  translation: "Veröffentlicht am "
+- id: "continue_reading"
+  translation: "Weiterlesen"
+
+## 404 Page
+- id: "404_title"
+  translation: "Seite nicht gefunden"
+- id: "404_description"
+  translation: "Entschuldigung, aber die gesuchte Seite konnte nicht gefunden werden."
+- id: "404_button"
+  translation: "Zur Startseite"

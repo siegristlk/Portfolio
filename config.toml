@@ -2,7 +2,7 @@ baseURL = "https://siegristlk.github.io/meine-website/"
 title = "Lisa Siegrist"
 languageCode = "de"
 defaultContentLanguage = "de"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 
 [module]
@@ -132,28 +132,28 @@ weight = 0
 
 [languages.en.menus]
 [[languages.en.menus.header]]
-name = "Home"
+name = "/en/"
 URL = "/"
 weight = 1
 
 [[languages.en.menus.header]]
 name = 'About'
-URL = '#about'
+URL = '/en/#about'
 weight = 2
 
 [[languages.en.menus.header]]
 name = "Experience"
-URL = "#experience"
+URL = "/en/#experience"
 weight = 3
 
 [[languages.en.menus.header]]
 name = "Blog"
-URL = "/blog"
+URL = "/en//blog"
 weight = 4
 
 [[languages.en.menus.header]]
 name = "Contact"
-URL = "#contact"
+URL = "/en/#contact"
 weight = 5
 
 [languages.fr]

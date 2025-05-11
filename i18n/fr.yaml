@@ -4,11 +4,11 @@
 - id: "meta_description"
   translation: "Ce thème Hugo (Adritian) est basé sur Bootstrap et possède des fonctionnalités qui le rendent adapté pour un site personnel, un portfolio ou d'autres types d'applications monopages."
 - id: "meta_keywords"
-  translation: "hugo, thème, bootstrap, adritian, adrian moreno, site personnel, portfolio, application monopage"
+  translation: "hugo, thème, bootstrap, adritian, lisa siegrist, site personnel, portfolio, application monopage"
 - id: "meta_author"
-  translation: "Adrián Moreno Peña"
-- id: "meta_image"
-  translation: "/img/general/og-image.jpg"
+  translation: "Lisa Siegrist"
+#- id: "meta_image"
+# translation: "/img/general/og-image.jpg"
 
 ## Header
 - id: "logo_alt"

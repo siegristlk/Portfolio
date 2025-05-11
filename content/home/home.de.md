@@ -1,5 +1,5 @@
 +++
-title =  "Startseite"
+title = "Startseite"
 type = "home"
 draft = false
 +++

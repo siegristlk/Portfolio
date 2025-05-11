@@ -1,6 +1,8 @@
 baseURL = "https://siegristlk.github.io/meine-website/"
 title = "Lisa Siegrist"
 languageCode = "de"
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = true
 
 
 [module]
@@ -152,7 +154,7 @@ weight = 4
 [[languages.en.menus.header]]
 name = "Contact"
 URL = "#contact"
-weight = 6
+weight = 5
 
 [languages.fr]
 disabled = false
@@ -169,46 +171,24 @@ URL = "/fr/"
 weight = 1
 [[languages.fr.menus.header]]
 name = 'About'
-URL = '#about'
+URL = '/fr/#about'
 weight = 2
+
 [[languages.fr.menus.header]]
-name = 'Portfolio'
-URL = '#portfolio'
+name = "Experience"
+URL = "/fr/#experience"
 weight = 3
-#  [[languages.fr.menus.header]]
-#  name = "Experience"
-#  URL = "#experience"
-#  weight = 4
 
 [[languages.fr.menus.header]]
 name = "Blog"
-URL = "/blog"
-weight = 5
+URL = "/fr/blog"
+weight = 4
 
 [[languages.fr.menus.header]]
 name = "Contact"
-URL = "#contact"
-weight = 6
+URL = "/fr/#contact"
+weight = 5
 
-[[languages.fr.menus.footer]]
-name = "ACCUEIL"
-URL = "/fr/"
-weight = 1
-
-[[languages.fr.menus.footer]]
-name = "About"
-URL = "#about"
-weight = 2
-
-[[languages.fr.menus.footer]]
-name = "Portfolio"
-URL = "#portfolio"
-weight = 3
-
-[[languages.fr.menus.footer]]
-name = "Contact"
-URL = "#contact"
-weight = 4
 
 [languages.de]
 disabled = false
@@ -220,7 +200,7 @@ weight = 0
 
 [[languages.de.menus.header]]
 name = "Startseite"
-URL = "/de"
+URL = "/de/"
 weight = 1
 
 [[languages.de.menus.header]]
@@ -228,25 +208,20 @@ name = 'Über mich'
 URL = '/de/#about'
 weight = 2
 
-[[languages.de.menus.header]]
-name = 'Portfolio'
-URL = '/de/#portfolio'
-weight = 3
-
 [[languages.es.menus.header]]
 name = "Erfahrungen"
 URL = "/de/#experience"
-weight = 4
+weight = 3
 
 [[languages.de.menus.header]]
 name = "Blog"
 URL = "/de/blog"
-weight = 5
+weight = 4
 
 [[languages.de.menus.header]]
 name = "Kontakt"
 URL = "/de/#contact"
-weight = 6
+weight = 5
 
 
 

@@ -5,6 +5,6 @@ draft: false # set to "true" if you want to hide the content
 
 university: "High School Marienschule Saarbrücken"
 year: "2008-2016"
-degree: "university Entrance Qualification"
+degree: "University Entrance Qualification"
 
 ---

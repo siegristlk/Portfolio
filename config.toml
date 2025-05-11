@@ -208,7 +208,7 @@ name = 'Über mich'
 URL = '/de/#about'
 weight = 2
 
-[[languages.es.menus.header]]
+[[languages.de.menus.header]]
 name = "Erfahrungen"
 URL = "/de/#experience"
 weight = 3

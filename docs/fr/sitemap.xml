@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://siegristlk.github.io/meine-website/es/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://siegristlk.github.io/meine-website/de/"
                 />
@@ -29,6 +34,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://siegristlk.github.io/meine-website/es/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://siegristlk.github.io/meine-website/fr/experience/"
                 />
@@ -39,6 +49,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://siegristlk.github.io/meine-website/experience/job-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://siegristlk.github.io/meine-website/es/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -55,6 +70,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://siegristlk.github.io/meine-website/es/experience/job-2/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://siegristlk.github.io/meine-website/fr/experience/job-2/"
                 />
@@ -64,6 +84,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://siegristlk.github.io/meine-website/home/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://siegristlk.github.io/meine-website/es/home/home/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -84,6 +109,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://siegristlk.github.io/meine-website/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://siegristlk.github.io/meine-website/fr/categories/"
                 />
@@ -93,6 +123,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://siegristlk.github.io/meine-website/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://siegristlk.github.io/meine-website/es/home/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -110,6 +145,11 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://siegristlk.github.io/meine-website/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://siegristlk.github.io/meine-website/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"

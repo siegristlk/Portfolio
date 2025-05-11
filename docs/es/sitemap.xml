@@ -5,13 +5,13 @@
     <loc>https://siegristlk.github.io/meine-website/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://siegristlk.github.io/meine-website/categories/"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/categories/"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -27,11 +27,6 @@
     <loc>https://siegristlk.github.io/meine-website/es/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://siegristlk.github.io/meine-website/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://siegristlk.github.io/meine-website/de/"
                 />
@@ -42,6 +37,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://siegristlk.github.io/meine-website/es/"
                 />
@@ -49,13 +49,13 @@
     <loc>https://siegristlk.github.io/meine-website/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://siegristlk.github.io/meine-website/tags/"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/tags/"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"

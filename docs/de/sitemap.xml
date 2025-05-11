@@ -2,129 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://siegristlk.github.io/meine-website/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/</loc>
     <lastmod>2025-02-28T08:05:05+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://siegristlk.github.io/meine-website/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://siegristlk.github.io/meine-website/"
-                />
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/experience/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/experience/</loc>
     <lastmod>2024-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/experience/job-3/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/experience/job-3/</loc>
     <lastmod>2024-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/testimonial/graziella-nutella/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/testimonial/graziella-nutella/</loc>
     <lastmod>2024-11-25T21:53:18+01:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/testimonial/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/testimonial/</loc>
     <lastmod>2024-11-25T21:53:18+01:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/testimonial/dana-oneal/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/testimonial/dana-oneal/</loc>
     <lastmod>2024-11-25T21:50:45+01:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/testimonial/ferdinand-shermand/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/testimonial/ferdinand-shermand/</loc>
     <lastmod>2024-11-25T21:30:46+01:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/client-work/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/client-work/</loc>
     <lastmod>2024-08-25T10:23:39+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/client-work/ztos/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/client-work/ztos/</loc>
     <lastmod>2024-08-25T10:23:39+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/client-work/zoo/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/client-work/zoo/</loc>
     <lastmod>2024-08-25T10:23:08+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/client-work/kanba/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/client-work/kanba/</loc>
     <lastmod>2024-08-25T10:22:34+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/client-work/goldline/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/client-work/goldline/</loc>
     <lastmod>2024-08-25T10:21:48+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/client-work/earth2.0/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/client-work/earth2.0/</loc>
     <lastmod>2024-08-25T10:17:12+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/client-work/asgardia/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/client-work/asgardia/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/education/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/education/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/education/high-school/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/education/high-school/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/projects/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/projects/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/projects/radity-finance-uikit/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/projects/radity-finance-uikit/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/projects/robo-advisor/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/projects/robo-advisor/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/projects/swiss-fintech/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/projects/swiss-fintech/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/education/university-ma-agder/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/education/university-ma-agder/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/education/university-ma/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/education/university-ma/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/education/university-ba/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/education/university-ba/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/experience/job-2/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/experience/job-2/</loc>
     <lastmod>2023-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/blog/replicationcrisis/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/blog/replicationcrisis/</loc>
     <lastmod>2023-08-27T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/blog/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/blog/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/experience/job-1/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/experience/job-1/</loc>
     <lastmod>2022-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://siegristlk.github.io/meine-website/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://siegristlk.github.io/meine-website/categories/"
-                />
+    <loc>https://siegristlk.github.io/meine-website/de/categories/</loc>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/footer/footer/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/footer/footer/</loc>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/footer/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/footer/</loc>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/home/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/home/</loc>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/cv/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/cv/</loc>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/home/home/</loc>
+    <loc>https://siegristlk.github.io/meine-website/de/home/home/</loc>
   </url><url>
-    <loc>https://siegristlk.github.io/meine-website/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://siegristlk.github.io/meine-website/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://siegristlk.github.io/meine-website/tags/"
-                />
+    <loc>https://siegristlk.github.io/meine-website/de/tags/</loc>
   </url>
 </urlset>

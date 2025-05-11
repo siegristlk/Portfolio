@@ -132,6 +132,40 @@
                 href="https://siegristlk.github.io/meine-website/de/categories/"
                 />
   </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/home/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://siegristlk.github.io/meine-website/fr/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/home/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/home/home/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://siegristlk.github.io/meine-website/fr/home/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/home/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/home/home/"
+                />
+  </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/tags/</loc>
     <xhtml:link
                 rel="alternate"

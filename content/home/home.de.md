@@ -46,5 +46,5 @@ draft = false
     button2_url="/files/CV_LisaSiegrist_de.pdf"
     button2_text="Lebenslauf"
     button3_text="Alle Erfahrungen"
-    button3_url="/de/#experience"
+    button3_url="/de/experience"
 >}}

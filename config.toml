@@ -2,7 +2,7 @@ baseURL = "https://siegristlk.github.io/meine-website/"
 title = "Lisa Siegrist"
 languageCode = "de"
 defaultContentLanguage = "de"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 
 [module]

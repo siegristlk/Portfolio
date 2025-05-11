@@ -12,7 +12,7 @@ images:
   featured_image: '/img/blog/A minimalistic representation of creating a personal website, focusing on clean lines, subtle geometric shapes, and a modern web development aesthetic.png'
 ---
 
-This article is a guide to help you create your own version of the site using [Adritian](https://github.com/zetxek/adritian-free-hugo-theme). It will cover the main steps to get started with the theme, and how to customize it to your needs.
+This. article is a guide to help you create your own version of the site using [Adritian](https://github.com/zetxek/adritian-free-hugo-theme). It will cover the main steps to get started with the theme, and how to customize it to your needs.
 
 ### Creating a site
 

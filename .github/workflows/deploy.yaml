@@ -1,18 +1,16 @@
-name: Deploy Hugo site to GitHub Pages
+name: Build Hugo site into /docs
 
 on:
   push:
     branches:
-      - main  # oder dein Hauptbranch
-
-permissions:
-  contents: write  # Wichtig für den Push auf gh-pages
+      - main
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v2
 
       - name: Setup Hugo
@@ -21,23 +19,12 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          publish_branch: gh-pages  # Der Branch, auf dem deine Seite gehostet wird
-          publish_dir: ./public # Das Verzeichnis, das Hugo nach dem Build verwendet
-          github_token: ${{ secrets.GITHUB_TOKEN }} # GitHub Token zur Authentifizierung
-          
-
-      - name: Build with Hugo
+      - name: Build site into docs/
         run: hugo -d docs
-  
-      - name: Commit changes to docs
+
+      - name: Commit built site to main/docs
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add docs
-          git diff --cached --quiet || (git commit -m "Automated deployment to docs directory" && git push)
+          git diff --cached --quiet || (git commit -m "Rebuild site into /docs" && git push)

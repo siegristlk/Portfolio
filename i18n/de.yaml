@@ -2,7 +2,7 @@
 - id: "meta_title"
   translation: "Portfolio Lisa Siegrist"
 - id: "meta_description"
-  translation: "Dieses Hugo-Theme (Adritian) basiert auf Bootstrap und eignet sich hervorragend für persönliche Webseiten, Portfolios oder andere Arten von One-Page-Anwendungen."
+  translation: "Portfolio Lisa Siegrist"
 - id: "meta_keywords"
   translation: "hugo, theme, bootstrap, adritian, lisa siegrist, persönliche webseite, portfolio, one-page-anwendung"
 - id: "meta_author"
@@ -41,7 +41,7 @@
 ## Homepage head title
 - id: "head_title"
   translation: "Portfolio Lisa Siegrist"
-  translation: "Dieses Hugo-Theme (Adritian) basiert auf Bootstrap und eignet sich hervorragend für persönliche Webseiten, Portfolios oder andere Arten von One-Page-Anwendungen."
+  translation: "Portfolio Lisa Siegrist"
 
 ## Blog
 - id: "read_more"

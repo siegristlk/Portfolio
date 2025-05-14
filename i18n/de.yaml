@@ -59,12 +59,4 @@
 - id: "404_button"
   translation: "Zur Startseite"
 
-## Experience Section
-- id: "experience_title"
-  translation: "Erfahrungen"
-- id: "experience_button"
-  translation: "Mehr erfahren"
-- id: "experience_button2"
-  translation: "Kontaktieren"
-- id: "experience_button3"
-  translation: "Alle Erfahrungen anzeigen"
+

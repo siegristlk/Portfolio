@@ -1,8 +1,8 @@
-+++
+---
 title = "Startseite"
 type = "home"
 draft = false
-+++
+---
 
 {{< showcase-section
     title="Hallo, mein Name ist Lisa."

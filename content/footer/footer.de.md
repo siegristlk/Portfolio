@@ -1,8 +1,8 @@
-+++
+---
 title =  "Footer"
 type = "footer"
 draft = false
-+++
+---
 
 
 {{< contact-section

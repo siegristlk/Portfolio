@@ -9,13 +9,6 @@
     <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
     <atom:link href="https://siegristlk.github.io/meine-website/de/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gymnasium Marienschule</title>
-      <link>https://siegristlk.github.io/meine-website/de/education/high-school/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/de/education/high-school/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Universität Agder</title>
       <link>https://siegristlk.github.io/meine-website/de/education/university-ma-agder/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
@@ -23,17 +16,17 @@
       <description></description>
     </item>
     <item>
-      <title>Universität des Saarlandes</title>
-      <link>https://siegristlk.github.io/meine-website/de/education/university-ma/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/de/education/university-ma/</guid>
+      <title>Universität Trier</title>
+      <link>https://siegristlk.github.io/meine-website/de/education/university-ba/</link>
+      <pubDate>Wed, 25 Oct 2023 09:53:42 +0200</pubDate>
+      <guid>https://siegristlk.github.io/meine-website/de/education/university-ba/</guid>
       <description></description>
     </item>
     <item>
-      <title>Universität Trier</title>
-      <link>https://siegristlk.github.io/meine-website/de/education/university-ba/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/de/education/university-ba/</guid>
+      <title>Gymnasium Marienschule</title>
+      <link>https://siegristlk.github.io/meine-website/de/education/high-school/</link>
+      <pubDate>Thu, 25 Aug 2016 09:53:42 +0200</pubDate>
+      <guid>https://siegristlk.github.io/meine-website/de/education/high-school/</guid>
       <description></description>
     </item>
   </channel>

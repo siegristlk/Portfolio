@@ -39,18 +39,12 @@ draft = false
     button1_url="https://www.linkedin.com/in/lisa-siegrist/"
     button1_text="LinkedIn"
     button1_icon="icon-linkedin"
-    
-    button2:
-        enable: true
-        icon: icon-download
-        text: "Lebenslauf"
-        url: "/files/CV_LisaSiegrist_de.pdf"
-
-    button3:
-        enable: true
-        icon: icon-arrow-right
-        text: "Alle Erfahrungen"
-        url: "/de/#experience-list"
+    button2_url="/files/CV_LisaSiegrist_de.pdf"
+    button2_text="Lebenslauf"
+    button2_icon="icon-download"
+    button3_text="Alle Erfahrungen"
+    button3_url="/de/#experience-list"
+    button3_icon="icon-arrow-right" 
 >}}
 
 {{< experience-list

@@ -143,7 +143,7 @@ weight = 2
 
 [[languages.en.menus.header]]
 name = "Experience"
-URL = "/en/#experience"
+URL = "/en/#experience-single"
 weight = 3
 
 [[languages.en.menus.header]]
@@ -176,7 +176,7 @@ weight = 2
 
 [[languages.fr.menus.header]]
 name = "Experience"
-URL = "/fr/#experience"
+URL = "/fr/#experience-single"
 weight = 3
 
 [[languages.fr.menus.header]]

@@ -81,26 +81,6 @@
     </div>
     <div class="experience-description col-12 col-md-6">
       {{ partial "experience-description.html" . }}
-
-      <div class="experience-buttons mt-3">
-        {{ with .Params.button1_url }}
-         <a href="{{ . }}" class="btn btn-primary me-2" target="_blank">
-            <i class="{{ $.Params.button1_icon }}"></i> {{ $.Params.button1_text }}
-         </a>
-        {{ end }}
-
-        {{ with .Params.button2_url }}
-          <a href="{{ . }}" class="btn btn-outline-primary me-2" target="_blank">
-            {{ $.Params.button2_text }}
-          </a>
-        {{ end }}
-
-        {{ with .Params.button3_url }}
-          <a href="{{ . }}" class="btn btn-outline-primary" target="_self">
-            {{ $.Params.button3_text }}
-          </a>
-        {{ end }}
     </div>
   </div>
-
 </section>

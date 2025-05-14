@@ -56,12 +56,13 @@
 - id: "experience_button2"
   translation: "Lebenslauf"
 - id: "experience_button2_url"
-  translation: "/files/CV_LisaSiegrist_de.pdf"
+  translation: "https://www.linkedin.com/lisasiegrist/"
 
 - id: "experience_button3"
   translation: "Alle Erfahrungen"
 - id: "experience_button3_url"
-  translation: "/de/#experience-list"
+  translation: "https://www.linkedin.com/lisasiegrist/"
+  ##"/de/#experience-single"
 
 
 ## Blog

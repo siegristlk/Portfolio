@@ -43,12 +43,6 @@
   translation: "Lisa Siegrist | Digital Learning Developerin & Instructional Designerin"
   translation: "Portfolio Lisa Siegrist"
 
-## Homepage showcase
-- id: "showcase_button"
-  translation: "Kontakt"
-- id: "experience_button_url"
-  translation: "https://www.linkedin.com/lisasiegrist/"
-
 ## Homepage education
 - id: "education_title"
   translation: "Bildungsweg"

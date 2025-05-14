@@ -9,6 +9,8 @@ draft = false
     subtitle="Digital Learning Developerin & Instructional Designerin"
     buttonText="Correo"
     description="Mit Sitz in Basel 🇨🇭 arbeite ich derzeit im <a target='_blank' href='https://basel.lehre.roche.com/experio/'>Schullabor Experio der Firma Hoffman-La Roche</a>, wo ich praxisnahe MINT-Workshops konzipiere und durchführe, neue Bildungsprogramme entwickle und an der Schnittstelle zwischen Interessenweckung und didaktischer Vermittlung von Lerninhalten arbeite. Mich treibt die Idee an, Lernen greifbar, relevant und nachhaltig zu machen.<br/> Mein Hintergrund kombiniert Sozial- und Organisationspädagogik mit einem Master in Educational Technology - eine Kombination, die es mir ermöglicht, Bildungsräume ganzheitlich zu betrachten: aus der Perspektive des Lernenden, des Lehrenden und der Organisation. Ob digitale Museen, interaktive Lerneinheiten oder die Erforschung der Rolle von KI im Klassenzimmer, meine Projekte bewegen sich an der Schnittstelle von Technologie, Pädagogik, Didaktik und Praxis.<br/>Mit einem Gespür für Menschen, einem Auge fürs Detail und der Liebe zur Forschung bringe ich interdisziplinäres Denken in jedes Projekt ein.<br/>Was immer an erster Stelle steht: <strong>Bildung soll befähigen, verbinden und Chancen schaffen</strong>."
+    button_text="Kontaktiere mich"
+    button_icon="icon-email"
     imgSrc="images/showcase/Bewerbungsfoto.png"
     imgScale="0.5"
  >}}
@@ -39,10 +41,11 @@ draft = false
     button1_url="https://www.linkedin.com/in/lisa-siegrist/"
     button1_text="LinkedIn"
     button1_icon="icon-linkedin"
+    button1_icon="icon-linkedin"
     button2_url="/files/CV_LisaSiegrist_de.pdf"
     button2_text="Lebenslauf"
     button3_text="Alle Erfahrungen"
-    button3_url="/de/#experience"
+    button3_url="/de/#experience-list"
 >}}
 
 {{< experience-list

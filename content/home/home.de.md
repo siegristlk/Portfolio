@@ -47,6 +47,4 @@ draft = false
     button3_icon="icon-arrow-right" 
 >}}
 
-{{< experience-list
-    title="Experience (as list)"
-    padding="false" >}}
+

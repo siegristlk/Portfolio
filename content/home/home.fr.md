@@ -47,6 +47,10 @@ draft = false
     button3_url="/de/experience"
 >}}
 
+{{< experience-list
+    title="Experience (as list)"
+    padding="false" >}}
+    
 ## Expérience (liste)
 
 Vous pouvez voir une autre version, utilisant `experience-list` sur [/cv](/cv).

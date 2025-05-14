@@ -44,3 +44,7 @@ draft = false
     button3_text="Alle Erfahrungen"
     button3_url="/de/#experience"
 >}}
+
+{{< experience-list
+    title="Experience (as list)"
+    padding="false" >}}

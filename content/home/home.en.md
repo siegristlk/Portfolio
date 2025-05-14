@@ -41,3 +41,7 @@ draft = false
     button2_url="static/files/CV_LisaSiegrist_de.pdf"
     button2_text="Download résumé"
 >}}
+
+{{< experience-list
+    title="Experience (as list)"
+    padding="false" >}}

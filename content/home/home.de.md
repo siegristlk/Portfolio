@@ -45,8 +45,6 @@ draft = false
     button3_icon="icon-arrow-right" 
 >}}
 
-{{< projects-section
-    title="A selection of my work" >}} 
 
 {{< client-and-work-section
     title="A selection of my work" >}} 

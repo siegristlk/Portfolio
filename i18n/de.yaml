@@ -80,30 +80,4 @@
 - id: "404_button"
   translation: "Zur Startseite"
 
-## Homepage contact
-- id: "contact_title"
-  translation: "Kontakt"
 
-- id: "contact_button"
-  translation: "Nachricht senden"
-
-- id: "contact_form_name"
-  translation: "Vor- und Nachname"
-
-- id: "contact_form_email"
-  translation: "E-Mail Adresse"
-
-- id: "contact_form_message"
-  translation: "Ihre Nachricht"
-
-- id: "contact_phone_title"
-  translation: "Handynummer"
-
-- id: "contact_phone_number"
-  translation: "+41 76 748 47 46"
-
-- id: "contact_email_title"
-  translation: "E-Mail"
-
-- id: "contact_email_email"
-  translation: 'https://formspree.io/f/xjkwyaad'

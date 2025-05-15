@@ -13,13 +13,11 @@ draft = false
     imgScale="0.5"
  >}}
 
-{{< platform-links >}}
-    {{< link icon="linkedin" url="https://www.linkedin.com/in/lisa-siegrist/" >}}
-    {{< link icon="square-github" url="https://github.com/siegristlk" >}}
-    {{< link icon="instagram" url="https://www.instagram.com/lisasiegrist" >}}
-
-{{< /platform-links >}}
-
+    {{< platform-links >}}
+        {{< link icon="linkedin" url="https://www.linkedin.com/in/lisa-siegrist/" >}}
+        {{< link icon="square-github" url="https://github.com/siegristlk" >}}
+        {{< link icon="instagram" url="https://www.instagram.com/lisasiegrist" >}}
+    {{< /platform-links >}}
 {{< /showcase-section >}}
 
 {{< about-section
@@ -47,6 +45,6 @@ draft = false
     button3_icon="icon-arrow-right" 
 >}}
 
-{{< projects
+{{< projects-section
     title="A selection of my work" >}} 
 

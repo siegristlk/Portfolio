@@ -14,7 +14,7 @@ draft = false
  >}}
 
     {{< platform-links >}}
-        {{< link icon="linkedin" url="https://www.linkedin.com/in/lisa-siegrist/" >}}
+        {{< link icon="linkedin" url="https://www.linkedin.com/de/lisa-siegrist/" >}}
         {{< link icon="square-github" url="https://github.com/siegristlk" >}}
         {{< link icon="instagram" url="https://www.instagram.com/lisasiegrist" >}}
     {{< /platform-links >}}
@@ -35,19 +35,19 @@ draft = false
     intro_title="Erfahrungen"
     intro_description="Mit einem starken Fundament in Bildung, digitalem Design und nutzerzentrierter Forschung habe ich zu Projekten beigetragen, die von interaktiven Lernumgebungen bis hin zu KI-gestützten Feedbacksystemen reichen. Ob in kleinen kreativen Teams oder größeren Organisationen, ich konzentriere mich darauf, komplexe pädagogische Herausforderungen in klare, durchdachte Lösungen zu verwandeln, die das Lernen zugänglicher, ansprechender und sinnvoller machen." 
     button1_enable=true
-    button1_url="https://www.linkedin.com/in/lisa-siegrist/"
+    button1_url="https://www.linkedin.com/lisa-siegrist/"
     button1_text="LinkedIn"
     button1_icon="icon-linkedin"
-     
->}}
-
-button2_enable=true
-button2_url="/files/cv_lisasiegrist_de.pdf"
+    button2_enable=true
+    button2_url="/files/cv_lisasiegrist_de.pdf"
     button2_text="Lebenslauf"
     button2_icon="icon-download"
     button3_enable=true
     button3_text="Alle Erfahrungen"
     button3_url="/de/#experience-list"
-    button3_icon="icon-arrow-right"
+    button3_icon="icon-arrow-right"   
+>}}
+
+
 {{< client-and-work-section
     title="Meine Projekte" >}} 

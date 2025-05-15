@@ -48,4 +48,5 @@ draft = false
     button3_icon="icon-arrow-right"   
 >}}
 
-
+{{< client-and-work-section
+    title="Meine Projekte" >}} 

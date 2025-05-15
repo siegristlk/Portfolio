@@ -32,17 +32,7 @@ draft = false
 
 {{< experience-section
     title="Meine Erfahrungen"
-    intro_title="Erfahrungen"
-    intro_description="Mit einem starken Fundament in Bildung, digitalem Design und nutzerzentrierter Forschung habe ich zu Projekten beigetragen, die von interaktiven Lernumgebungen bis hin zu KI-gestützten Feedbacksystemen reichen. Ob in kleinen kreativen Teams oder größeren Organisationen, ich konzentriere mich darauf, komplexe pädagogische Herausforderungen in klare, durchdachte Lösungen zu verwandeln, die das Lernen zugänglicher, ansprechender und sinnvoller machen." 
-    button1_url="/files/cv_lisasiegrist_de.pdf"
-    button1_text="LinkedIn"
-    button1_icon="icon-linkedin"
-    button2_url="/files/cv_lisasiegrist_de.pdf"
-    button2_text="Lebenslauf"
-    button2_icon="icon-download"
-    button3_text="Alle Erfahrungen"
-    button3_url="/de/#experience-list"
-    button3_icon="icon-arrow-right" 
+    
 >}}
 
 

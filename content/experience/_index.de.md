@@ -1,17 +1,16 @@
 ---
 title: Erfahrungen
-button1_text: See page source
-button1_url: https://github.com/zetxek/adritian-demo/blob/main/content/experience/_index.md
-button1_icon: icon-square-github
+button1_text: LinkedIn
+button1_url: https://www.linkedin.com/in/lisa-siegrist/
+button1_icon: icon-square-inkedin
 
-button2_text: Button 2
-button2_url: https://linkedin.com/in/adrianmoreno
+button2_text: CV
+button2_url: /files/cv_lisasiegrist_de.pdf
 button2_icon: icon-face-smile
 
-button3_text: Button 3
-button3_url: https://linkedin.com/in/adrianmoreno
-button3_icon: icon-circle-arrow-up
+#button3_text: Alle Erfahrungen
+#button3_url: https://linkedin.com/in/adrianmoreno
+#button3_icon: icon-circle-arrow-up
 
 ---
-
-El contenido (texto y URL) para los botones a continuación (donde puedes agregar enlaces) proviene del archivo de traducción, `i18n/en.yaml`, en los elementos `experience_button`, `experience_button_url`, `experience_button2`, `experience_button2_url`, `experience_button3`, `experience_button3_url`.
+Mit einem starken Fundament in Bildung, digitalem Design und nutzerzentrierter Forschung habe ich zu Projekten beigetragen, die von interaktiven Lernumgebungen bis hin zu KI-gestützten Feedbacksystemen reichen. Ob in kleinen kreativen Teams oder größeren Organisationen, ich konzentriere mich darauf, komplexe pädagogische Herausforderungen in klare, durchdachte Lösungen zu verwandeln, die das Lernen zugänglicher, ansprechender und sinnvoller machen.

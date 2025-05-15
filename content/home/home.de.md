@@ -47,4 +47,6 @@ draft = false
     button3_icon="icon-arrow-right" 
 >}}
 
+{{< projects
+    title="A selection of my work" >}} 
 

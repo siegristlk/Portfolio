@@ -48,3 +48,5 @@ draft = false
 {{< projects-section
     title="A selection of my work" >}} 
 
+{{< client-and-work-section
+    title="A selection of my work" >}} 

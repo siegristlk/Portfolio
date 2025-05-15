@@ -47,4 +47,4 @@ draft = false
 
 
 {{< client-and-work-section
-    title="A selection of my work" >}} 
+    title="Meine Projekte" >}} 

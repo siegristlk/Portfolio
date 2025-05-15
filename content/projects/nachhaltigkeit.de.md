@@ -16,4 +16,14 @@ params:
 ## The content is used for the description of the project
 ---
 
-Ein Prototyp für eine Nachhaltigkeits-App der Universität des Saarlandes {{< video src="/videos/udsustainable2.webm" type="video/webm" preload="auto" >}}
+Ein Prototyp für eine Nachhaltigkeits-App der Universität des Saarlandes 
+
+{{< rawhtml >}} 
+
+<video width=100% controls autoplay>
+    <source src="/videos/udsustainable2.webm" type="video/webm">
+    Your browser does not support the video tag.  
+</video>
+
+{{< /rawhtml >}}
+

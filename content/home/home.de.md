@@ -49,5 +49,3 @@ draft = false
 >}}
 
 
-{{< client-and-work-section
-    title="Meine Projekte" >}} 

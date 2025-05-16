@@ -13,10 +13,10 @@
       <link>https://siegristlk.github.io/meine-website/de/projects/nachhaltigkeit/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
       <guid>https://siegristlk.github.io/meine-website/de/projects/nachhaltigkeit/</guid>
-      <description>&lt;p&gt;Ein Prototyp für eine Nachhaltigkeits-App der Universität des Saarlandes&lt;/p&gt;&#xA;&#xA; &#xA;&lt;video width=30% controls autoplay muted loop&gt;&#xA;    &lt;source src=&#34;https://siegristlk.github.io/meine-website/videos/udsustainable2.webm&#34; type=&#34;video/webm&#34;&gt;&#xA;    &lt;source src=&#34;https://siegristlk.github.io/meine-website/videos/udsustainable2.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;&#xA;    Your browser does not support the video tag.  &#xA;&lt;/video&gt;</description>
+      <description>&lt;div style=&#34;display: flex; align-items: center; gap: 20px;&#34;&gt;&#xA;&lt;h1&gt;UDSustainable&lt;/h1&gt;&#xA;&lt;video width=30% controls autoplay muted loop style=&#34;border: 1px solid #ccc; border-radius: 4px;&#34;&gt;&gt;&#xA;    &lt;source src=&#34;https://siegristlk.github.io/meine-website/videos/udsustainable2.webm&#34; type=&#34;video/webm&#34;&gt;&#xA;    &lt;source src=&#34;https://siegristlk.github.io/meine-website/videos/udsustainable2.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;&#xA;    Your browser does not support the video tag.  &#xA;&lt;/video&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Ein Prototyp für eine Nachhaltigkeits-App der Universität des Saarlandes&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Digitales Museum - Open Educational Resources</title>
+      <title>Digitales Museum</title>
       <link>https://siegristlk.github.io/meine-website/de/projects/digitales-museum/</link>
       <pubDate>Fri, 25 Aug 2023 09:53:42 +0200</pubDate>
       <guid>https://siegristlk.github.io/meine-website/de/projects/digitales-museum/</guid>

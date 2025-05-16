@@ -66,5 +66,3 @@ title="Extra (centered) content"
 centered="true" >}}
 
 You can also use the `text-section` shortcode to add centered texts
-
-{{< /text-section >}}

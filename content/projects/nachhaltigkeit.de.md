@@ -12,6 +12,9 @@ params:
     video:
         src: "/videos/udsustainable2.mp4"
         type: "video/mp4"
+    video:
+        src: "/videos/udsustainable2.webm"
+        type: "video/webm"
 
 ## The content is used for the description of the project
 ---

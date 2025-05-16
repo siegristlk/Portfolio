@@ -219,6 +219,11 @@ URL = "/de/#experience-single"
 weight = 4
 
 [[languages.de.menus.header]]
+name = "Meine Projekte"
+URL = "/de/#client-and-work-section"
+weight = 4
+
+[[languages.de.menus.header]]
 name = "Blog"
 URL = "/de/blog"
 weight = 5

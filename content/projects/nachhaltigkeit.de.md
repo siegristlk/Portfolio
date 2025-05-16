@@ -21,6 +21,8 @@ Ein Prototyp für eine Nachhaltigkeits-App der Universität des Saarlandes
 {{< rawhtml >}} 
 <video width=100% controls autoplay muted loop>
     <source src="/videos/udsustainable2.webm" type="video/webm">
+    <source src="/videos/udsustainable2.mp4" type="video/mp4">
+
     Your browser does not support the video tag.  
 </video>
 {{< /rawhtml >}}

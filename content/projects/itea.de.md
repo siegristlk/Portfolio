@@ -9,10 +9,6 @@ params:
         icon: "icon-arrow-right"
         btnText: "Projektprotokoll öffnen"
         URL: "https://siegristlk.github.io/meine-website/reports/Report-Group8-ITea.pdf"
-    button:
-        icon: "icon-arrow-right"
-        btnText: "Projektposter öffnen"
-        URL: "https://siegristlk.github.io/meine-website/mages/works/itea-poster.png"
     image:
         src: "images/works/itea-poster.png"
         scale: 0.2
@@ -26,6 +22,7 @@ Auf der Grundlage von Gagnés „Nine Events of Instruction“ (Gagné, 1985; Ga
 
 Die Lerneinheit ist sowohl für Einsteiger:innen als auch für erfahrene Forscher:innen konzipiert und kann an unterschiedliche Vorkenntnisse angepasst werden, um einen effektiven Wissenstransfer und hohe Motivation zu gewährleisten.
 
+https://siegristlk.github.io/meine-website/mages/works/itea-poster.png
 ---
 
 Diener, E. & Biswas-Diener, R. (2023). The replication crisis in psychology. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. http://noba.to/q4cvydeh

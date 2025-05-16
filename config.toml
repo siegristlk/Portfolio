@@ -123,7 +123,7 @@ mobileHeader = false
 
 [languages]
 [languages.en]
-disabled = true
+disabled = false
 languageCode = 'en'
 languageDirection = 'ltr'
 languageName = 'English'

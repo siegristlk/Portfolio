@@ -15,9 +15,6 @@ params:
 
 ## The content is used for the description of the project
 ---
+Tee gehört weltweit zu den beliebtesten Getränken – als Genussmoment ebenso wie als Ritual der Achtsamkeit. Doch die richtige Zubereitung erfordert Präzision: Temperatur, Ziehzeit und Menge beeinflussen Geschmack und Wirkung maßgeblich. Um diesen Prozess zu vereinfachen, haben wir ITea entwickelt – einen smarten Assistenten für die perfekte Tasse Tee.
 
-Diese Lerneinheit entstand im Rahmen eines Gruppenprojekts und führt Lernende interaktiv in das Thema Replikationskrise in der empirischen Forschung ein. Sie zeigt, warum Replizierbarkeit für die Aussagekraft wissenschaftlicher Ergebnisse wichtig ist und wie Forschungsentscheidungen deren Qualität beeinflussen können.
-
-Das didaktische Design basiert auf Gagnés „Nine Events of Instruction“ sowie Schanks „Goal-Based-Scenario“ und nutzt strukturierte Lernszenarien mit Wissensvermittlung, Übungsphasen und Feedback, um eine interaktive, praxisnahe Lernumgebung zu schaffen. Die Einheit unterstützt Lernende dabei, problematische Forschungspraktiken zu erkennen und Prinzipien wie Transparenz und Replizierbarkeit in ihre eigene Arbeit zu übertragen.
-
-Sie richtet sich an Einsteiger:innen ebenso wie an erfahrene Forschende und lässt sich flexibel an unterschiedliche Vorkenntnisse anpassen.
+Über eine NFC-Karte erkennt das Gerät die Teesorte, gibt klare Anweisungen und startet automatisch den passenden Timer. Sobald der Tee trinkbereit ist, wird dies signalisiert – ganz ohne zusätzliche Hilfsmittel oder Hygieneprobleme wie bei Vollautomaten. So bleibt die Zubereitung einfach, individuell und unter eigener Kontrolle.

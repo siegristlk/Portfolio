@@ -11,7 +11,7 @@ params:
         URL: "https://siegristlk.github.io/meine-website/storyline/story.html"
     image:
         src: "images/works/replication_crisis.png"
-        scale: 0.2
+        scale: 0.4
 
 ## The content is used for the description of the project
 ---

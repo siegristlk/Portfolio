@@ -10,7 +10,7 @@ params:
         btnText: "Projektprotokoll öffnen"
         URL: "https://siegristlk.github.io/meine-website/reports/Report-Group8-ITea.pdf"
     image:
-        src: "images/works/itea-poster.png"
+        src: "images/works/itea.png"
         scale: 0.2
 
 ## The content is used for the description of the project
@@ -22,9 +22,8 @@ Auf der Grundlage von Gagnés „Nine Events of Instruction“ (Gagné, 1985; Ga
 
 Die Lerneinheit ist sowohl für Einsteiger:innen als auch für erfahrene Forscher:innen konzipiert und kann an unterschiedliche Vorkenntnisse angepasst werden, um einen effektiven Wissenstransfer und hohe Motivation zu gewährleisten.
 
-https://siegristlk.github.io/meine-website/mages/works/itea-poster.png
 ---
-
+<small>
 Diener, E. & Biswas-Diener, R. (2023). The replication crisis in psychology. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. http://noba.to/q4cvydeh
 
 Gagné, R. M. (1985). The conditions of learning and theory of instruction (4th ed). Holt, Rinehart and Winston.
@@ -36,3 +35,4 @@ Gagné, R. M., Briggs, L. J., & Wager, W. W. (1992). Principles of instructional
 Open Science Collaboration (2015). Estimating the reproducibility of psychological science. Science, 349.
 
 Schank, R. C. (1994). Goal-Based Scenarios: A Radical Look at Education. Journal of the Learning Sciences, 3(4), 429–453. https://doi.org/10.1207/s15327809jls0304_5
+</small>

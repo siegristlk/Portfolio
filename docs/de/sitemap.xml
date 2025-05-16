@@ -69,9 +69,29 @@
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/projects/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/projects/"
+                />
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/projects/nachhaltigkeit/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/projects/nachhaltigkeit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/projects/nachhaltigkeit/"
+                />
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/education/university-ma-agder/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
@@ -114,12 +134,42 @@
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/projects/digitales-museum/</loc>
     <lastmod>2023-08-25T09:53:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/projects/digitales-museum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/projects/digitales-museum/"
+                />
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/projects/storyline/</loc>
     <lastmod>2023-08-25T09:53:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/projects/storyline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/projects/storyline/"
+                />
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/projects/itea/</loc>
     <lastmod>2023-06-25T09:53:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/projects/itea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/projects/itea/"
+                />
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/blog/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
@@ -173,8 +223,28 @@
                 />
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/footer/footer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/footer/footer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/footer/footer/"
+                />
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/footer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/footer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/footer/"
+                />
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/home/</loc>
     <xhtml:link

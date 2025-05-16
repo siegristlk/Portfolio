@@ -54,11 +54,3 @@ draft = false
     title="Meine Projekte" >}} 
 
 {{< spacer size="large" >}}
-
-## Extra home content
-
-Additional content added after the `section` blocks, in the `home.md` file. 
-
-Here you could freestyle, add other shortcodes, ...  Or just let the content empty, and rely on the shortcode sections alone.
-
-{{< spacer size="small" >}}

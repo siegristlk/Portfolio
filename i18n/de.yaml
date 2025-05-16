@@ -102,20 +102,20 @@
 - id: "contact_message_placeholder"
   translation: "Ihre Nachricht"
 
-- id: "contact_phone_heading"
+- id: "contact_phone_title"
   translation: "Handynummer"
 
-- id: "phone"
+- id: "contact_phone_number"
   translation: "+41 76 748 47 46"
 
-- id: "contact_email_heading"
+- id: "contact_email_title"
   translation: "E-Mail"
 
 - id: "contact_email_email"
   translation: '<a href="mailto:siegrist.lk@gmail.com">siegrist.lk@gmail.com</a>'
 
-- id: "contact_location_heading"
-  translation: "Location"
+- id: "contact_location_Title"
+  translation: "Mein Standort"
 
 - id: "contact_adress_adress"
-  transation: "Basel"
+  transation: "🇨🇭 Basel, Schweiz"

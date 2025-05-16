@@ -6,7 +6,7 @@ draft = false
 
 
 {{< contact-section
-    title="XXX" 
+    title="Kontaktformular" 
     contact_form_name="Name"
     contact_form_email="E-Mail Adresse"
     contact_form_message="Ihre Nachricht"

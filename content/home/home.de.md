@@ -22,7 +22,7 @@ draft = false
 
 {{< about-section
     title="Über mich"
-    content="Als Lerndesignerin mit einem neugierigen Geist und einem Gespür für das große Ganze verbinde ich pädagogisches Verständnis mit einer Leidenschaft für digitales Design. Mein Bachelor-Abschluss in Sozial- und Organisationspädagogik vermittelte mir ein tiefes Verständnis dafür, wie Menschen lernen - nicht nur als Individuen, sondern auch in sozialen und organisatorischen Kontexten. Während meines Masterstudiums in Bildungstechnologie habe ich diese Kenntnisse vertieft und mich mit digitalen Tools und nutzerzentrierter Forschung beschäftigt, um effektives und sinnvolles Lernen zu gestalten.<br/> Ich arbeite gerne an der Schnittstelle zwischen Lernenden, Lehrenden und Technologie. Mithilfe von Methoden wie Interviews und Storyboards tauche ich tief in das Verständnis der Bedürfnisse ein - und verwandle die Erkenntnisse in konkrete, praktische Lösungen. Was meine Herangehensweise an digitales Lernen prägt, ist nicht nur mein akademischer Hintergrund, sondern auch mein Gespür dafür, wann Struktur das Lernen unterstützt und wann Freiheit es ermöglicht. Ich denke in Systemen, entwerfe mit Einfühlungsvermögen und entwickle Lernerfahrungen, die nicht nur funktionieren, sondern sich für die Beteiligten zielführend, ansprechend und richtig anfühlen."
+    content="Als Bildungswissenschaftlerin mit einem neugierigen Geist und einem Gespür für das große Ganze verbinde ich pädagogisches Verständnis mit einer Leidenschaft für digitales Design. Mein Bachelor-Abschluss in Sozial- und Organisationspädagogik vermittelte mir ein tiefes Verständnis dafür, wie Menschen lernen - nicht nur als Individuen, sondern auch in sozialen und organisatorischen Kontexten. Während meines Masterstudiums in Bildungstechnologie habe ich diese Kenntnisse vertieft und mich mit digitalen Tools und nutzerzentrierter Forschung beschäftigt, um effektives und sinnvolles Lernen zu gestalten.<br/> Ich arbeite gerne an der Schnittstelle zwischen Lernenden, Lehrenden und Technologie. Mithilfe von Methoden wie Interviews und Storyboards tauche ich tief in das Verständnis der Bedürfnisse ein - und verwandle die Erkenntnisse in konkrete, praktische Lösungen. Was meine Herangehensweise an digitales Lernen prägt, ist nicht nur mein akademischer Hintergrund, sondern auch mein Gespür dafür, wann Struktur das Lernen unterstützt und wann Freiheit es ermöglicht. Ich denke in Systemen, entwerfe mit Einfühlungsvermögen und entwickle Lernerfahrungen, die nicht nur funktionieren, sondern sich für die Beteiligten zielführend, ansprechend und richtig anfühlen."
     imgSrc="images/about/FotoLisa.png"
     imgScale="0.5"
  >}}
@@ -50,3 +50,22 @@ draft = false
 
 {{< client-and-work-section
     title="Meine Projekte" >}} 
+
+{{< spacer size="large" >}}
+
+## Extra home content
+
+Additional content added after the `section` blocks, in the `home.md` file. 
+
+Here you could freestyle, add other shortcodes, ...  Or just let the content empty, and rely on the shortcode sections alone.
+
+{{< spacer size="small" >}}
+
+{{< text-section
+title="Extra (centered) content"
+centered="true"
+>}}
+
+You can also use the `text-section` shortcode to add centered texts
+
+{{< /text-section >}}

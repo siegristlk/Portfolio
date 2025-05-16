@@ -17,12 +17,12 @@ params:
 ---
 {{< rawhtml >}} 
 <div style="display: flex; align-items: center; gap: 20px;">
-<video width=30% controls autoplay muted loop style="border: 1px solid #ccc; border-radius: 4px;">>
-    <source src="/meine-website/videos/udsustainable2.webm" type="video/webm">
-    <source src="/meine-website/videos/udsustainable2.mp4" type="video/mp4">
+    <video width=30% controls autoplay muted loop style="border: 1px solid #ccc; border-radius: 4px;">>
+        <source src="/meine-website/videos/udsustainable2.webm" type="video/webm">
+        <source src="/meine-website/videos/udsustainable2.mp4" type="video/mp4">
 
-    Your browser does not support the video tag.  
-</video>
+        Your browser does not support the video tag.  
+    </video>
 </div>
 {{< /rawhtml >}}
 

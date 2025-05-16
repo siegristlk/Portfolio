@@ -9,9 +9,9 @@ params:
         icon: "icon-arrow-right"
         btnText: "Projekt öffnen"
         URL: "https://www.figma.com/proto/wNmdex79IOaeZrrnf4SL66/UdSustainable?node-id=416-5855&starting-point-node-id=416%3A5855&mode=design&t=Dp8N2UczhaenCqGT-1"
-    #image:
-        #src: "images/works/radity-finance.jpg"
-        #scale: 0.5
+    video:
+        src: "/meine-website/videos/udsustainable2.mp4"
+        type: "video/mp4
 
 ## The content is used for the description of the project
 ---

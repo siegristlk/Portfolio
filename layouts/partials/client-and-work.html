@@ -77,7 +77,14 @@
       <div class="col-12 col-md-7 pl-md-0 text-right">
 
 
-        {{ partial "lazypicture" (dict "src" .Params.image.src "scale" .Params.image.scale "class" "picture-works even")}}
+        {{ if .Params.video.src }}
+          <video controls autoplay muted loop style="width: 100%; border-radius: 10px; border: 1px solid #ccc;">
+            <source src="{{ .Params.video.src | absURL }}" type="{{ .Params.video.type }}">
+            Your browser does not support the video tag.
+          </video>
+        {{ else }}
+          {{ partial "lazypicture" (dict "src" .Params.image.src "scale" .Params.image.scale "class" "picture-works even") }}
+        {{ end }}
 
       </div>
       {{ else }}

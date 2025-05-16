@@ -26,8 +26,6 @@ draft = false
     imgSrc="images/about/FotoLisa.png"
     imgScale="0.5"
  >}}
- 
-{{< spacer size="large" >}}
 
 {{< education-list
     title="Bildungsweg" >}}

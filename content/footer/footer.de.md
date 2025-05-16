@@ -32,7 +32,3 @@ draft = true
     form_method="POST"
 >}}
 
-{{< text-section
-title="Extra footer content"
-centered="true"
->}}

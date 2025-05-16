@@ -213,6 +213,18 @@
                 href="http://localhost:1313/meine-website/en/education/high-school/"
                 />
   </url><url>
+    <loc>http://localhost:1313/meine-website/en/blog/masterthesis/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/meine-website/de/blog/masterthesis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/meine-website/en/blog/masterthesis/"
+                />
+  </url><url>
     <loc>http://localhost:1313/meine-website/en/categories/</loc>
     <xhtml:link
                 rel="alternate"

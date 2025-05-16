@@ -132,7 +132,7 @@ weight = 0
 
 [languages.en.menus]
 [[languages.en.menus.header]]
-name = "/Home"
+name = "Home"
 URL = "/en/"
 weight = 1
 

@@ -5,15 +5,15 @@ draft = false
 type = 'blog'
 
 [images]
-    featured_image = '/img/blog/feature-sample-3.png'
+    featured_image = '/images/works/replication_crisis.png'
 +++
 
 ### Interactive Learning Session on the Replication Crisis
 
-![Example image](/img/blog/feature-sample-3.png)
+![Example image](/images/works/replication_crisis.png)
 
 
-.Developed in a group project for the Instructional Design II course in the Master's program Educational Technology, this learning unit introduces learners to the replication crisis in empirical research using *Articulate Storyline 360*. The unit explores why the replicability of scientific findings is crucial for the relevance and generalizability of results (Open Science Collaboration, 2015), and emphasizes how research decisions impact outcome quality (Diener & Biswas-Diener, 2023).
+Developed in a group project for the Instructional Design II course in the Master's program Educational Technology, this learning unit introduces learners to the replication crisis in empirical research using *Articulate Storyline 360*. The unit explores why the replicability of scientific findings is crucial for the relevance and generalizability of results (Open Science Collaboration, 2015), and emphasizes how research decisions impact outcome quality (Diener & Biswas-Diener, 2023).
 
 Grounded in Gagné’s Nine Events of Instruction (Gagné, 1985; Gagné et al., 1992), the design supports internal learning processes through structured knowledge presentation, guided practice, and feedback. The model also integrates Goal-Based Scenarios (Schank, 1994) to create an engaging, interactive environment. The learning experience helps learners recognize questionable research practices and understand how transparency and replicability can be applied in their own academic work.
 

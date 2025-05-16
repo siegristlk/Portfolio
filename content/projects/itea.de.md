@@ -11,7 +11,7 @@ params:
         URL: "https://siegristlk.github.io/meine-website/reports/Report-Group8-ITea.pdf"
     image:
         src: "images/works/itea.png"
-        scale: 0.2
+        scale: 0.6
 
 ## The content is used for the description of the project
 ---

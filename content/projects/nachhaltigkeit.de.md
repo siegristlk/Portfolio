@@ -17,7 +17,7 @@ params:
 ---
 {{< rawhtml >}} 
 <div style="display: flex; align-items: center; gap: 20px;">
-<h1>UDSustainable</h1>
+<h4>Ein Prototyp für eine Nachhaltigkeits-App der Universität des Saarlandes</h4>
 <video width=30% controls autoplay muted loop style="border: 1px solid #ccc; border-radius: 4px;">>
     <source src="/meine-website/videos/udsustainable2.webm" type="video/webm">
     <source src="/meine-website/videos/udsustainable2.mp4" type="video/mp4">
@@ -27,4 +27,3 @@ params:
 </div>
 {{< /rawhtml >}}
 
-Ein Prototyp für eine Nachhaltigkeits-App der Universität des Saarlandes 

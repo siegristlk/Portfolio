@@ -63,8 +63,7 @@ Here you could freestyle, add other shortcodes, ...  Or just let the content emp
 
 {{< text-section
 title="Extra (centered) content"
-centered="true"
->}}
+centered="true" >}}
 
 You can also use the `text-section` shortcode to add centered texts
 

@@ -1,6 +1,6 @@
 ---
 date: '2023-08-25T09:53:42+02:00' # date in which the content is created - defaults to "today"
-title: 'Digitales Museum'
+title: 'Open Educational Ressources'
 draft: false # set to "true" if you want to hide the content 
 #link: "https://siegristlk.github.io/meine-website/de" # optional URL to link the logo to
 

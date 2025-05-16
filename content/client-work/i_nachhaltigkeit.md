@@ -3,7 +3,7 @@ date: '2024-08-25T10:21:48+02:00' # date in which the content is created - defau
 title: 'Nachhaltigkeit'
 draft: false # set to "true" if you want to hide the content 
 
-link: "https://siegristlk.github.io/meine-website/de/#client-and-work-section/UDSustainable" # optional URL to link the logo to
+#link: "https://siegristlk.github.io/meine-website/de/#client-and-work-section/UDSustainable" # optional URL to link the logo to
 
 params:
     logo: 

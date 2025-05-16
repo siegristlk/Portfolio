@@ -4,14 +4,14 @@ title: 'Replication Crisis'
 draft: false # set to "true" if you want to hide the content 
 #link: "https://siegristlk.github.io/meine-website/de" # optional URL to link the logo to
 
-params:
+#params:
     #button:
         #icon: "icon-arrow-right"
         #btnText: "Projekt öffnen"
         #URL: ""
-    image:
-        src: "images/works/replication_crisis.png"
-        scale: 0.2
+    #image:
+        #src: "images/works/replication_crisis.png"
+        #scale: 0.2
 
 ## The content is used for the description of the project
 ---
@@ -22,6 +22,9 @@ Ein interaktives Lernerlebnis
   width="100%" 
   height="600px" 
   style="border: none;">
+  allowfullscreen 
+  webkitallowfullscreen 
+  mozallowfullscreen>
 </iframe>
 {{< /rawhtml >}}
 

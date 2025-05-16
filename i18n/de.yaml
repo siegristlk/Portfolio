@@ -63,6 +63,10 @@
 - id: "experience_button3_url"
   translation: "/de/#experience-single"
 
+## Homepage client & work
+- id: "client_work_title"
+  translation: "Meine Projekte"
+
 ## Blog
 - id: "read_more"
   translation: "Mehr lesen"
@@ -95,15 +99,20 @@
 - id: "contact_message_placeholder"
   translation: "Ihre Nachricht"
 
-- id: "contact_phone_title"
+- id: "contact_phone_heading"
   translation: "Handynummer"
 
-- id: "contact_phone_number"
+- id: "phone"
   translation: "+41 76 748 47 46"
 
-- id: "contact_email_title"
+- id: "contact_email_heading"
   translation: "E-Mail"
 
 - id: "contact_email_email"
   translation: '<a href="mailto:siegrist.lk@gmail.com">siegrist.lk@gmail.com</a>'
 
+- id: "contact_location_heading"
+  translation: "Location"
+
+- id: "contact_adress_adress"
+  transation: "Basel"

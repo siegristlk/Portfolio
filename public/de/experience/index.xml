@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erfahrungen on </title>
-    <link>https://siegristlk.github.io/meine-website/de/experience/</link>
+    <link>http://localhost:1313/meine-website/de/experience/</link>
     <description>Recent content in Erfahrungen on </description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="https://siegristlk.github.io/meine-website/de/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/meine-website/de/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Praktikantin bei F. Hoffmann-La Roche AG</title>
-      <link>https://siegristlk.github.io/meine-website/de/experience/job-3/</link>
+      <link>http://localhost:1313/meine-website/de/experience/job-3/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/de/experience/job-3/</guid>
+      <guid>http://localhost:1313/meine-website/de/experience/job-3/</guid>
       <description>&lt;h3 id=&#34;mint-erfahrungen-zum-anfassen-die-komplexität-in-neugierde-verwandeln&#34;&gt;MINT-Erfahrungen zum Anfassen, die Komplexität in Neugierde verwandeln&lt;/h3&gt;&#xA;&lt;p&gt;Im &lt;em&gt;Schülerlabor Experio&lt;/em&gt; der Firma Hoffmann-La Roche arbeite ich an der Konzeption und Durchführung von praktischen MINT-Workshops mit, die naturwissenschaftliche Konzepte für Schülerinnen und Schüler erlebbar machen. Zu meinen Aufgaben gehört nicht nur die Durchführung von Veranstaltungen im Labor, sondern auch die Unterstützung bei der Entwicklung neuer Unterrichtsformate und digitaler Lernerfahrungen. Ich passe unsere Angebote an die unterschiedlichen Bedürfnisse der einzelnen Klassen an - einige profitieren von einer strukturierten Anleitung, während andere mit mehr Autonomie und Freiraum zum Erforschen besser zurechtkommen. Diese Erfahrung hat mein Verständnis dafür vertieft, wie Lernumgebungen sowohl kreativ als auch funktional sein können, und wie didaktische Klarheit und Flexibilität Hand in Hand gehen können. Sie hat auch meine Fähigkeiten geschärft, komplexe Inhalte in ansprechende, altersgerechte Lernformate zu übersetzen - sowohl analog als auch digital.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wissenschaftliche Mitarbeiterin am Fachbereich Informatik</title>
-      <link>https://siegristlk.github.io/meine-website/de/experience/job-2/</link>
+      <link>http://localhost:1313/meine-website/de/experience/job-2/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/de/experience/job-2/</guid>
+      <guid>http://localhost:1313/meine-website/de/experience/job-2/</guid>
       <description>&lt;h3 id=&#34;bedürfnisse-der-lernenden-erforschen---erfahrungen-in-der-bildungsforschung-vertiefen&#34;&gt;Bedürfnisse der Lernenden erforschen - Erfahrungen in der Bildungsforschung vertiefen&lt;/h3&gt;&#xA;&lt;p&gt;Als Forschungsassistentin im &lt;em&gt;Technology-Enhanced Learning Lab&lt;/em&gt; von Professor Tomohiro Nagashima an der Universität des Saarlandes unterstützte ich ein qualitatives Forschungsprojekt, dessen Ziel es war, zu verstehen, wie Schüler, Lehrer und andere Beteiligte den Einsatz von KI-Tools im Unterricht wahrnehmen und bevorzugen. Ein wesentlicher Teil meiner Arbeit bestand in der Planung und Durchführung von halbstrukturierten Interviews mit Lehrern sowie in der Analyse und Interpretation der gewonnenen qualitativen Daten. Ich arbeitete auch mit Storyboards, um realistische Benutzerszenarien zu erstellen, die uns bei der Gestaltung der Interviews und der Datenanalyse halfen. Durch diese Erfahrung habe ich meine Fähigkeiten in der nutzerzentrierten Forschung vertieft, insbesondere in der Identifizierung von Bildungsbedürfnissen, dem Vergleich von Perspektiven und der Umsetzung der Ergebnisse in designrelevante Schlussfolgerungen für digitale Lernsysteme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Werkstudentin in Produktion und Montage</title>
-      <link>https://siegristlk.github.io/meine-website/de/experience/job-1/</link>
+      <link>http://localhost:1313/meine-website/de/experience/job-1/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/de/experience/job-1/</guid>
+      <guid>http://localhost:1313/meine-website/de/experience/job-1/</guid>
       <description>&lt;h3 id=&#34;erste-erfahrungen-in-der-industriellen-arbeitswelt&#34;&gt;Erste Erfahrungen in der industriellen Arbeitswelt&lt;/h3&gt;&#xA;&lt;p&gt;Während meiner Zeit als Werkstudentin bei ZF Friedrichshafen war ich in der Montage von Fahrzeuggetrieben im Rahmen einer Grossserienfertigung am Fliessband tätig. Diese praktische Erfahrung hat mir wertvolle Einblicke in die Dynamik, die Routinen und die Anforderungen eines industriellen Umfelds gegeben. Sie hat mein Verständnis dafür geprägt, was es bedeutet, in strukturierten, prozessgesteuerten Umgebungen zu arbeiten - und mein Bewusstsein dafür geschärft, wie Lernen und Kommunikation auf die Bedürfnisse von Menschen in solchen Kontexten zugeschnitten sein müssen.&lt;/p&gt;</description>
     </item>
   </channel>

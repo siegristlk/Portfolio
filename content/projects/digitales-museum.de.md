@@ -7,11 +7,11 @@ draft: false # set to "true" if you want to hide the content
 params:
     button:
         icon: "icon-arrow-right"
-        btnText: "Öffne das Projekt"
+        btnText: "Projekt öffnen"
         URL: "https://www.artsteps.com/view/63d91dced8b47568e2a16e45"
     image:
         src: "images/works/museum.png"
-        scale: 0.3
+        scale: 0.2
 
 ## The content is used for the description of the project
 ---

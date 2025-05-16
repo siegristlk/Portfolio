@@ -7,7 +7,7 @@ draft: false # set to "true" if you want to hide the content
 params:
     button:
         icon: "icon-arrow-right"
-        btnText: "Öffne das Projekt"
+        btnText: "Projekt öffnen"
         URL: "https://www.figma.com/proto/wNmdex79IOaeZrrnf4SL66/UdSustainable?node-id=416-5855&starting-point-node-id=416%3A5855&mode=design&t=Dp8N2UczhaenCqGT-1"
     #image:
         #src: "images/works/radity-finance.jpg"
@@ -17,7 +17,6 @@ params:
 ---
 {{< rawhtml >}} 
 <div style="display: flex; align-items: center; gap: 20px;">
-<h1 style="font-size: 12px;">Ein Prototyp für eine Nachhaltigkeits-App der Universität des Saarlandes</h1>
 <video width=30% controls autoplay muted loop style="border: 1px solid #ccc; border-radius: 4px;">>
     <source src="/meine-website/videos/udsustainable2.webm" type="video/webm">
     <source src="/meine-website/videos/udsustainable2.mp4" type="video/mp4">
@@ -27,3 +26,4 @@ params:
 </div>
 {{< /rawhtml >}}
 
+Ein Prototyp für eine Nachhaltigkeits-App der Universität des Saarlandes.

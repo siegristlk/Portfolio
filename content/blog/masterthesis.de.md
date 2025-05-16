@@ -1,6 +1,6 @@
 +++
 title = 'Erforschung der Perspektiven von Schülern und Lehrern in KI-gestützten Klassenzimmern'
-date = 2023-05-28T14:38:33+02:00
+date = 2024-09-12T14:38:33+02:00
 draft = false
 type = 'blog'
 +++

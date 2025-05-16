@@ -1,6 +1,6 @@
 +++
 title = 'Eine Einführung in die Replikationskrise und Open Science'
-date = 2023-08-27T14:38:33+02:00
+date = 2023-05-28T14:38:33+02:00
 draft = false
 type = 'blog'
 +++

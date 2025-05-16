@@ -210,6 +210,18 @@
                 href="https://siegristlk.github.io/meine-website/de/education/high-school/"
                 />
   </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/blog/masterthesis/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/blog/masterthesis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/blog/masterthesis/"
+                />
+  </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/categories/</loc>
     <xhtml:link
                 rel="alternate"

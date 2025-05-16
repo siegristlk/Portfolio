@@ -19,7 +19,7 @@ params:
 Ein Prototyp für eine Nachhaltigkeits-App der Universität des Saarlandes 
 
 {{< rawhtml >}} 
-<video width=100% controls autoplay muted loop>
+<video width=30% controls autoplay muted loop>
     <source src="/meine-website/videos/udsustainable2.webm" type="video/webm">
     <source src="/meine-website/videos/udsustainable2.mp4" type="video/mp4">
 

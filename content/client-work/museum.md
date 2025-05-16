@@ -8,7 +8,7 @@ link: "https://siegristlk.github.io/meine-website/de/#client-and-work-section/UD
 params:
     logo: 
         src: "images/clients/artsteps.png"
-        scale: "300x"
+        scale: 0.5
 ## The content is not used (yet). If you have ideas on how to use it, 
 ## you can suggest it at https://github.com/zetxek/adritian-free-hugo-theme/discussions 
 ---

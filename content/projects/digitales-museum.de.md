@@ -15,5 +15,6 @@ params:
 
 ## The content is used for the description of the project
 ---
+Das Thema Open Educational Resources (OER) wurde in Form eines digitalen Museums aufbereitet – jedoch bewusst anders als klassische Ausstellungen. Wer kennt es nicht: endlose Textwände, überladene Tafeln – da lässt das Interesse oft schnell nach, und der Lerneffekt bleibt gering.
 
-Das Thema "Open Educational Ressources" in Form eines digitalen Museums ausgearbeitet.
+Dieses Museum setzt genau dort an: Es ist nicht nur digital und damit deutlich barriereärmer zugänglich, sondern auch interaktiv gestaltet. Besucher:innen können selbst aktiv werden, Dinge einschätzen, raten und entdecken. So entsteht ein Lernerlebnis, das neugierig macht, einbindet und im Gedächtnis bleibt.

@@ -17,6 +17,6 @@ params:
 ---
 Diese Lerneinheit entstand im Rahmen eines Gruppenprojekts und führt Lernende interaktiv in das Thema Replikationskrise in der empirischen Forschung ein. Sie zeigt, warum Replizierbarkeit für die Aussagekraft wissenschaftlicher Ergebnisse wichtig ist und wie Forschungsentscheidungen deren Qualität beeinflussen können.
 
-Das didaktische Design basiert auf Gagnés „Nine Events of Instruction“ sowie Schanks „Goal-Based-Scenario“ und nutzt strukturierte Lernszenarien mit Wissensvermittlung, Übungsphasen und Feedback, um eine interaktive, praxisnahe Lernumgebung zu schaffen. Die Einheit unterstützt Lernende dabei, problematische Forschungspraktiken zu erkennen und Prinzipien wie Transparenz und Replizierbarkeit in ihre eigene Arbeit zu übertragen.
+Das didaktische Design basiert auf Gagnés „Nine Events of Instruction“ sowie Schanks „Goal-Based-Scenario“ und nutzt strukturierte Lernszenarien mit Wissensvermittlung, Übungsphasen und Feedback, um eine interaktive, praxisnahe Lernumgebung zu schaffen. Entwickelt wurde die Einheit mit Articulate Storyline 360, um ein ansprechendes und leicht zugängliches Lernerlebnis zu ermöglichen.
 
-Sie richtet sich an Einsteiger:innen ebenso wie an erfahrene Forschende und lässt sich flexibel an unterschiedliche Vorkenntnisse anpassen.
+Sie unterstützt Lernende dabei, problematische Forschungspraktiken zu erkennen und Prinzipien wie Transparenz und Replizierbarkeit in ihre eigene Arbeit zu übertragen. Die Einheit richtet sich an Einsteiger:innen ebenso wie an erfahrene Forschende und lässt sich flexibel an unterschiedliche Vorkenntnisse anpassen.

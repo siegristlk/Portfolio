@@ -26,4 +26,8 @@ params:
 </div>
 {{< /rawhtml >}}
 
-Ein Prototyp für eine Nachhaltigkeits-App der Universität des Saarlandes.
+Nachhaltigkeit auf dem Campus kann herausfordernd sein – besonders für internationale Studierende, denen das deutsche Mülltrennungssystem oft unbekannt ist. Eine Nutzerstudie zeigte, dass sie sich wenig mit dem Thema befassen und bestehende Informationen meist nur auf Deutsch und daher schwer zugänglich sind.
+
+Auch die Universität des Saarlandes verfolgt das Ziel, nachhaltiges Verhalten bei Studierenden und Mitarbeitenden zu fördern. Als Ort von Forschung und Innovation trägt sie besondere gesellschaftliche Verantwortung.
+
+Deshalb wurde entschieden, auf Basis der bestehenden Campus-App – bekannt etwa für den Mensaplan – einen interaktiven Prototypen zu entwickeln, der Nachhaltigkeitsinhalte integriert. Dieser wurde mit Figma umgesetzt und zeigt, wie etwa Tipps zum Recycling oder zur Fahrradnutzung leicht zugänglich und nutzerfreundlich eingebunden werden können.

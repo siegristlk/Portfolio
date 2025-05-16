@@ -6,27 +6,13 @@
     <description>Recent content in Educations on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 09:53:42 +0200</lastBuildDate>
     <atom:link href="https://siegristlk.github.io/meine-website/en/education/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>High School Marienschule</title>
-      <link>https://siegristlk.github.io/meine-website/en/education/high-school/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/en/education/high-school/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Saarland University</title>
       <link>https://siegristlk.github.io/meine-website/en/education/university-ma/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <pubDate>Mon, 05 May 2025 09:53:42 +0200</pubDate>
       <guid>https://siegristlk.github.io/meine-website/en/education/university-ma/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Trier University</title>
-      <link>https://siegristlk.github.io/meine-website/en/education/university-ba/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/en/education/university-ba/</guid>
       <description></description>
     </item>
     <item>
@@ -34,6 +20,20 @@
       <link>https://siegristlk.github.io/meine-website/en/education/university-ma-agder/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
       <guid>https://siegristlk.github.io/meine-website/en/education/university-ma-agder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trier University</title>
+      <link>https://siegristlk.github.io/meine-website/en/education/university-ba/</link>
+      <pubDate>Wed, 25 Oct 2023 09:53:42 +0200</pubDate>
+      <guid>https://siegristlk.github.io/meine-website/en/education/university-ba/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>High School Marienschule</title>
+      <link>https://siegristlk.github.io/meine-website/en/education/high-school/</link>
+      <pubDate>Thu, 25 Aug 2016 09:53:42 +0200</pubDate>
+      <guid>https://siegristlk.github.io/meine-website/en/education/high-school/</guid>
       <description></description>
     </item>
   </channel>

@@ -96,6 +96,9 @@
 - id: "contact_email_placeholder"
   translation: "Ihre E-Mail Adresse"
 
+- id: "contact_phone_placeholder"
+  translation: "Ihre Telefonnummer (optional)"
+
 - id: "contact_message_placeholder"
   translation: "Ihre Nachricht"
 

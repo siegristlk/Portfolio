@@ -14,7 +14,7 @@ draft = false
  >}}
 
     {{< platform-links >}}
-        {{< link icon="linkedin" url="https://www.linkedin.com/de/lisa-siegrist/" >}}
+        {{< link icon="linkedin" url="https://www.linkedin.com/in/lisa-siegrist/" >}}
         {{< link icon="square-github" url="https://github.com/siegristlk" >}}
         {{< link icon="instagram" url="https://www.instagram.com/lisasiegrist" >}}
     {{< /platform-links >}}

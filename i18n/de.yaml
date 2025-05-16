@@ -41,6 +41,8 @@
 ## Homepage head title
 - id: "head_title"
   translation: "Lisa Siegrist | Digital Learning Developerin & Instructional Designerin"
+
+- id: "head_description"
   translation: "Portfolio Lisa Siegrist"
 
 ## Homepage education
@@ -51,12 +53,12 @@
 - id: "experience_button"
   translation: "LinkedIn" 
 - id: "experience_button_url"
-  translation: "https://www.linkedin.com/lisasiegrist/"
+  translation: "/files/CV_LisaSiegrist_de.pdf"
 
 - id: "experience_button2"
   translation: "Lebenslauf"
 - id: "experience_button2_url"
-  translation: "/files/CV_LisaSiegrist_de.pdf"
+  translation: "files/CV_LisaSiegrist_de.pdf"
 
 - id: "experience_button3"
   translation: "Alle Erfahrungen"

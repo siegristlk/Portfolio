@@ -16,9 +16,7 @@ draft = false
         {{< link icon="linkedin" url="https://www.linkedin.com/in/lisa-siegrist/" >}}
         {{< link icon="square-github" url="https://github.com/siegristlk" >}}
         {{< link icon="instagram" url="https://www.instagram.com/lisasiegrist" >}}
-
     {{< /platform-links >}}
-
 {{< /showcase-section >}}
 
 {{< about-section
@@ -32,16 +30,24 @@ draft = false
     title="Education" >}}
 
 {{< experience-section
-    title="Experience"
-    intro_title=" "
-    intro_description="With a strong foundation in education, digital design, and user-centred research, I’ve contributed to projects ranging from interactive learning environments to AI-supported feedback systems. Whether in small creative teams or larger organisations, I focus on turning complex educational challenges into clear, thoughtful solutions that make learning more accessible, engaging, and meaningful." 
-    button1_url="https://www.linkedin.com/in/lisa-siegrist/"
-    button1_text="See in LinkedIn"
+    title="My Experiences"
+    intro_title="Experiences"
+    intro_description="Thanks to my strong foundation in education, digital design and user-centred research, I have contributed to projects ranging from interactive learning environments to AI-powered feedback systems. Whether working within small creative teams or larger organisations, I focus on transforming complex pedagogical challenges into clear and thoughtful solutions that make learning more accessible, engaging, and meaningful." 
+    button1_enable=true
+    button1_url="https://www.linkedin.com/lisa-siegrist/"
+    button1_text="LinkedIn"
     button1_icon="icon-linkedin"
-    button2_url="static/files/CV_LisaSiegrist_de.pdf"
-    button2_text="Download résumé"
+    button2_enable=true
+    button2_url="/files/cv_lisasiegrist_de.pdf"
+    button2_text="CV"
+    button2_icon="icon-download"
+    button3_enable=true
+    button3_text="All Experiences"
+    button3_url="/de/#experience-list"
+    button3_icon="icon-arrow-right"  
 >}}
 
-{{< experience-list
-    title="Experience (as list)"
-    padding="false" >}}
+{{< client-and-work-section
+    title="My Projects" >}} 
+
+{{< spacer size="large" >}}

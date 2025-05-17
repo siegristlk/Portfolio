@@ -27,7 +27,7 @@ draft = false
 
 {{< experience-section
     title="My Experiences"
-    intro_title="xx"
+    intro_title=" "
     intro_description="Thanks to my strong foundation in education, digital design and user-centred research, I have contributed to projects ranging from interactive learning environments to AI-powered feedback systems. Whether working within small creative teams or larger organisations, I focus on transforming complex pedagogical challenges into clear and thoughtful solutions that make learning more accessible, engaging, and meaningful."
 >}}
 

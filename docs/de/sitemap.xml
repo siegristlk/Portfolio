@@ -80,6 +80,61 @@
                 href="https://siegristlk.github.io/meine-website/de/blog/masterthesis/"
                 />
   </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/tags/interviews/</loc>
+    <lastmod>2024-09-12T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/tags/interviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/tags/interviews/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/tags/qualitative-forschung/</loc>
+    <lastmod>2024-09-12T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/tags/storyboards/</loc>
+    <lastmod>2024-09-12T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/tags/storyboards/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/tags/storyboards/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/tags/</loc>
+    <lastmod>2024-09-12T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/tags/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/tags/user-centred-research/</loc>
+    <lastmod>2024-09-12T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/tags/user-centred-research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/tags/user-centred-research/"
+                />
+  </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/projects/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
@@ -184,6 +239,22 @@
                 href="https://siegristlk.github.io/meine-website/de/projects/itea/"
                 />
   </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/tags/articulate-360/</loc>
+    <lastmod>2023-05-28T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/meine-website/en/tags/articulate-360/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/meine-website/de/tags/articulate-360/"
+                />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/tags/didaktik/</loc>
+    <lastmod>2023-05-28T14:38:33+02:00</lastmod>
+  </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/blog/replicationcrisis/</loc>
     <lastmod>2023-05-28T14:38:33+02:00</lastmod>
     <xhtml:link
@@ -196,6 +267,9 @@
                 hreflang="de"
                 href="https://siegristlk.github.io/meine-website/de/blog/replicationcrisis/"
                 />
+  </url><url>
+    <loc>https://siegristlk.github.io/meine-website/de/tags/interaktiv/</loc>
+    <lastmod>2023-05-28T14:38:33+02:00</lastmod>
   </url><url>
     <loc>https://siegristlk.github.io/meine-website/de/blog/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
@@ -296,18 +370,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://siegristlk.github.io/meine-website/de/home/home/"
-                />
-  </url><url>
-    <loc>https://siegristlk.github.io/meine-website/de/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://siegristlk.github.io/meine-website/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://siegristlk.github.io/meine-website/de/tags/"
                 />
   </url>
 </urlset>

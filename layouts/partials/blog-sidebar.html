@@ -21,7 +21,7 @@
       {{ range first .Site.Params.blog.recentPostCount (where .Site.RegularPages "Type" "blog") }}
       <li>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+        <span class="post-date">{{ .Date.Format (i18n "date_format") }}</span>
       </li>
       {{ end }}
     </ul>

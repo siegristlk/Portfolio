@@ -76,6 +76,14 @@
   translation: "Veröffentlicht am "
 - id: "continue_reading"
   translation: "Weiterlesen"
+- id: "categories"
+  translation: "Kategorien"
+- id: "recent_posts"
+  translation: "Neueste Beiträge"
+- id: date_format
+  translation: "2. Jan 2006"
+
+
 
 ## 404 Page
 - id: "404_title"

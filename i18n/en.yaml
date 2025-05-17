@@ -93,7 +93,8 @@
   translation: "Recent Posts"
 - id: date_format
   translation: "Jan 2, 2006"
-
+- id: words
+  translation: "Words"
 
 
 ## 404 Page

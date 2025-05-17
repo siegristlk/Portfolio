@@ -82,6 +82,8 @@
   translation: "Neueste Beiträge"
 - id: date_format
   translation: "2. Jan 2006"
+- id: words
+  translation: "Wörter"
 
 
 

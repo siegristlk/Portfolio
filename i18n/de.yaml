@@ -104,3 +104,11 @@
 - id: "contact_message_placeholder"
   translation: "Ihre Nachricht"
 
+- id: "contact_linkedin_heading"
+  translation: "LinkedIn"
+
+- id: "contact_linkedin_linktext"
+  translation: "Profil ansehen"
+
+- id: "contact_linkedin_url"
+  translation: "https://www.linkedin.com/in/lisa-siegrist"

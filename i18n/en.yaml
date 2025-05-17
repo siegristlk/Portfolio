@@ -117,3 +117,11 @@
 - id: "contact_message_placeholder"
   translation: "Your Message"
 
+- id: "contact_linkedin_heading"
+  translation: "LinkedIn"
+
+- id: "contact_linkedin_linktext"
+  translation: "View Profile"
+
+- id: "contact_linkedin_url"
+  translation: "https://www.linkedin.com/in/lisa-siegrist"

@@ -12,11 +12,7 @@ draft = false
     imgSrc="images/showcase/Bewerbungsfoto.png"
     imgScale="0.5"
  >}}
-    {{< platform-links >}}
-        {{< link icon="linkedin" url="https://www.linkedin.com/in/lisa-siegrist/" >}}
-        {{< link icon="square-github" url="https://github.com/siegristlk" >}}
-        {{< link icon="instagram" url="https://www.instagram.com/lisasiegrist" >}}
-    {{< /platform-links >}}
+
 {{< /showcase-section >}}
 
 {{< about-section

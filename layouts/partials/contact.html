@@ -61,6 +61,7 @@
 {{ $email := .Get "email" | default .Site.Data.homepage.contact.email }}
 {{ $location := .Get "location" | default .Site.Data.homepage.contact.location }}
 
+
 {{/*----------------------------------------------
     HEADING LABELS
 ------------------------------------------------*/}}
@@ -115,6 +116,16 @@
                     {{ if $location }}
                     <h3>{{ $location_heading }}</h3>
                     <span>{{ $location }}</span>
+                    {{ end }}
+
+                    {{/* LINKEDIN */}}
+                    {{ $linkedin_heading := i18n "contact_linkedin_heading" }}
+                    {{ $linkedin_linktext := i18n "contact_linkedin_linktext" }}
+                    {{ $linkedin_url := i18n "contact_linkedin_url" }}
+
+                    {{ if $linkedin_url }}
+                    <h3>{{ $linkedin_heading }}</h3>
+                    <span><a href="{{ $linkedin_url }}" target="_blank" rel="noopener noreferrer">{{ $linkedin_linktext }}</a></span>
                     {{ end }}
                 </div>
             </div>

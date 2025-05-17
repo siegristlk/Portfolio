@@ -1,7 +1,7 @@
 ---
 title: Erfahrungen
 button1_text: LinkedIn
-button1_url: https://www.linkedin.com/lisa-siegrist/
+button1_url: https://www.linkedin.com/in/lisa-siegrist/
 button1_icon: icon-square-inkedin
 
 button2_text: CV

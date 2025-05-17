@@ -41,6 +41,25 @@
                 href="http://localhost:1313/meine-website/de/education/university-ma/"
                 />
   </url><url>
+    <loc>http://localhost:1313/meine-website/de/tags/design-thinking/</loc>
+    <lastmod>2025-04-12T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/meine-website/de/blog/mintwettbewerb/</loc>
+    <lastmod>2025-04-12T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/meine-website/de/tags/</loc>
+    <lastmod>2025-04-12T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/meine-website/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/meine-website/de/tags/"
+                />
+  </url><url>
     <loc>http://localhost:1313/meine-website/de/experience/</loc>
     <lastmod>2024-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -107,19 +126,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://localhost:1313/meine-website/de/tags/storyboards/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/meine-website/de/tags/</loc>
-    <lastmod>2024-09-12T14:38:33+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/meine-website/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/meine-website/de/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/meine-website/de/tags/user-centred-research/</loc>

@@ -63,7 +63,6 @@
       "breadcrumbs",
       "btn",
       "btn-block",
-      "btn-frameless",
       "btn-link",
       "btn-outline-secondary",
       "btn-primary",
@@ -160,12 +159,7 @@
       "home",
       "home-container",
       "icon-arrow-right",
-      "icon-circle-arrow-up",
       "icon-download",
-      "icon-face-smile",
-      "icon-instagram",
-      "icon-linkedin",
-      "icon-square-github",
       "icon-square-inkedin",
       "image-left-overflow",
       "img-responsive",
@@ -184,7 +178,6 @@
       "light",
       "light-border-bottom",
       "light-border-top",
-      "linkedin",
       "list",
       "list-section",
       "list-taxonomy",
@@ -237,7 +230,6 @@
       "page-job-2",
       "page-job-3",
       "page-masterthesis",
-      "page-mintwettb",
       "page-mintwettbewerb",
       "page-nachhaltigkeit",
       "page-storyline",
@@ -282,7 +274,6 @@
       "section--contact",
       "section-experience",
       "selected",
-      "shortcode",
       "show",
       "showcase-section",
       "sidebar-section",
@@ -350,8 +341,7 @@
       "title",
       "welcome-to-my-blog",
       "willkommen-in-meinem-blog",
-      "wordcount",
-      "xx"
+      "wordcount"
     ]
   }
 }

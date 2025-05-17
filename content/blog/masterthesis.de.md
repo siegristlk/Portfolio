@@ -1,9 +1,14 @@
-+++
-title = 'Erforschung der Perspektiven von Schülern und Lehrern in KI-gestützten Klassenzimmern'
-date = 2024-09-12T14:38:33+02:00
-draft = false
-type = 'blog'
-+++
+---
+title: 'Erforschung der Perspektiven von Schülern und Lehrern in KI-gestützten Klassenzimmern'
+date: 2024-09-12T14:38:33+02:00
+draft: false
+type: 'blog'
+tags: 
+  - User Centred Research
+  - Interviews
+  - Storyboards
+  - Qualitative Forschung
+---
 
 # Masterarbeit zur Erlangung des akademischen Grades Master of Science (M.Sc.)
 Betreuer: Prof. Dr. Tomohiro Nagashima & Dr. Man Su

@@ -1,9 +1,14 @@
-+++
-title = 'Eine Einführung in die Replikationskrise und Open Science'
-date = 2023-05-28T14:38:33+02:00
-draft = false
-type = 'blog'
-+++
+---
+title: 'Eine Einführung in die Replikationskrise und Open Science'
+date: 2023-05-28T14:38:33+02:00
+draft: false
+type: 'blog'
+featured: false
+tags: 
+  - Articulate 360
+  - interaktiv
+  - Didaktik
+---
 
 # Interaktive Lerneinheit über die Replikationskrise
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">

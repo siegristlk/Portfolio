@@ -1,9 +1,14 @@
-+++
-title = 'Exploring Students’ and Teachers’ Perspectives in AI-supported Classrooms'
-date = 2024-09-12T14:38:33+02:00
-draft = false
-type = 'blog'
-+++
+---
+title: 'Exploring Students’ and Teachers’ Perspectives in AI-supported Classrooms'
+date: 2024-09-12T14:38:33+02:00
+draft: false
+type: 'blog'
+tags: 
+  - User Centred Research
+  - Interviews
+  - Storyboards
+  - Qualitative Research
+---
 
 # Masterthesis for the Attainment of the Degree Master of Science (M.Sc.)
 Supervisor: Prof. Dr. Tomohiro Nagashima & Dr. Man Su

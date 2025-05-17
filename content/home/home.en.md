@@ -28,19 +28,7 @@ draft = false
 {{< experience-section
     title="My Experiences"
     intro_title="Experiences"
-    intro_description="Thanks to my strong foundation in education, digital design and user-centred research, I have contributed to projects ranging from interactive learning environments to AI-powered feedback systems. Whether working within small creative teams or larger organisations, I focus on transforming complex pedagogical challenges into clear and thoughtful solutions that make learning more accessible, engaging, and meaningful." 
-    button1_enable=true
-    button1_url="https://www.linkedin.com/lisa-siegrist/"
-    button1_text="LinkedIn"
-    button1_icon="icon-linkedin"
-    button2_enable=true
-    button2_url="/files/cv_lisasiegrist_de.pdf"
-    button2_text="CV"
-    button2_icon="icon-download"
-    button3_enable=true
-    button3_text="All Experiences"
-    button3_url="/de/#experience-list"
-    button3_icon="icon-arrow-right"  
+    intro_description="Thanks to my strong foundation in education, digital design and user-centred research, I have contributed to projects ranging from interactive learning environments to AI-powered feedback systems. Whether working within small creative teams or larger organisations, I focus on transforming complex pedagogical challenges into clear and thoughtful solutions that make learning more accessible, engaging, and meaningful."
 >}}
 
 {{< client-and-work-section

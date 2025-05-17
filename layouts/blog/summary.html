@@ -5,7 +5,7 @@
       <div>
         <div class="post-meta-info">
           <span class="published-label">{{ i18n "published_on" }}</span> 
-          <time class="date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format (i18n "date_format") }}</time> · 
+          <time class="date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format (i18n "date_format") }}</time>
           <span class="wordcount">
             {{ .WordCount }} {{ i18n "words" | default "Words" }} 
           </span>

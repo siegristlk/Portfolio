@@ -237,6 +237,7 @@
       "page-job-2",
       "page-job-3",
       "page-masterthesis",
+      "page-mintwettb",
       "page-nachhaltigkeit",
       "page-storyline",
       "page-university-ba",
@@ -348,7 +349,8 @@
       "title",
       "welcome-to-my-blog",
       "willkommen-in-meinem-blog",
-      "wordcount"
+      "wordcount",
+      "xx"
     ]
   }
 }

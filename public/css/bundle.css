@@ -1,8 +1,43 @@
-.lead {
-  line-height: 1.8 !important;
-  font-size: 1.1rem; /* optional – falls du die Schriftgröße leicht erhöhen möchtest */
-   /* max-width: 700px;   /* optional – begrenzt die Breite für bessere Lesbarkeit */
+.lead {             /* Changes Format in the Showcase Section */
+  line-height: 1.6 !important;
+  font-size: 1.4rem; /* optional – falls du die Schriftgröße leicht erhöhen möchtest */
+   /* max-width: 700px;*/   /* optional – begrenzt die Breite für bessere Lesbarkeit */
 }
+
+.about-me.content.lead { /* Changes Format in the About Me Section */
+  font-size: 1.6rem;
+  line-height: 1.4;
+  /* color: #333;
+  padding-right: 1rem; */
+}
+
+h1 {
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+/*.blog-summary {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.blog-text {
+  flex: 2 1 250px;
+}
+
+/.blog-image {
+  flex: 1 1 200px;
+}
+
+.blog-image img {
+  max-width: 80%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}*/
+
 
 /* You can customize theme styles here */
 @font-face {

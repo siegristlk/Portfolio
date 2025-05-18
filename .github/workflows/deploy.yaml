@@ -1,7 +1,4 @@
-name: Build Hugo site into /docs
-
-permissions:
-  contents: write
+name: Build and Deploy Hugo to Codeberg Pages
 
 on:
   push:
@@ -9,12 +6,12 @@ on:
       - main
 
 jobs:
-  build:
+  build-and-deploy-codeberg:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -22,14 +19,24 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build site into docs/
-        run: hugo -d docs
+      - name: Build Hugo Site into public/
+        run: hugo
 
-      - name: Commit built site to main/docs
+      - name: Setup SSH for Codeberg
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add docs
-          git diff --cached --quiet || (git commit -m "Rebuild site into /docs" && git push)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          mkdir -p ~/.ssh
+          echo "${{ secrets.CODEBERG_DEPLOY_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan codeberg.org >> ~/.ssh/known_hosts
+
+      - name: Deploy to Codeberg Pages
+        run: |
+          cd public
+          git init
+          git config user.name "GitHub CI"
+          git config user.email "ci@github.com"
+          git remote add origin git@codeberg.org:siegristlk/pages.git
+          git checkout -b main
+          git add .
+          git commit -m "🚀 Auto deploy to Codeberg Pages"
+          git push -f origin main

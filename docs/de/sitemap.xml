@@ -43,9 +43,29 @@
   </url><url>
     <loc>https://siegristlk.github.io/portfolio/de/tags/design-thinking/</loc>
     <lastmod>2025-04-12T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/portfolio/en/tags/design-thinking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/portfolio/de/tags/design-thinking/"
+                />
   </url><url>
     <loc>https://siegristlk.github.io/portfolio/de/blog/mintwettbewerb/</loc>
     <lastmod>2025-04-12T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://siegristlk.github.io/portfolio/en/blog/mintwettbewerb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://siegristlk.github.io/portfolio/de/blog/mintwettbewerb/"
+                />
   </url><url>
     <loc>https://siegristlk.github.io/portfolio/de/tags/</loc>
     <lastmod>2025-04-12T14:38:33+02:00</lastmod>

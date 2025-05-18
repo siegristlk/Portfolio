@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design Thinking on </title>
-    <link>http://localhost:1313/meine-website/de/tags/design-thinking/</link>
+    <link>http://localhost:1313/portfolio/de/tags/design-thinking/</link>
     <description>Recent content in Design Thinking on </description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sat, 12 Apr 2025 14:38:33 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/meine-website/de/tags/design-thinking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/de/tags/design-thinking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MINT-Wettbewerb im Schullabor Experio Roche</title>
-      <link>http://localhost:1313/meine-website/de/blog/mintwettbewerb/</link>
+      <link>http://localhost:1313/portfolio/de/blog/mintwettbewerb/</link>
       <pubDate>Sat, 12 Apr 2025 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/meine-website/de/blog/mintwettbewerb/</guid>
+      <guid>http://localhost:1313/portfolio/de/blog/mintwettbewerb/</guid>
       <description>&lt;div style=&#34;display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;!-- Text links --&gt;&#xA;  &lt;div style=&#34;flex: 2; min-width: 250px;&#34;&gt;&#xA;    &lt;p&gt;&#xA;      Ein großartiges Projekt, das mein Herz höherschlagen lässt! Im Rahmen eines zweitägigen MINT-Wettbewerbs hatten wir die Chance, eine immersive Lernumgebung zu gestalten, in der Schülerinnen und Schüler durch realitätsnahe Szenarien herausgefordert wurden – vom Erdbebeneinsatz bis zur Regenwaldforschung.&lt;/p&gt;&lt;p&gt;Die Jugendlichen stellten sich spannenden Aufgaben: Am ersten Tag sollten sie im Kontext eines Erdbebens Wasser über eine möglichst weite Strecke transportieren, am zweiten Tag galt es, Wasser in luftige Höhen zu befördern, um Forschende in Baumunterkünften zu versorgen. Diese authentischen Kontexte halfen ihnen, vorhandenes Wissen zu aktivieren, sich in neue Rollen hineinzuversetzen und eigenständig kreative Lösungen zu entwickeln.&lt;/p&gt;</description>
     </item>
   </channel>

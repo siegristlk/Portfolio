@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>http://localhost:1313/meine-website/en/tags/</link>
+    <link>http://localhost:1313/portfolio/en/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 12 Sep 2024 14:38:33 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/meine-website/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interviews</title>
-      <link>http://localhost:1313/meine-website/en/tags/interviews/</link>
+      <link>http://localhost:1313/portfolio/en/tags/interviews/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/meine-website/en/tags/interviews/</guid>
+      <guid>http://localhost:1313/portfolio/en/tags/interviews/</guid>
       <description></description>
     </item>
     <item>
       <title>Qualitative Research</title>
-      <link>http://localhost:1313/meine-website/en/tags/qualitative-research/</link>
+      <link>http://localhost:1313/portfolio/en/tags/qualitative-research/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/meine-website/en/tags/qualitative-research/</guid>
+      <guid>http://localhost:1313/portfolio/en/tags/qualitative-research/</guid>
       <description></description>
     </item>
     <item>
       <title>Storyboards</title>
-      <link>http://localhost:1313/meine-website/en/tags/storyboards/</link>
+      <link>http://localhost:1313/portfolio/en/tags/storyboards/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/meine-website/en/tags/storyboards/</guid>
+      <guid>http://localhost:1313/portfolio/en/tags/storyboards/</guid>
       <description></description>
     </item>
     <item>
       <title>User Centred Research</title>
-      <link>http://localhost:1313/meine-website/en/tags/user-centred-research/</link>
+      <link>http://localhost:1313/portfolio/en/tags/user-centred-research/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/meine-website/en/tags/user-centred-research/</guid>
+      <guid>http://localhost:1313/portfolio/en/tags/user-centred-research/</guid>
       <description></description>
     </item>
     <item>
       <title>Articulate 360</title>
-      <link>http://localhost:1313/meine-website/en/tags/articulate-360/</link>
+      <link>http://localhost:1313/portfolio/en/tags/articulate-360/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/meine-website/en/tags/articulate-360/</guid>
+      <guid>http://localhost:1313/portfolio/en/tags/articulate-360/</guid>
       <description></description>
     </item>
     <item>
       <title>Didactics</title>
-      <link>http://localhost:1313/meine-website/en/tags/didactics/</link>
+      <link>http://localhost:1313/portfolio/en/tags/didactics/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/meine-website/en/tags/didactics/</guid>
+      <guid>http://localhost:1313/portfolio/en/tags/didactics/</guid>
       <description></description>
     </item>
     <item>
       <title>Interactive</title>
-      <link>http://localhost:1313/meine-website/en/tags/interactive/</link>
+      <link>http://localhost:1313/portfolio/en/tags/interactive/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/meine-website/en/tags/interactive/</guid>
+      <guid>http://localhost:1313/portfolio/en/tags/interactive/</guid>
       <description></description>
     </item>
   </channel>

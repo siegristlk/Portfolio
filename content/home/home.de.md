@@ -32,7 +32,7 @@ draft = false
     intro_title=" "
     intro_description="Mit einem starken Fundament in Bildung, digitalem Design und nutzerzentrierter Forschung habe ich zu Projekten beigetragen, die von interaktiven Lernumgebungen bis hin zu KI-gestützten Feedbacksystemen reichen. Ob in kleinen kreativen Teams oder größeren Organisationen, ich konzentriere mich darauf, komplexe pädagogische Herausforderungen in klare, durchdachte Lösungen zu verwandeln, die das Lernen zugänglicher, ansprechender und sinnvoller machen." 
     button1_enable=true
-    button1_url="/meine-website/files/cv_lisasiegrist_de.pdf"
+    button1_url="/portfolio/files/cv_lisasiegrist_de.pdf"
     button1_text="Lebenslauf"
     button1_icon="icon-download" 
 >}}

@@ -1,3 +1,6 @@
+{{ if .Params.showBreadcrumbs | default false }} {{/*added this to disable breadcrumb, can be set true and add showBreadcrumbs: false
+ to blog to enable it again*/}}
+
 <section id="breadcrumb-bar" class="breadcrumb-bar container">
     <ul class="breadcrumbs d-print-none">
         <li class="breadcrum-item"><span><a href="{{ relURL "" }}">Home</a></span></li>
@@ -42,3 +45,7 @@
         {{- end -}}
     </ul>
 </section>
+{{ end }}
+{{ if not (.Params.showBreadcrumbs | default false) }} {{/*added to get space between navigation bar and blog heading*/}}
+<div style="margin-top: 100px;"></div>
+{{ end }}

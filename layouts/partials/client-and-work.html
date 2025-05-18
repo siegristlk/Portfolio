@@ -42,20 +42,22 @@
     <h2 class="rad-animation-group rad-fade-down">
       {{ $sectionTitle }}
     </h2>
-    <div class="row row--padded rad-animation-group rad-fade-down">
-      <div class="col-12">
-        <div class="clients">
-          {{ range $clients }}
-          <div class="clients__item">
-            <a href="{{ .Params.link }}" aria-label="Link to the client site for {{ .Params.title }} (opens in a new window)" target="_blank">
-
-              {{ partial "lazypicture" (dict "src" .Params.logo.src "scale" .Params.logo.scale "class" "portfolio-project img-responsive")}}
-            </a>
+    {{ if gt (len $clients) 0 }} {{/* added to delete space for client icons when there are no clients */}}
+      <div class="row row--padded rad-animation-group rad-fade-down">
+        <div class="col-12">
+          <div class="clients">
+            {{ range $clients }}
+            <div class="clients__item">
+              <a href="{{ .Params.link }}" aria-label="Link to the client site for {{ .Params.title }} (opens in a new window)" target="_blank">
+                {{ partial "lazypicture" (dict "src" .Params.logo.src "scale" .Params.logo.scale "class" "portfolio-project img-responsive") }}
+              </a>
+            </div>
+            {{ end }}
           </div>
-          {{ end }}
         </div>
       </div>
-    </div>
+    {{ end }}
+
     {{/* Projects */}}
     {{ range $index, $element := $projects }}
     {{ $is_even := eq (mod $index 2) 0 }}

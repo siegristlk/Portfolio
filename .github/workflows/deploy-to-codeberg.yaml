@@ -35,7 +35,7 @@ jobs:
           git init
           git config user.name "GitHub CI"
           git config user.email "ci@github.com"
-          git remote add origin git@codeberg.org:siegristlk/codeberg.page
+          git remote add origin git@codeberg.org:siegristlk/pages.git
           git checkout -b main
           git add .
           git commit -m "🚀 Auto deploy to Codeberg Pages"

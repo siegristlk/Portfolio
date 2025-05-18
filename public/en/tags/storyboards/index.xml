@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Storyboards on </title>
-    <link>https://siegristlk.github.io/portfolio/en/tags/storyboards/</link>
+    <link>http://localhost:1313/portfolio/en/tags/storyboards/</link>
     <description>Recent content in Storyboards on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 12 Sep 2024 14:38:33 +0200</lastBuildDate>
-    <atom:link href="https://siegristlk.github.io/portfolio/en/tags/storyboards/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/en/tags/storyboards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Students’ and Teachers’ Perspectives in AI-supported Classrooms</title>
-      <link>https://siegristlk.github.io/portfolio/en/blog/masterthesis/</link>
+      <link>http://localhost:1313/portfolio/en/blog/masterthesis/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/en/blog/masterthesis/</guid>
+      <guid>http://localhost:1313/portfolio/en/blog/masterthesis/</guid>
       <description>&lt;h1 id=&#34;masterthesis-for-the-attainment-of-the-degree-master-of-science-msc&#34;&gt;Masterthesis for the Attainment of the Degree Master of Science (M.Sc.)&lt;/h1&gt;&#xA;&lt;p&gt;Supervisor: Prof. Dr. Tomohiro Nagashima &amp;amp; Dr. Man Su&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;!-- Text links --&gt;&#xA;  &lt;div style=&#34;flex: 2; min-width: 250px;&#34;&gt;&#xA;    &lt;p&gt;&#xA;      The growing integration of AI-powered technologies in classrooms is reshaping the roles of students and teachers, especially regarding student agency and autonomy. We conducted a speed-dating interview study with 16 secondary school students and 15 teachers in Germany to explore where their perceptions and preferences regarding AI use align or diverge. Using storyboards that illustrated a spectrum from full learner control to full AI control, both groups expressed shared views on appropriate AI use, but also differed in how they envisioned AI support in the classroom. The results emphasize the critical role of the student-teacher relationship in shaping attitudes toward AI systems. By including both student and teacher voices, this study aims to foster a more nuanced understanding of the balance between human agency and AI automation in education.&#xA;    &lt;/p&gt;</description>
     </item>
   </channel>

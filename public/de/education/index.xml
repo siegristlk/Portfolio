@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Educations on </title>
-    <link>https://siegristlk.github.io/portfolio/de/education/</link>
+    <link>http://localhost:1313/portfolio/de/education/</link>
     <description>Recent content in Educations on </description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Mon, 05 May 2025 09:53:42 +0200</lastBuildDate>
-    <atom:link href="https://siegristlk.github.io/portfolio/de/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/de/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Universität des Saarlandes</title>
-      <link>https://siegristlk.github.io/portfolio/de/education/university-ma/</link>
+      <link>http://localhost:1313/portfolio/de/education/university-ma/</link>
       <pubDate>Mon, 05 May 2025 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/education/university-ma/</guid>
+      <guid>http://localhost:1313/portfolio/de/education/university-ma/</guid>
       <description></description>
     </item>
     <item>
       <title>Universität Agder</title>
-      <link>https://siegristlk.github.io/portfolio/de/education/university-ma-agder/</link>
+      <link>http://localhost:1313/portfolio/de/education/university-ma-agder/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/education/university-ma-agder/</guid>
+      <guid>http://localhost:1313/portfolio/de/education/university-ma-agder/</guid>
       <description></description>
     </item>
     <item>
       <title>Universität Trier</title>
-      <link>https://siegristlk.github.io/portfolio/de/education/university-ba/</link>
+      <link>http://localhost:1313/portfolio/de/education/university-ba/</link>
       <pubDate>Wed, 25 Oct 2023 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/education/university-ba/</guid>
+      <guid>http://localhost:1313/portfolio/de/education/university-ba/</guid>
       <description></description>
     </item>
     <item>
       <title>Gymnasium Marienschule</title>
-      <link>https://siegristlk.github.io/portfolio/de/education/high-school/</link>
+      <link>http://localhost:1313/portfolio/de/education/high-school/</link>
       <pubDate>Thu, 25 Aug 2016 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/education/high-school/</guid>
+      <guid>http://localhost:1313/portfolio/de/education/high-school/</guid>
       <description></description>
     </item>
   </channel>

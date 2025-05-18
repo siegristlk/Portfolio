@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://siegristlk.github.io/portfolio/de/tags/</link>
+    <link>http://localhost:1313/portfolio/de/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sat, 12 Apr 2025 14:38:33 +0200</lastBuildDate>
-    <atom:link href="https://siegristlk.github.io/portfolio/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Thinking</title>
-      <link>https://siegristlk.github.io/portfolio/de/tags/design-thinking/</link>
+      <link>http://localhost:1313/portfolio/de/tags/design-thinking/</link>
       <pubDate>Sat, 12 Apr 2025 14:38:33 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/tags/design-thinking/</guid>
+      <guid>http://localhost:1313/portfolio/de/tags/design-thinking/</guid>
       <description></description>
     </item>
     <item>
       <title>Interviews</title>
-      <link>https://siegristlk.github.io/portfolio/de/tags/interviews/</link>
+      <link>http://localhost:1313/portfolio/de/tags/interviews/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/tags/interviews/</guid>
+      <guid>http://localhost:1313/portfolio/de/tags/interviews/</guid>
       <description></description>
     </item>
     <item>
       <title>Qualitative Forschung</title>
-      <link>https://siegristlk.github.io/portfolio/de/tags/qualitative-forschung/</link>
+      <link>http://localhost:1313/portfolio/de/tags/qualitative-forschung/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/tags/qualitative-forschung/</guid>
+      <guid>http://localhost:1313/portfolio/de/tags/qualitative-forschung/</guid>
       <description></description>
     </item>
     <item>
       <title>Storyboards</title>
-      <link>https://siegristlk.github.io/portfolio/de/tags/storyboards/</link>
+      <link>http://localhost:1313/portfolio/de/tags/storyboards/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/tags/storyboards/</guid>
+      <guid>http://localhost:1313/portfolio/de/tags/storyboards/</guid>
       <description></description>
     </item>
     <item>
       <title>User Centred Research</title>
-      <link>https://siegristlk.github.io/portfolio/de/tags/user-centred-research/</link>
+      <link>http://localhost:1313/portfolio/de/tags/user-centred-research/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/tags/user-centred-research/</guid>
+      <guid>http://localhost:1313/portfolio/de/tags/user-centred-research/</guid>
       <description></description>
     </item>
     <item>
       <title>Articulate 360</title>
-      <link>https://siegristlk.github.io/portfolio/de/tags/articulate-360/</link>
+      <link>http://localhost:1313/portfolio/de/tags/articulate-360/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/tags/articulate-360/</guid>
+      <guid>http://localhost:1313/portfolio/de/tags/articulate-360/</guid>
       <description></description>
     </item>
     <item>
       <title>Didaktik</title>
-      <link>https://siegristlk.github.io/portfolio/de/tags/didaktik/</link>
+      <link>http://localhost:1313/portfolio/de/tags/didaktik/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/tags/didaktik/</guid>
+      <guid>http://localhost:1313/portfolio/de/tags/didaktik/</guid>
       <description></description>
     </item>
     <item>
       <title>Interaktiv</title>
-      <link>https://siegristlk.github.io/portfolio/de/tags/interaktiv/</link>
+      <link>http://localhost:1313/portfolio/de/tags/interaktiv/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>https://siegristlk.github.io/portfolio/de/tags/interaktiv/</guid>
+      <guid>http://localhost:1313/portfolio/de/tags/interaktiv/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,372 +2,398 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/portfolio/en/</loc>
+    <loc>//localhost:1313/en/</loc>
     <lastmod>2025-05-05T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/"
+                href="//localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/"
+                href="//localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/education/</loc>
+    <loc>//localhost:1313/en/education/</loc>
     <lastmod>2025-05-05T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/education/"
+                href="//localhost:1313/de/education/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/education/"
+                href="//localhost:1313/en/education/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/education/university-ma/</loc>
+    <loc>//localhost:1313/en/education/university-ma/</loc>
     <lastmod>2025-05-05T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/education/university-ma/"
+                href="//localhost:1313/de/education/university-ma/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/education/university-ma/"
+                href="//localhost:1313/en/education/university-ma/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/experience/job-3/</loc>
+    <loc>//localhost:1313/en/tags/design-thinking/</loc>
+    <lastmod>2025-04-12T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="//localhost:1313/de/tags/design-thinking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/design-thinking/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/blog/mintwettbewerb/</loc>
+    <lastmod>2025-04-12T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="//localhost:1313/de/blog/mintwettbewerb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/blog/mintwettbewerb/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/</loc>
+    <lastmod>2025-04-12T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="//localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/experience/job-3/</loc>
     <lastmod>2024-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/experience/job-3/"
+                href="//localhost:1313/de/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/experience/job-3/"
+                href="//localhost:1313/en/experience/job-3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/experience/</loc>
+    <loc>//localhost:1313/en/experience/</loc>
     <lastmod>2024-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/experience/"
+                href="//localhost:1313/de/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/experience/"
+                href="//localhost:1313/en/experience/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/blog/masterthesis/</loc>
+    <loc>//localhost:1313/en/blog/masterthesis/</loc>
     <lastmod>2024-09-12T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/blog/masterthesis/"
+                href="//localhost:1313/de/blog/masterthesis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/blog/masterthesis/"
+                href="//localhost:1313/en/blog/masterthesis/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/tags/interviews/</loc>
+    <loc>//localhost:1313/en/tags/interviews/</loc>
     <lastmod>2024-09-12T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/tags/interviews/"
+                href="//localhost:1313/de/tags/interviews/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/tags/interviews/"
+                href="//localhost:1313/en/tags/interviews/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/tags/qualitative-research/</loc>
+    <loc>//localhost:1313/en/tags/qualitative-research/</loc>
     <lastmod>2024-09-12T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/tags/storyboards/</loc>
-    <lastmod>2024-09-12T14:38:33+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/portfolio/de/tags/storyboards/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/portfolio/en/tags/storyboards/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/portfolio/en/tags/</loc>
+    <loc>//localhost:1313/en/tags/storyboards/</loc>
     <lastmod>2024-09-12T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/tags/"
+                href="//localhost:1313/de/tags/storyboards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/tags/"
+                href="//localhost:1313/en/tags/storyboards/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/tags/user-centred-research/</loc>
+    <loc>//localhost:1313/en/tags/user-centred-research/</loc>
     <lastmod>2024-09-12T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/tags/user-centred-research/"
+                href="//localhost:1313/de/tags/user-centred-research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/tags/user-centred-research/"
+                href="//localhost:1313/en/tags/user-centred-research/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/projects/</loc>
+    <loc>//localhost:1313/en/projects/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/projects/"
+                href="//localhost:1313/de/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/projects/"
+                href="//localhost:1313/en/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/projects/nachhaltigkeit/</loc>
+    <loc>//localhost:1313/en/projects/nachhaltigkeit/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/projects/nachhaltigkeit/"
+                href="//localhost:1313/de/projects/nachhaltigkeit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/projects/nachhaltigkeit/"
+                href="//localhost:1313/en/projects/nachhaltigkeit/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/education/university-ma-agder/</loc>
+    <loc>//localhost:1313/en/education/university-ma-agder/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/education/university-ma-agder/"
+                href="//localhost:1313/de/education/university-ma-agder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/education/university-ma-agder/"
+                href="//localhost:1313/en/education/university-ma-agder/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/experience/job-2/</loc>
+    <loc>//localhost:1313/en/experience/job-2/</loc>
     <lastmod>2023-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/experience/job-2/"
+                href="//localhost:1313/de/experience/job-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/experience/job-2/"
+                href="//localhost:1313/en/experience/job-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/education/university-ba/</loc>
+    <loc>//localhost:1313/en/education/university-ba/</loc>
     <lastmod>2023-10-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/education/university-ba/"
+                href="//localhost:1313/de/education/university-ba/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/education/university-ba/"
+                href="//localhost:1313/en/education/university-ba/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/projects/digitales-museum/</loc>
+    <loc>//localhost:1313/en/projects/digitales-museum/</loc>
     <lastmod>2023-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/projects/digitales-museum/"
+                href="//localhost:1313/de/projects/digitales-museum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/projects/digitales-museum/"
+                href="//localhost:1313/en/projects/digitales-museum/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/projects/storyline/</loc>
+    <loc>//localhost:1313/en/projects/storyline/</loc>
     <lastmod>2023-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/projects/storyline/"
+                href="//localhost:1313/de/projects/storyline/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/projects/storyline/"
+                href="//localhost:1313/en/projects/storyline/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/projects/itea/</loc>
+    <loc>//localhost:1313/en/projects/itea/</loc>
     <lastmod>2023-06-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/projects/itea/"
+                href="//localhost:1313/de/projects/itea/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/projects/itea/"
+                href="//localhost:1313/en/projects/itea/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/tags/articulate-360/</loc>
+    <loc>//localhost:1313/en/tags/articulate-360/</loc>
     <lastmod>2023-05-28T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/tags/articulate-360/"
+                href="//localhost:1313/de/tags/articulate-360/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/tags/articulate-360/"
+                href="//localhost:1313/en/tags/articulate-360/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/tags/didactics/</loc>
+    <loc>//localhost:1313/en/tags/didactics/</loc>
     <lastmod>2023-05-28T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/blog/replicationcrisis/</loc>
+    <loc>//localhost:1313/en/blog/replicationcrisis/</loc>
     <lastmod>2023-05-28T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/blog/replicationcrisis/"
+                href="//localhost:1313/de/blog/replicationcrisis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/blog/replicationcrisis/"
+                href="//localhost:1313/en/blog/replicationcrisis/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/tags/interactive/</loc>
+    <loc>//localhost:1313/en/tags/interactive/</loc>
     <lastmod>2023-05-28T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/blog/</loc>
+    <loc>//localhost:1313/en/blog/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/blog/"
+                href="//localhost:1313/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/blog/"
+                href="//localhost:1313/en/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/experience/job-1/</loc>
+    <loc>//localhost:1313/en/experience/job-1/</loc>
     <lastmod>2022-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/experience/job-1/"
+                href="//localhost:1313/de/experience/job-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/experience/job-1/"
+                href="//localhost:1313/en/experience/job-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/education/high-school/</loc>
+    <loc>//localhost:1313/en/education/high-school/</loc>
     <lastmod>2016-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/education/high-school/"
+                href="//localhost:1313/de/education/high-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/education/high-school/"
+                href="//localhost:1313/en/education/high-school/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/categories/</loc>
+    <loc>//localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/categories/"
+                href="//localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/categories/"
+                href="//localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/footer/footer/</loc>
+    <loc>//localhost:1313/en/footer/footer/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/footer/footer/"
+                href="//localhost:1313/de/footer/footer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/footer/footer/"
+                href="//localhost:1313/en/footer/footer/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/footer/</loc>
+    <loc>//localhost:1313/en/footer/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/footer/"
+                href="//localhost:1313/de/footer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/footer/"
+                href="//localhost:1313/en/footer/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/home/home/</loc>
+    <loc>//localhost:1313/en/home/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/home/home/"
+                href="//localhost:1313/de/home/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/home/home/"
+                href="//localhost:1313/en/home/home/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portfolio/en/home/</loc>
+    <loc>//localhost:1313/en/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/portfolio/de/home/"
+                href="//localhost:1313/de/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portfolio/en/home/"
+                href="//localhost:1313/en/home/"
                 />
   </url>
 </urlset>

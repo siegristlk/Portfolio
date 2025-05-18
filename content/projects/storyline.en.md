@@ -8,7 +8,7 @@ params:
     button:
         icon: "icon-arrow-right"
         btnText: "Open Project"
-        URL: "https://siegristlk.github.io/portfolio/storyline/story.html"
+        URL: "portfolio/storyline/story.html"
     image:
         src: "images/works/replication_crisis.png"
         scale: 0.2

@@ -5,10 +5,10 @@ draft = false
 +++
 
 {{< showcase-section
-    title="Hallo, mein Name ist Lisa."
-    subtitle="Digital Learning Developerin & Instructional Designerin"
+    title=" "
+    subtitle="Instructional Designerin mit Fokus auf digitales Lernen"
     buttonText="Correo"
-    description="Ich arbeite derzeit im <a target='_blank' href='https://basel.lehre.roche.com/experio/'>Schullabor Experio der Firma Hoffman-La Roche</a> in Basel 🇨🇭, konzipiere und führe praxisnahe MINT-Workshops durch, arbeite an der Schnittstelle zwischen Interessenweckung und didaktischer Vermittlung von Lerninhalten. Mich treibt die Idee an, Lernen greifbar, relevant und nachhaltig zu machen. <br/>Mein interdisziplinärer Hintergrund ermöglicht es mir, Bildungsräume ganzheitlich zu betrachten: aus der Perspektive der Lernenden, der Lehrenden und der Organisation. Ob digitale Museen, interaktive Lerneinheiten oder die Erforschung der Rolle von KI im Klassenzimmer – meine Projekte bewegen sich an der Schnittstelle von Technologie, Pädagogik, Didaktik und Praxis. <br/>Ich verbinde pädagogisches Feingefühl mit einem forschenden Blick und der Fähigkeit, komplexe Zusammenhänge disziplinübergreifend zu denken und nutzbar zu machen. Was dabei für mich immer an erster Stelle steht: <strong>Bildung soll befähigen, verbinden und Chancen schaffen</strong>."
+    description="<br/>Mein Name ist Lisa und ich arbeite im <a target='_blank' href='https://basel.lehre.roche.com/experio/'>Schullabor Experio </a>von Hoffmann-La Roche in Basel 🇨🇭, wo ich  praxisnahe MINT-Workshops konzipiere und durchführe. Mein Ziel: Lernen greifbar, relevant und nachhaltig gestalten. <br/>Dank meines interdisziplinären Hintergrunds betrachte ich Bildungsräume ganzheitlich – aus Sicht der Lernenden, Lehrenden und Organisation. Ob digitale Museen, interaktive Lernformate oder KI im Klassenzimmer: Meine Projekte verbinden Technologie, Didaktik und Praxis. Ich arbeite reflektiert, empathisch und vernetzt – mit dem Anspruch, Bildung so zu gestalten, dass sie befähigt, verbindet und neue Chancen eröffnet."
     imgSrc="images/showcase/Bewerbungsfoto.png"
     imgScale="0.5" 
  >}}
@@ -17,7 +17,7 @@ draft = false
 
 {{< about-section
     title="Über mich"
-    content="Als Bildungswissenschaftlerin mit einem systemischen Blick und einem Sinn für das Verbindende zwischen Mensch, Technologie und Didaktik verbinde ich pädagogisches Verständnis mit einer Leidenschaft für digitales Design. <br/>Mein Bachelor in Sozial- und Organisationspädagogik hat mir vermittelt, wie Menschen lernen – nicht nur individuell, sondern auch eingebettet in soziale und institutionelle Kontexte. Im Masterstudium Educational Technology habe ich dieses Wissen vertieft, mich intensiv mit digitalen Tools und nutzerzentrierter Forschung auseinandergesetzt und gelernt, Lernprozesse evidenzbasiert und praxisnah zu gestalten. <br/>Ich arbeite gerne an der Schnittstelle von Lernenden, Lehrenden und Technologie. Mit Methoden wie Interviews oder Storyboards tauche ich tief in Bedarfe und Kontexte ein – und überführe diese Erkenntnisse in durchdachte, funktionale Lösungen. Was meine Herangehensweise prägt, ist nicht nur mein akademischer Hintergrund, sondern vor allem mein Gespür dafür, wann Struktur Orientierung bietet und wann Offenheit Lernen erst möglich macht. Ich denke vernetzt, gestalte mit Empathie und entwickle Lernerfahrungen, die nicht nur funktionieren, sondern sich stimmig und sinnvoll anfühlen."
+    content="<br/>Mein Weg führt von der Sozial- und Organisationspädagogik zur Bildungstechnologie – und verbindet pädagogisches Denken mit digitalem Know-how und nutzerzentrierter Forschung. Ich arbeite an der Schnittstelle von Lernenden, Lehrenden und Technologie, übersetze komplexe Anforderungen in praxisnahe, durchdachte Lösungen – empathisch, evidenzbasiert und mit Blick fürs Ganze. <br/>Didaktik verstehe ich dabei nicht als starres Konzept, sondern als Gestaltungsaufgabe – eng verknüpft mit Designprozessen, die Lernenden Orientierung und Freiheit zugleich ermöglichen."
     imgSrc="images/about/FotoLisa.png"
     imgScale="0.5"
  >}}

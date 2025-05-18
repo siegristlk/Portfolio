@@ -6,9 +6,9 @@ draft = false
 
 
 {{< showcase-section
-    title="Hello, I'm Lisa."
-    subtitle="Digital Learning Developer & Instructional Designer"
-    description="Based in Basel 🇨🇭, I currently work at the <a target='_blank' href='https://basel.lehre.roche.com/experio/'>School Lab Experio of F. Hoffmann-La Roche</a>, where I design and run practical STEM workshops, develop new educational programmes and work at the interface between raising interest and didactically conveying learning content. <br/>I am driven by the idea of making learning tangible, relevant and sustainable. My background combines Social and Organisational Pedagogy with a Masters in Educational Technology - a combination that allows me to think about educational spaces holistically: from the perspective of the learner, the instructor and the organisation. <br/>Whether digital museums, interactive learning units or research into the role of AI in the classroom, my projects operate at the intersection of technology, pedagogy, didactics and practice.<br/>With a flair for people, an eye for detail and a love of research, I bring interdisciplinary thinking to every project.<br/>What always comes first: <strong>Education should empower, connect and create opportunities</strong>."
+    title=" "
+    subtitle="Instructional designer with a focus on digital learning"
+    description="<br/>My name is Lisa, and I work at the <a target='_blank' href='https://basel.lehre.roche.com/experio/'>School Lab Experio </a> of Hoffmann-La Roche in Basel 🇨🇭, where I design and facilitate practical STEM workshops. <br/>My goal is to make learning tangible, relevant and sustainable. Thanks to my interdisciplinary background, I consider educational spaces from the perspectives of learners, teachers and the organisation as a whole. My projects combine technology, didactics and practice, whether it's digital museums, interactive learning formats or AI in the classroom. I work in a reflective, empathetic and collaborative way, with the aim of designing educational experiences that empower, connect and open up new opportunities."
     imgSrc="images/showcase/Bewerbungsfoto.png"
     imgScale="0.5"
  >}}
@@ -17,7 +17,7 @@ draft = false
 
 {{< about-section
     title="Who am I?"
-    content="As a educational scientist with a curious mind and a feel for the bigger picture, I combine pedagogical insight with a passion for digital design. My Bachelor's degree in Social and Organisational Education gave me a deep understanding of how people learn – not just as individuals, but within social and organisational contexts. <br/>During my Master’s in Educational Technology, I expanded on this foundation, exploring digital tools and user-centred research to design learning that is both effective and meaningful.<br/>I enjoy working at the intersection of learners, educators and technology. Using methods like interviews and storyboards, I dive deep into understanding needs – and turn insights into concrete, practical solutions. <br/>What shapes my approach to digital learning is not only my academic background, but also my sense for when structure supports learning and when freedom enables it. I think in systems, design with empathy, and develop learning experiences that not only function – but feel purposeful, engaging, and right for those involved."
+    content="<br/>My professional journey has taken me from social and organisational pedagogy to educational technology, combining pedagogical thinking with digital expertise and user-centred research. I work at the intersection of learners, teachers, and technology, translating complex requirements into practical, well-considered solutions empathetically and based on evidence, while keeping an eye on the big picture. <br/>Rather than viewing didactics as a rigid concept, I see it as a design task closely linked to design processes that provide learners with orientation and freedom simultaneously."
     imgSrc="images/about/FotoLisa.png"
     imgScale="0.5"
  >}}

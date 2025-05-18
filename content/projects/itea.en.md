@@ -8,7 +8,7 @@ params:
     button:
         icon: "icon-arrow-right"
         btnText: "Open Protocol"
-        URL: "reports/Report-Group8-ITea.pdf"
+        URL: "/reports/Report-Group8-ITea.pdf"
     image:
         src: "images/works/itea.png"
         scale: 0.6

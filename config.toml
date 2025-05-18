@@ -81,6 +81,8 @@ target = "assets/css/bootstrap-print.css"
 [params]
 title = 'Lisa Siegrist | Digital Learning Developer & Instructional Designer'
 description = 'Personal Site for Lisa Siegrist'
+customCSS = ["css/custom.css"]
+
 
 # If you want to display an image logo in the header, you can add it here
 # logo = '/img/hugo.svg'

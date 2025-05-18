@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on </title>
-    <link>http://localhost:1313/portfolio/de/blog/</link>
+    <link>//localhost:1313/de/blog/</link>
     <description>Recent content in Blog on </description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sat, 12 Apr 2025 14:38:33 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/de/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/de/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MINT-Wettbewerb im Schullabor Experio Roche</title>
-      <link>http://localhost:1313/portfolio/de/blog/mintwettbewerb/</link>
+      <link>//localhost:1313/de/blog/mintwettbewerb/</link>
       <pubDate>Sat, 12 Apr 2025 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/portfolio/de/blog/mintwettbewerb/</guid>
+      <guid>//localhost:1313/de/blog/mintwettbewerb/</guid>
       <description>&lt;div style=&#34;display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;!-- Text links --&gt;&#xA;  &lt;div style=&#34;flex: 2; min-width: 250px;&#34;&gt;&#xA;    &lt;p&gt;&#xA;      Ein großartiges Projekt, das mein Herz höherschlagen lässt! Im Rahmen eines zweitägigen MINT-Wettbewerbs hatten wir die Chance, eine immersive Lernumgebung zu gestalten, in der Schülerinnen und Schüler durch realitätsnahe Szenarien herausgefordert wurden – vom Erdbebeneinsatz bis zur Regenwaldforschung.&lt;/p&gt;&lt;p&gt;Die Jugendlichen stellten sich spannenden Aufgaben: Am ersten Tag sollten sie im Kontext eines Erdbebens Wasser über eine möglichst weite Strecke transportieren, am zweiten Tag galt es, Wasser in luftige Höhen zu befördern, um Forschende in Baumunterkünften zu versorgen. Diese authentischen Kontexte halfen ihnen, vorhandenes Wissen zu aktivieren, sich in neue Rollen hineinzuversetzen und eigenständig kreative Lösungen zu entwickeln.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Erforschung der Perspektiven von Schülern und Lehrern in KI-gestützten Klassenzimmern</title>
-      <link>http://localhost:1313/portfolio/de/blog/masterthesis/</link>
+      <link>//localhost:1313/de/blog/masterthesis/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/portfolio/de/blog/masterthesis/</guid>
+      <guid>//localhost:1313/de/blog/masterthesis/</guid>
       <description>&lt;h1 id=&#34;masterarbeit-zur-erlangung-des-akademischen-grades-master-of-science-msc&#34;&gt;Masterarbeit zur Erlangung des akademischen Grades Master of Science (M.Sc.)&lt;/h1&gt;&#xA;&lt;p&gt;Betreuer: Prof. Dr. Tomohiro Nagashima &amp;amp; Dr. Man Su&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;!-- Text links --&gt;&#xA;  &lt;div style=&#34;flex: 2; min-width: 250px;&#34;&gt;&#xA;    &lt;p&gt;&#xA;      Der zunehmende Einsatz KI-gestützter Technologien im Klassenzimmer verändert die Rollen von Lernenden und Lehrkräften – insbesondere im Hinblick auf Eigenverantwortung und Autonomie der Schüler:innen. In einer Speed-Dating-Interviewstudie mit 16 Schüler:innen und 15 Lehrkräften an weiterführenden Schulen in Deutschland wurden deren Wahrnehmungen und Präferenzen im Umgang mit KI im Unterricht untersucht. Anhand von Storyboards, die Szenarien von vollständiger Lernendenkontrolle bis hin zu vollständiger KI-Steuerung zeigten, offenbarten sich sowohl gemeinsame Sichtweisen als auch unterschiedliche Vorstellungen zur Nutzung von KI. Die Ergebnisse unterstreichen die zentrale Bedeutung der Beziehung zwischen Lehrkraft und Schüler:in für die Akzeptanz und Gestaltung von KI-Systemen im Unterricht. Durch die Einbindung beider Perspektiven soll ein differenzierteres Verständnis für das Zusammenspiel von menschlicher Autonomie und KI-Automatisierung entstehen.&#xA;    &lt;/p&gt;</description>
     </item>
     <item>
       <title>Eine Einführung in die Replikationskrise und Open Science</title>
-      <link>http://localhost:1313/portfolio/de/blog/replicationcrisis/</link>
+      <link>//localhost:1313/de/blog/replicationcrisis/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/portfolio/de/blog/replicationcrisis/</guid>
+      <guid>//localhost:1313/de/blog/replicationcrisis/</guid>
       <description>&lt;h1 id=&#34;interaktive-lerneinheit-über-die-replikationskrise&#34;&gt;Interaktive Lerneinheit über die Replikationskrise&lt;/h1&gt;&#xA;&lt;div style=&#34;display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;!-- Text links --&gt;&#xA;  &lt;div style=&#34;flex: 2; min-width: 250px;&#34;&gt;&#xA;    &lt;p&gt;&#xA;    Diese Lerneinheit wurde im Rahmen eines Gruppenprojekts für den Kurs „Instructional Design II” im Masterstudiengang „Educational Technology” mit Articulate Storyline 360 entwickelt. Sie führt die Lernenden in die Replikationskrise in der empirischen Forschung ein. Die Einheit untersucht, warum die Replizierbarkeit wissenschaftlicher Erkenntnisse für deren Relevanz und Verallgemeinerbarkeit entscheidend ist (Open Science Collaboration, 2015), und betont, wie Forschungsentscheidungen die Qualität der Ergebnisse beeinflussen (Diener &amp; Biswas-Diener, 2023).&lt;/p&gt;</description>
     </item>
   </channel>

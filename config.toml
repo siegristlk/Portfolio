@@ -79,8 +79,8 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = 'Lisa Siegrist | Digital Learning Developer & Instructional Designer'
-description = 'Personal Site for Lisa Siegrist'
+title = 'Lisa Siegrist | Portfolio'
+description = ' '
 customCSS = ["css/custom.css"]
 
 

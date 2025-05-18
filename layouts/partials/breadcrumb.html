@@ -4,7 +4,8 @@
         {{- $.Scratch.Set "url" "" -}}
         {{- $taxonomy := .Data.Plural -}}
         {{- range $index, $element := (split (trim .RelPermalink "/") "/") -}}
-        {{- $.Scratch.Add "url" (print "/" . ) -}}
+        {{- $_ := print "/" . -}}
+        {{- $.Scratch.Add "url" $_ -}}
         {{- if eq $index 0 -}}
         {{- if eq . "tags" -}}
         <li class="breadcrum-item"><span><a href="{{ $.Scratch.Get `url` }}">Tags</a></span></li>

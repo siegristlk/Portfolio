@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Didactics on </title>
-    <link>http://localhost:1313/portfolio/en/tags/didactics/</link>
+    <link>https://siegristlk.github.io/portfolio/en/tags/didactics/</link>
     <description>Recent content in Didactics on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 28 May 2023 14:38:33 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/en/tags/didactics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://siegristlk.github.io/portfolio/en/tags/didactics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Crisi to Confidence: An Intro intro Replication Crisis and Open Science</title>
-      <link>http://localhost:1313/portfolio/en/blog/replicationcrisis/</link>
+      <link>https://siegristlk.github.io/portfolio/en/blog/replicationcrisis/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/portfolio/en/blog/replicationcrisis/</guid>
+      <guid>https://siegristlk.github.io/portfolio/en/blog/replicationcrisis/</guid>
       <description>&lt;h1 id=&#34;interactive-learning-session-on-the-replication-crisis&#34;&gt;Interactive Learning Session on the Replication Crisis&lt;/h1&gt;&#xA;&lt;div style=&#34;display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;!-- Text links --&gt;&#xA;  &lt;div style=&#34;flex: 2; min-width: 250px;&#34;&gt;&#xA;    &lt;p&gt;&#xA;    Developed in a group project for the Instructional Design II course in the Master&#39;s program Educational Technology, this learning unit introduces learners to the replication crisis in empirical research using Articulate Storyline 360. The unit explores why the replicability of scientific findings is crucial for the relevance and generalizability of results (Open Science Collaboration, 2015), and emphasizes how research decisions impact outcome quality (Diener &amp; Biswas-Diener, 2023). &lt;/p&gt;</description>
     </item>
   </channel>

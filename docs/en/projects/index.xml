@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>https://siegristlk.github.io/meine-website/en/projects/</link>
+    <link>https://siegristlk.github.io/portfolio/en/projects/</link>
     <description>Recent content in Projects on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
-    <atom:link href="https://siegristlk.github.io/meine-website/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://siegristlk.github.io/portfolio/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UDSustainable</title>
-      <link>https://siegristlk.github.io/meine-website/en/projects/nachhaltigkeit/</link>
+      <link>https://siegristlk.github.io/portfolio/en/projects/nachhaltigkeit/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/en/projects/nachhaltigkeit/</guid>
+      <guid>https://siegristlk.github.io/portfolio/en/projects/nachhaltigkeit/</guid>
       <description>&lt;p&gt;Achieving sustainability on campus can be challenging, especially for international students who are often unfamiliar with the German waste separation system. A user study revealed that they are not well-versed in the subject and that existing information is typically only available in German, making it difficult to access.&#xA;Saarland University aims to promote sustainable behavior among students and employees. As a research and innovation hub, the university has a particular social responsibility.&#xA;Therefore, an interactive prototype was developed based on the existing campus app, which is known for its canteen plan, among other features. This new prototype integrates sustainability content. Implemented with Figma, it shows how tips on recycling or bicycle use can be integrated in an easily accessible, user-friendly way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Educational Ressources</title>
-      <link>https://siegristlk.github.io/meine-website/en/projects/digitales-museum/</link>
+      <link>https://siegristlk.github.io/portfolio/en/projects/digitales-museum/</link>
       <pubDate>Fri, 25 Aug 2023 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/en/projects/digitales-museum/</guid>
+      <guid>https://siegristlk.github.io/portfolio/en/projects/digitales-museum/</guid>
       <description>&lt;p&gt;The topic of Open Educational Resources (OER) was presented in the form of a digital museum, but in a way that was deliberately different from traditional exhibitions. We&amp;rsquo;ve all experienced it: endless walls of text and overloaded panels, which quickly lose the interest of visitors and have little educational value.&lt;/p&gt;&#xA;&lt;p&gt;This is precisely where this museum comes in: not only is it digital and therefore much more accessible, it is also interactive. Visitors can get involved, make assessments, guess and discover things for themselves. This creates a learning experience that arouses curiosity, engages the visitor and leaves a lasting impression.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Replication Crisis</title>
-      <link>https://siegristlk.github.io/meine-website/en/projects/storyline/</link>
+      <link>https://siegristlk.github.io/portfolio/en/projects/storyline/</link>
       <pubDate>Fri, 25 Aug 2023 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/en/projects/storyline/</guid>
+      <guid>https://siegristlk.github.io/portfolio/en/projects/storyline/</guid>
       <description>&lt;p&gt;This learning unit, developed as part of a group project, introduces learners to the replication crisis in empirical research through interactive content. It demonstrates why replicability is essential to the validity of scientific results and how research decisions can affect their quality.&lt;/p&gt;&#xA;&lt;p&gt;Based on Gagné&amp;rsquo;s “Nine Events of Instruction” and Schank&amp;rsquo;s “Goal-Based Scenario,” the didactic design uses structured learning scenarios with knowledge transfer, practice phases, and feedback to create an interactive, practice-oriented learning environment. The unit was developed with Articulate Storyline 360 to provide an engaging, accessible learning experience.&lt;/p&gt;</description>
     </item>
     <item>
       <title>iTea - Intelligenter Tee-Assistent</title>
-      <link>https://siegristlk.github.io/meine-website/en/projects/itea/</link>
+      <link>https://siegristlk.github.io/portfolio/en/projects/itea/</link>
       <pubDate>Sun, 25 Jun 2023 09:53:42 +0200</pubDate>
-      <guid>https://siegristlk.github.io/meine-website/en/projects/itea/</guid>
+      <guid>https://siegristlk.github.io/portfolio/en/projects/itea/</guid>
       <description>&lt;p&gt;Tea is one of the world&amp;rsquo;s most popular drinks, enjoyed for its pleasure and as a ritual of mindfulness. However, preparing tea correctly requires precision; temperature, brewing time, and quantity significantly impact taste and effect. To simplify this process, we developed ITea, a smart assistant that helps you brew the perfect cup of tea every time.&lt;/p&gt;&#xA;&lt;p&gt;Using an NFC card, the device recognizes the type of tea and provides clear instructions, automatically starting the appropriate timer. As soon as the tea is ready to drink, it signals you — without the need for additional aids or the hygiene issues associated with fully automatic machines. This keeps the preparation process simple, personalized, and under your control.&lt;/p&gt;</description>
     </item>
   </channel>

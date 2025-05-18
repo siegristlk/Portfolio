@@ -1,4 +1,7 @@
 .lead {
-  line-height: 2.2 !important;
+  line-height: 1.8 !important;
+  font-size: 1.1rem; /* optional – falls du die Schriftgröße leicht erhöhen möchtest */
+   /* max-width: 700px;   /* optional – begrenzt die Breite für bessere Lesbarkeit */
 }
+
 /* You can customize theme styles here */

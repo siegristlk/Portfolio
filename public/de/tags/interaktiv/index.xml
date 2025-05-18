@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interaktiv on </title>
-    <link>//localhost:1313/de/tags/interaktiv/</link>
+    <link>http://localhost:1313/portfolio/de/tags/interaktiv/</link>
     <description>Recent content in Interaktiv on </description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sun, 28 May 2023 14:38:33 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/de/tags/interaktiv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/de/tags/interaktiv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eine Einführung in die Replikationskrise und Open Science</title>
-      <link>//localhost:1313/de/blog/replicationcrisis/</link>
+      <link>http://localhost:1313/portfolio/de/blog/replicationcrisis/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>//localhost:1313/de/blog/replicationcrisis/</guid>
+      <guid>http://localhost:1313/portfolio/de/blog/replicationcrisis/</guid>
       <description>&lt;h1 id=&#34;interaktive-lerneinheit-über-die-replikationskrise&#34;&gt;Interaktive Lerneinheit über die Replikationskrise&lt;/h1&gt;&#xA;&lt;div style=&#34;display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;!-- Text links --&gt;&#xA;  &lt;div style=&#34;flex: 2; min-width: 250px;&#34;&gt;&#xA;    &lt;p&gt;&#xA;    Diese Lerneinheit wurde im Rahmen eines Gruppenprojekts für den Kurs „Instructional Design II” im Masterstudiengang „Educational Technology” mit Articulate Storyline 360 entwickelt. Sie führt die Lernenden in die Replikationskrise in der empirischen Forschung ein. Die Einheit untersucht, warum die Replizierbarkeit wissenschaftlicher Erkenntnisse für deren Relevanz und Verallgemeinerbarkeit entscheidend ist (Open Science Collaboration, 2015), und betont, wie Forschungsentscheidungen die Qualität der Ergebnisse beeinflussen (Diener &amp; Biswas-Diener, 2023).&lt;/p&gt;</description>
     </item>
   </channel>

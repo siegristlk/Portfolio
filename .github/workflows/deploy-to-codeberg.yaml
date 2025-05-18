@@ -19,8 +19,9 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build Hugo Site into public/
-        run: hugo
+      - name: Build site for Codeberg
+        run: hugo -d public --baseURL "https://siegristlk.codeberg.page/"
+
 
       - name: Setup SSH for Codeberg
         run: |

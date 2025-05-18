@@ -22,8 +22,9 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build site into docs/
-        run: hugo -d docs
+      - name: Build site for GitHub
+        run: hugo -d docs --baseURL "https://siegristlk.github.io/portfolio/"
+
 
       - name: Commit built site to main/docs
         run: |

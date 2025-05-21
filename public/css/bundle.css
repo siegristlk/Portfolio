@@ -5,9 +5,9 @@
 }
 
 .about-me.content.lead { /* Changes Format in the About Me Section */
-  /* line-height: 1.6 !important;
+  line-height: 1.6 !important;
   font-size: 1.4rem;
-  color: #333;
+  /* color: #333;
   padding-right: 1rem; */
 }
 

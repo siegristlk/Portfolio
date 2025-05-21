@@ -1,12 +1,12 @@
 ---
 title: Erfahrungen
-button1_text: LinkedIn
-button1_url: https://www.linkedin.com/in/lisa-siegrist/
-button1_icon: icon-square-inkedin
+#button1_text: LinkedIn
+#button1_url: https://www.linkedin.com/in/lisa-siegrist/
+#button1_icon: icon-square-inkedin
 
-button2_text: CV
-button2_url: /files/cv_lisasiegrist_de.pdf
-button2_icon: icon-face-smile
+#button2_text: CV
+#button2_url: /files/cv_lisasiegrist_de.pdf
+#button2_icon: icon-face-smile
 
 #button3_text: Alle Erfahrungen
 #button3_url: https://linkedin.com/adrianmoreno

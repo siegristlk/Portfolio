@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qualitative Research on </title>
-    <link>/en/tags/qualitative-research/</link>
+    <link>//localhost:1313/en/tags/qualitative-research/</link>
     <description>Recent content in Qualitative Research on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 12 Sep 2024 14:38:33 +0200</lastBuildDate>
-    <atom:link href="/en/tags/qualitative-research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/en/tags/qualitative-research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Student and Teacher Perspectives in AI-Supported Classrooms</title>
-      <link>/en/blog/masterthesis/</link>
+      <link>//localhost:1313/en/blog/masterthesis/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>/en/blog/masterthesis/</guid>
+      <guid>//localhost:1313/en/blog/masterthesis/</guid>
       <description>&lt;h1 id=&#34;masters-thesis-for-the-degree-of-master-of-science-msc&#34;&gt;Master&amp;rsquo;s Thesis for the Degree of Master of Science (M.Sc.)&lt;/h1&gt;&#xA;&lt;p&gt;Supervisors: Prof. Dr. Tomohiro Nagashima &amp;amp; Dr. Man Su&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;!-- Text left --&gt;&#xA;  &lt;div style=&#34;flex: 2; min-width: 250px;&#34;&gt;&#xA;    &lt;p&gt;&#xA;      The increasing use of AI-supported technologies in classrooms is changing the roles of both students and teachers – particularly regarding student responsibility and autonomy. In a speed-dating-style interview study with 16 students and 15 teachers from secondary schools in Germany, perceptions and preferences regarding the use of AI in teaching were explored. Using storyboards depicting scenarios from full learner control to full AI control, both shared views and divergent ideas emerged. The results highlight the crucial role of the student-teacher relationship in the acceptance and design of AI systems in education. By incorporating both perspectives, the study aims to foster a more nuanced understanding of the interplay between human autonomy and AI automation.&lt;/p&gt;</description>
     </item>
   </channel>

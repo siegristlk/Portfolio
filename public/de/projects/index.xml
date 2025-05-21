@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>/de/projects/</link>
+    <link>//localhost:1313/de/projects/</link>
     <description>Recent content in Projects on </description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
-    <atom:link href="/de/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/de/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UDSustainable</title>
-      <link>/de/projects/nachhaltigkeit/</link>
+      <link>//localhost:1313/de/projects/nachhaltigkeit/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>/de/projects/nachhaltigkeit/</guid>
+      <guid>//localhost:1313/de/projects/nachhaltigkeit/</guid>
       <description>&lt;p&gt;Nachhaltigkeit auf dem Campus kann herausfordernd sein – besonders für internationale Studierende, denen das deutsche Mülltrennungssystem oft unbekannt ist. Eine Nutzerstudie zeigte, dass sie sich wenig mit dem Thema befassen und bestehende Informationen meist nur auf Deutsch und daher schwer zugänglich sind.&#xA;Auch die Universität des Saarlandes verfolgt das Ziel, nachhaltiges Verhalten bei Studierenden und Mitarbeitenden zu fördern. Als Ort von Forschung und Innovation trägt sie besondere gesellschaftliche Verantwortung.&#xA;Deshalb wurde entschieden, auf Basis der bestehenden Campus-App – bekannt etwa für den Mensaplan – einen interaktiven Prototypen zu entwickeln, der Nachhaltigkeitsinhalte integriert. Dieser wurde mit Figma umgesetzt und zeigt, wie etwa Tipps zum Recycling oder zur Fahrradnutzung leicht zugänglich und nutzerfreundlich eingebunden werden können.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Educational Ressources</title>
-      <link>/de/projects/digitales-museum/</link>
+      <link>//localhost:1313/de/projects/digitales-museum/</link>
       <pubDate>Fri, 25 Aug 2023 09:53:42 +0200</pubDate>
-      <guid>/de/projects/digitales-museum/</guid>
+      <guid>//localhost:1313/de/projects/digitales-museum/</guid>
       <description>&lt;p&gt;Das Thema Open Educational Resources (OER) wurde in Form eines digitalen Museums aufbereitet – jedoch bewusst anders als klassische Ausstellungen. Wer kennt es nicht: endlose Textwände, überladene Tafeln – da lässt das Interesse oft schnell nach, und der Lerneffekt bleibt gering.&lt;/p&gt;&#xA;&lt;p&gt;Dieses Museum setzt genau dort an: Es ist nicht nur digital und damit deutlich barriereärmer zugänglich, sondern auch interaktiv gestaltet. Besucher:innen können selbst aktiv werden, Dinge einschätzen, raten und entdecken. So entsteht ein Lernerlebnis, das neugierig macht, einbindet und im Gedächtnis bleibt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Replication Crisis</title>
-      <link>/de/projects/storyline/</link>
+      <link>//localhost:1313/de/projects/storyline/</link>
       <pubDate>Fri, 25 Aug 2023 09:53:42 +0200</pubDate>
-      <guid>/de/projects/storyline/</guid>
+      <guid>//localhost:1313/de/projects/storyline/</guid>
       <description>&lt;p&gt;Diese Lerneinheit entstand im Rahmen eines Gruppenprojekts und führt Lernende interaktiv in das Thema Replikationskrise in der empirischen Forschung ein. Sie zeigt, warum Replizierbarkeit für die Aussagekraft wissenschaftlicher Ergebnisse wichtig ist und wie Forschungsentscheidungen deren Qualität beeinflussen können.&lt;/p&gt;&#xA;&lt;p&gt;Das didaktische Design basiert auf Gagnés „Nine Events of Instruction“ sowie Schanks „Goal-Based-Scenario“ und nutzt strukturierte Lernszenarien mit Wissensvermittlung, Übungsphasen und Feedback, um eine interaktive, praxisnahe Lernumgebung zu schaffen. Entwickelt wurde die Einheit mit Articulate Storyline 360, um ein ansprechendes und leicht zugängliches Lernerlebnis zu ermöglichen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>iTea - Intelligenter Tee-Assistent</title>
-      <link>/de/projects/itea/</link>
+      <link>//localhost:1313/de/projects/itea/</link>
       <pubDate>Sun, 25 Jun 2023 09:53:42 +0200</pubDate>
-      <guid>/de/projects/itea/</guid>
+      <guid>//localhost:1313/de/projects/itea/</guid>
       <description>&lt;p&gt;Tee gehört weltweit zu den beliebtesten Getränken – als Genussmoment ebenso wie als Ritual der Achtsamkeit. Doch die richtige Zubereitung erfordert Präzision: Temperatur, Ziehzeit und Menge beeinflussen Geschmack und Wirkung maßgeblich. Um diesen Prozess zu vereinfachen, haben wir ITea entwickelt – einen smarten Assistenten für die perfekte Tasse Tee.&lt;/p&gt;&#xA;&lt;p&gt;Über eine NFC-Karte erkennt das Gerät die Teesorte, gibt klare Anweisungen und startet automatisch den passenden Timer. Sobald der Tee trinkbereit ist, wird dies signalisiert – ganz ohne zusätzliche Hilfsmittel oder Hygieneprobleme wie bei Vollautomaten. So bleibt die Zubereitung einfach, individuell und unter eigener Kontrolle.&lt;/p&gt;</description>
     </item>
   </channel>

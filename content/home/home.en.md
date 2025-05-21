@@ -28,7 +28,8 @@ draft = false
 {{< experience-section
     title="My Experiences"
     intro_title=" "
-    intro_description="Thanks to my strong foundation in education, digital design and user-centred research, I have contributed to projects ranging from interactive learning environments to AI-powered feedback systems. Whether working within small creative teams or larger organisations, I focus on transforming complex pedagogical challenges into clear and thoughtful solutions that make learning more accessible, engaging, and meaningful."
+    intro_description="With a strong foundation in education, digital design, and user-centered research, I have contributed to projects ranging from interactive learning environments to AI-based feedback systems. Whether in small creative teams or larger organizations, I focus on transforming complex educational challenges into clear, thoughtful solutions that make learning more accessible, engaging, and meaningful.<br><br><strong>💻 Software Skills</strong><br><ul style='margin: 0; padding-left: 20px;'><li>Office software – advanced proficiency</li><li>Figma – proficient in interface design and prototyping</li><li>Articulate 360 – proficient in creating interactive learning modules</li><li>Canva – proficient in visual learning material design</li><li>Python – basic knowledge</li></ul><br><strong>🌍 Language Skills</strong><br><ul style='margin: 0; padding-left: 20px;'><li>German – native speaker</li><li>English – C1</li><li>French – B2</li><li>Norwegian – A1</li></ul>"
+
     button1_enable=true
     button1_url="/files/cv_lisasiegrist_en.pdf"
     button1_text="CV"

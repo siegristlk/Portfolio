@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/de/tags/</link>
+    <link>//localhost:1313/de/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sat, 12 Apr 2025 14:38:33 +0200</lastBuildDate>
-    <atom:link href="/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Thinking</title>
-      <link>/de/tags/design-thinking/</link>
+      <link>//localhost:1313/de/tags/design-thinking/</link>
       <pubDate>Sat, 12 Apr 2025 14:38:33 +0200</pubDate>
-      <guid>/de/tags/design-thinking/</guid>
+      <guid>//localhost:1313/de/tags/design-thinking/</guid>
       <description></description>
     </item>
     <item>
       <title>Interviews</title>
-      <link>/de/tags/interviews/</link>
+      <link>//localhost:1313/de/tags/interviews/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>/de/tags/interviews/</guid>
+      <guid>//localhost:1313/de/tags/interviews/</guid>
       <description></description>
     </item>
     <item>
       <title>Qualitative Forschung</title>
-      <link>/de/tags/qualitative-forschung/</link>
+      <link>//localhost:1313/de/tags/qualitative-forschung/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>/de/tags/qualitative-forschung/</guid>
+      <guid>//localhost:1313/de/tags/qualitative-forschung/</guid>
       <description></description>
     </item>
     <item>
       <title>Storyboards</title>
-      <link>/de/tags/storyboards/</link>
+      <link>//localhost:1313/de/tags/storyboards/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>/de/tags/storyboards/</guid>
+      <guid>//localhost:1313/de/tags/storyboards/</guid>
       <description></description>
     </item>
     <item>
       <title>User Centred Research</title>
-      <link>/de/tags/user-centred-research/</link>
+      <link>//localhost:1313/de/tags/user-centred-research/</link>
       <pubDate>Thu, 12 Sep 2024 14:38:33 +0200</pubDate>
-      <guid>/de/tags/user-centred-research/</guid>
+      <guid>//localhost:1313/de/tags/user-centred-research/</guid>
       <description></description>
     </item>
     <item>
       <title>Articulate 360</title>
-      <link>/de/tags/articulate-360/</link>
+      <link>//localhost:1313/de/tags/articulate-360/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>/de/tags/articulate-360/</guid>
+      <guid>//localhost:1313/de/tags/articulate-360/</guid>
       <description></description>
     </item>
     <item>
       <title>Didaktik</title>
-      <link>/de/tags/didaktik/</link>
+      <link>//localhost:1313/de/tags/didaktik/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>/de/tags/didaktik/</guid>
+      <guid>//localhost:1313/de/tags/didaktik/</guid>
       <description></description>
     </item>
     <item>
       <title>Interaktiv</title>
-      <link>/de/tags/interaktiv/</link>
+      <link>//localhost:1313/de/tags/interaktiv/</link>
       <pubDate>Sun, 28 May 2023 14:38:33 +0200</pubDate>
-      <guid>/de/tags/interaktiv/</guid>
+      <guid>//localhost:1313/de/tags/interaktiv/</guid>
       <description></description>
     </item>
   </channel>

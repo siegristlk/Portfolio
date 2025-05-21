@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design Thinking on </title>
-    <link>//localhost:1313/en/tags/design-thinking/</link>
+    <link>/en/tags/design-thinking/</link>
     <description>Recent content in Design Thinking on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 12 Apr 2025 14:38:33 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/en/tags/design-thinking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/en/tags/design-thinking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>STEM competition in the Schoollab Experio</title>
-      <link>//localhost:1313/en/blog/mintwettbewerb/</link>
+      <link>/en/blog/mintwettbewerb/</link>
       <pubDate>Sat, 12 Apr 2025 14:38:33 +0200</pubDate>
-      <guid>//localhost:1313/en/blog/mintwettbewerb/</guid>
+      <guid>/en/blog/mintwettbewerb/</guid>
       <description>&lt;div style=&#34;display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;!-- Text links --&gt;&#xA;  &lt;div style=&#34;flex: 2; min-width: 250px;&#34;&gt;&#xA;    &lt;p&gt;&#xA;      It&#39;s a great project that makes my heart beat faster! As part of a two-day STEM competition, we created an immersive learning environment in which students were challenged with realistic scenarios, such as earthquake missions and rainforest research. The young people faced exciting tasks. On the first day, they had to transport water as far as possible in the context of an earthquake. On the second day, they had to carry water to great heights to supply researchers in tree shelters. &lt;/p&gt;</description>
     </item>
   </channel>

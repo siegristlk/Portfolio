@@ -2,398 +2,398 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2025-05-05T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/"
+                href="/en/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/education/</loc>
+    <loc>/en/education/</loc>
     <lastmod>2025-05-05T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/education/"
+                href="/de/education/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/education/"
+                href="/en/education/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/education/university-ma/</loc>
+    <loc>/en/education/university-ma/</loc>
     <lastmod>2025-05-05T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/education/university-ma/"
+                href="/de/education/university-ma/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/education/university-ma/"
+                href="/en/education/university-ma/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/design-thinking/</loc>
+    <loc>/en/tags/design-thinking/</loc>
     <lastmod>2025-04-12T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/tags/design-thinking/"
+                href="/de/tags/design-thinking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/design-thinking/"
+                href="/en/tags/design-thinking/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/blog/mintwettbewerb/</loc>
+    <loc>/en/blog/mintwettbewerb/</loc>
     <lastmod>2025-04-12T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/blog/mintwettbewerb/"
+                href="/de/blog/mintwettbewerb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/blog/mintwettbewerb/"
+                href="/en/blog/mintwettbewerb/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <lastmod>2025-04-12T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/tags/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/"
+                href="/en/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/experience/job-3/</loc>
+    <loc>/en/experience/job-3/</loc>
     <lastmod>2024-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/experience/job-3/"
+                href="/de/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/experience/job-3/"
+                href="/en/experience/job-3/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/experience/</loc>
+    <loc>/en/experience/</loc>
     <lastmod>2024-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/experience/"
+                href="/de/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/experience/"
+                href="/en/experience/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/blog/masterthesis/</loc>
+    <loc>/en/blog/masterthesis/</loc>
     <lastmod>2024-09-12T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/blog/masterthesis/"
+                href="/de/blog/masterthesis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/blog/masterthesis/"
+                href="/en/blog/masterthesis/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/interviews/</loc>
+    <loc>/en/tags/interviews/</loc>
     <lastmod>2024-09-12T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/tags/interviews/"
+                href="/de/tags/interviews/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/interviews/"
+                href="/en/tags/interviews/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/qualitative-research/</loc>
+    <loc>/en/tags/qualitative-research/</loc>
     <lastmod>2024-09-12T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/storyboards/</loc>
-    <lastmod>2024-09-12T14:38:33+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/de/tags/storyboards/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/tags/storyboards/"
-                />
-  </url><url>
-    <loc>//localhost:1313/en/tags/user-centred-research/</loc>
+    <loc>/en/tags/storyboards/</loc>
     <lastmod>2024-09-12T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/tags/user-centred-research/"
+                href="/de/tags/storyboards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/user-centred-research/"
+                href="/en/tags/storyboards/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/projects/</loc>
+    <loc>/en/tags/user-centred-research/</loc>
+    <lastmod>2024-09-12T14:38:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/user-centred-research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/user-centred-research/"
+                />
+  </url><url>
+    <loc>/en/projects/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/projects/"
+                href="/de/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/projects/"
+                href="/en/projects/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/projects/nachhaltigkeit/</loc>
+    <loc>/en/projects/nachhaltigkeit/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/projects/nachhaltigkeit/"
+                href="/de/projects/nachhaltigkeit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/projects/nachhaltigkeit/"
+                href="/en/projects/nachhaltigkeit/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/education/university-ma-agder/</loc>
+    <loc>/en/education/university-ma-agder/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/education/university-ma-agder/"
+                href="/de/education/university-ma-agder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/education/university-ma-agder/"
+                href="/en/education/university-ma-agder/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/experience/job-2/</loc>
+    <loc>/en/experience/job-2/</loc>
     <lastmod>2023-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/experience/job-2/"
+                href="/de/experience/job-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/experience/job-2/"
+                href="/en/experience/job-2/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/education/university-ba/</loc>
+    <loc>/en/education/university-ba/</loc>
     <lastmod>2023-10-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/education/university-ba/"
+                href="/de/education/university-ba/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/education/university-ba/"
+                href="/en/education/university-ba/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/projects/digitales-museum/</loc>
+    <loc>/en/projects/digitales-museum/</loc>
     <lastmod>2023-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/projects/digitales-museum/"
+                href="/de/projects/digitales-museum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/projects/digitales-museum/"
+                href="/en/projects/digitales-museum/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/projects/storyline/</loc>
+    <loc>/en/projects/storyline/</loc>
     <lastmod>2023-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/projects/storyline/"
+                href="/de/projects/storyline/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/projects/storyline/"
+                href="/en/projects/storyline/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/projects/itea/</loc>
+    <loc>/en/projects/itea/</loc>
     <lastmod>2023-06-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/projects/itea/"
+                href="/de/projects/itea/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/projects/itea/"
+                href="/en/projects/itea/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/articulate-360/</loc>
+    <loc>/en/tags/articulate-360/</loc>
     <lastmod>2023-05-28T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/tags/articulate-360/"
+                href="/de/tags/articulate-360/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/articulate-360/"
+                href="/en/tags/articulate-360/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/didactics/</loc>
+    <loc>/en/tags/didactics/</loc>
     <lastmod>2023-05-28T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/blog/replicationcrisis/</loc>
+    <loc>/en/blog/replicationcrisis/</loc>
     <lastmod>2023-05-28T14:38:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/blog/replicationcrisis/"
+                href="/de/blog/replicationcrisis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/blog/replicationcrisis/"
+                href="/en/blog/replicationcrisis/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/interactive/</loc>
+    <loc>/en/tags/interactive/</loc>
     <lastmod>2023-05-28T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/blog/</loc>
+    <loc>/en/blog/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/blog/"
+                href="/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/blog/"
+                href="/en/blog/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/experience/job-1/</loc>
+    <loc>/en/experience/job-1/</loc>
     <lastmod>2022-12-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/experience/job-1/"
+                href="/de/experience/job-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/experience/job-1/"
+                href="/en/experience/job-1/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/education/high-school/</loc>
+    <loc>/en/education/high-school/</loc>
     <lastmod>2016-08-25T09:53:42+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/education/high-school/"
+                href="/de/education/high-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/education/high-school/"
+                href="/en/education/high-school/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/categories/"
+                href="/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/footer/footer/</loc>
+    <loc>/en/footer/footer/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/footer/footer/"
+                href="/de/footer/footer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/footer/footer/"
+                href="/en/footer/footer/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/footer/</loc>
+    <loc>/en/footer/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/footer/"
+                href="/de/footer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/footer/"
+                href="/en/footer/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/home/home/</loc>
+    <loc>/en/home/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/home/home/"
+                href="/de/home/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/home/home/"
+                href="/en/home/home/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/home/</loc>
+    <loc>/en/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/home/"
+                href="/de/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/home/"
+                href="/en/home/"
                 />
   </url>
 </urlset>

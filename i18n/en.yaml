@@ -8,9 +8,9 @@
   translation: "hugo, theme, bootstrap, adritian, lisa siegrist, personal site, portfolio, single page application"
 - id: "meta_author"
   translation: "Lisa Siegrist"
-#- id: "meta_image"
-#  translation: "/img/general/og-image.jpg"
-
+- id: "meta_image"
+  translation: "/img/favicon.ico"
+  
 ## Header
 - id: "logo_alt"
   translation: "Adritian logo"

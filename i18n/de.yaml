@@ -8,7 +8,7 @@
 - id: "meta_author"
   translation: "Lisa Siegrist"
 - id: "meta_image"
-  translation: "/img/general/og-image.jpg"
+  translation: "/img/favicon.ico"
 
 ## Header
 - id: "logo_alt"

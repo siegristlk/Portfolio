@@ -4,7 +4,7 @@ draft: false
 title: "Praktikantin bei F. Hoffmann-La Roche AG"
 jobTitle: "Praktikantin im Schullabor Experio"
 company: "F. Hoffmann-La Roche AG"
-Ort: "Basel, Switzerland"
+location: "Basel, Schweiz"
 duration: "2024-jetzt"
 companyLogo: "images/experience/Logo_Schullabor.png"
 

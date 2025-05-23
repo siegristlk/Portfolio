@@ -1,7 +1,7 @@
 ---
 date: 2024-12-01T00:00:00+01:00
 draft: false
-title: "Internship at F. Hoffmann-La Roche AG"
+title: "Internship in STEM education"
 jobTitle: "Internship at the Schoollab Experio"
 company: "F. Hoffmann-La Roche AG"
 location: "Basel, Switzerland"

@@ -1,7 +1,7 @@
 ---
 date: 2024-12-01T00:00:00+01:00
 draft: false
-title: "Praktikantin bei F. Hoffmann-La Roche AG"
+title: "Praktikantin in der MINT-Bildung"
 jobTitle: "Praktikantin im Schullabor Experio"
 company: "F. Hoffmann-La Roche AG"
 location: "Basel, Schweiz"

@@ -264,6 +264,7 @@
       "row",
       "row--padded",
       "section",
+      "section--border-botto",
       "section--border-bottom",
       "section--contact",
       "section-experience",
@@ -290,8 +291,6 @@
       "wordcount"
     ],
     "ids": [
-      "-softwarekenntnisse",
-      "-sprachkenntnisse",
       "about",
       "about-me",
       "bd-theme-footer",
